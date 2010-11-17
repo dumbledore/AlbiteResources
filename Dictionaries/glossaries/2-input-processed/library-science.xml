@@ -1,0 +1,110 @@
+<dictionary title="Library and Information Science" lang="en">
+
+<entry><word>abstract</word><definition>a brief set of statements that summarize, classifies, evaluates, or describes the important points of a text, particularly a journal article. An abstract is typically found on the first page of a scholarly article. Because an abstract summarizes an article, it is very useful for either browsing or keyword searching.</definition></entry>
+
+<entry><word>annotation</word><definition>an explanatory or critical note or commentary. Annotation is also the process of adding an explanatory or critical note or commentary to a text. Reference lists are often annotated with comments about what each resource covered and how useful it was.</definition></entry>
+
+<entry><word>appendix</word><definition>a group of supplementary material appended to a text. It is usually related to the material in the main part of the text but not so closely related to it that it should be put into the main text. Put background information and supporting facts in the appendices. An example of a file that should be put in an appendix is a file of detailed charts and graphs of recent research closely related to the paper's main topic. </definition></entry>
+
+<entry><word>archive</word><definition>a place in which historical documents and other records are preserved. Usually operated by large organizations, they may or may not be open to the public. The University of Toronto, for example has an archive that requires a five story building and contains several climate controlled vaults. A virtual archive is similar except the documents have no physical presence and seldom have historical value. </definition></entry>
+
+<entry><word>author</word><definition>an originator of a creative work, particularly a writer of a text. Searching by author can be an effective form of information gathering.</definition></entry>
+
+<entry><word>bibliography</word><definition>a list of writings related to a specific subject, writings by a specific author, or writings used in producing a specific text.</definition></entry>
+
+<entry><word>bibliographic database</word><definition>a computer based list of library resources. Typically each record contains the call number, author, title, publishing information, and other card catalog information.</definition></entry>
+
+<entry><word>boolean logic</word><definition>the algebraic system, developed by George Boole that is applied to Boolean expressions that contain Boolean operators such as AND, OR, NOT AND, and XOR (exclusive OR). This binary algebraic system is used primarily in switching circuits and database searches. Boolean operators are not to be confused with proximity operators such as NEAR..</definition></entry>
+
+<entry><word>browse</word><definition>to inspect something casually, particularly to use an internet browser to casually inspect Web pages. This involves following links from page to page (also called surfing) rather than searching directly. The main difference between browsing and searching is that with browsing you have very little advance knowledge of what will be on the next page.</definition></entry>
+
+<entry><word>call number</word><definition>an identification marker used in libraries to categorize and locate books and other resources. Each resource is assigned a combination of letters and numbers which correspond with a location in the library. For example the call number for the Publication Manual of the American Psychological Association is BF76.7 .P83 2001.</definition></entry>
+
+<entry><word>catalog</word><definition>a complete and systematically organized enumeration of items, particularly the complete enumeration of a libraries' resources on a set of paper cards (card catalog) or in an electronic database (bibliographic database).</definition></entry>
+
+<entry><word>citation</word><definition>the quoting or mentioning of a source. All works used in preparing a paper should be cited.</definition></entry>
+
+<entry><word>citation search</word><definition>a search, by name, of all references to an individual. Some databases have a specific citation search option, otherwise you use a full-text search. For an example of a database that has a specific citation search option go to the University of Michigan Library Database. </definition></entry>
+
+<entry><word>community analysis</word><definition>the analysis of a set of people.  Such analyses enable librarians to know the needs of patrons and hopefully provide better services to them.  In a city library district, the set of relevant people would be all those who live in the city or those people eligible to use the library. Analysis may also be restricted to a subset of eligible library users.</definition></entry>
+
+<entry><word>controlled vocabulary</word><definition>limiting ones searches to the exact subject headings contained in the Library of Congress. An example would be "History - Bibliography etc". Some indexes, like Wilson Indexes, have their own system of headings and hence their own controlled vocabulary.</definition></entry>
+
+<entry><word>copyright|Copyright</word><definition>the legal right granted to a copyright holder for the exclusive sale, distribution or reproduction of a creative work. It is a form of intellectual property that prevents others from using a creative work without consent of the owner. For example, Thomas Mann holds the copyright on the book The Oxford Guide to Library Research.</definition></entry>
+
+<entry><word>cross reference database</word><definition>a collection of records that have one or more fields that reference other related records. These connections (for example between "marketing" and "promotion") make browsing very productive and allow related-items searches.</definition></entry>
+
+
+<entry><word>descriptor</word><definition>an index term used to identify a record in a database. It can consist of a word, phrase, or alphanumerical term. It can describe the content of the record or be an arbitrary code. When a descriptor is descriptive, it can be an effective search parameter.</definition></entry>
+
+<entry><word>dissertation</word><definition>a written treatise or thesis, usually lengthy, usually authored by a doctoral candidate, usually directed by a faculty advisor, and usually intended to advance the state of the art in a given discipline. There can be an oral component to the process, in which the dissertation must be defended in front of critical judges. Dissertation searches are valuable because of their currency.</definition></entry>
+
+<entry><word>document delivery</word><definition>the transfer of a database record, or other information resource, to the end user. It can involve direct internet or email transfers, CD delivery via mail, paper delivery via mail, or delivery via interlibrary loan.</definition></entry>
+
+
+<entry><word>edition</word><definition>a version of a published text, or all the instances of a published text issued at a given time. An example would be the 2nd edition (2001).</definition></entry>
+
+<entry><word>entry</word><definition>any record, or a field in a record, that has been included, or entered, into a database.</definition></entry>
+
+<entry><word>entry word</word><definition>the headword in a dictionary, encyclopedia, or glossary.</definition></entry>
+
+
+<entry><word>field</word><definition>an element of a database record. It contains one type of information and has a unique address. All or most other records in the database have a similar field. An example is the field "name".</definition></entry>
+
+<entry><word>free-text search</word><definition>a simple word or character search, usually with very few Boolean, proximity, or scope limiting options. It is simple and fast.</definition></entry>
+<entry><word>free-text search</word><definition>a search in which all the entries are freed from their original format of presentation. Text that originated in a journal article looks much the same as text that originated in a glossary or chat room. </definition></entry>
+<entry><word>free-text search</word><definition>refers to the deliberate limiting of the scope of the search parameters to include only records that are available free of charge. </definition></entry>
+
+<entry><word>full text database</word><definition>a collection of records containing complete versions of the original source, rather than just bibliographies, abstracts, or abridgements. An example is JSTOR. A related concept is that of a full text search which searches only sources that are complete, and ignores those records that are mere abstracts or descriptors.</definition></entry>
+
+
+<entry><word>interlibrary loan</word><definition>when patrons of a library arrange for resources from other libraries to be sent to their library. This resource sharing system is being promoted by the International Federation of Library Associations.</definition></entry>
+
+
+<entry><word>journal</word><definition>a periodical publication that presents articles in a specific subject area. They are usually scholarly. An example is The Journal of Marketing Research.</definition></entry>
+
+
+<entry><word>keyword searching</word><definition>the searching of a database using a significant word from the title, abstract, or descriptor of a record as a point of reference to the article's overall content. This type of search is usually the best type to start with.</definition></entry>
+
+
+<entry><word>literature search</word><definition>the search of traditional resources including books, catalogs, encyclopedias, dictionaries, atlases, bibliographies, handbooks, manuals, periodicals, indexes, yearbooks, gazetteers, directories, chronologies, almanacs, and guides. It is useful because it opens up a vast world of pre-1995 information that is not available online.</definition></entry>
+
+<entry><word>menu</word><definition>a list of options from which a computer user can choose. This saves the user from having to memorize a set of commands. It also reduces the decision down to the basic information required (note the etymology from the French word minuet meaning small).</definition></entry>
+
+<entry><word>monograph</word><definition>a written document (i.e., graph) on a single subject (i.e., mono). It is usually scholarly in nature and of approximately book length. They are valuable information sources because of their depth in a limited subject area.</definition></entry>
+
+<entry><word>ODLIS</word><definition>Online Dictionary for Library and Information Sciencewas created by Joan M. Reitz, and has become one of the leading Online dictionaries in LIS. According to Reitz, ODLIS has designed as a hypertext reference resource for library and information science professionals, university students and faculty, and users of all types of libraries. </definition></entry>
+
+<entry><word>operators</word><definition>are symbols that represent operations. In computer science there are binary and unary operators depending on the number of elements or records an operator acts on. In database searching there are Boolean and Proximity operators. Boolean operators are a subclass of logical operators (Logical operators are binary operators that manipulate data at the bit level.). A Boolean operator manipulates the binary value "true/false".</definition></entry>
+
+<entry><word>online catalog</word><definition>a record of the holdings of an institution (usually a library), or group of institutions, that can be found on the internet. An example is UCSD's "Roger".</definition></entry>
+
+
+<entry><word>periodical index</word><definition>an alphabetized listing of works that are published at regular intervals of more than one day.</definition></entry>
+
+<entry><word>plagiarism</word><definition>the passing off as your own, the work of others'. Original sources are not given credit.</definition></entry>
+
+<entry><word>primary source</word><definition>the originator of a primary record. A primary record is a resource created by the same people that initially experienced or used it. They create the records for their own purposes, records that often remain unpublished. Sometimes they witness an event, sometimes they are involved in an event, and sometimes the record is directly created by the event. </definition></entry>
+
+
+<entry><word>record</word><definition>an individual entry in a database and simultaneously a collection of related data fields. Each field, although related, is of a different type to all the other fields in the record (and this is what differentiates a record from an array).</definition></entry>
+
+<entry><word>reference service</word><definition>the personal assistance provided to the library users in finding information. All the functions performed by a trained librarian employed in the reference section of a library to meet the information needs of patrons (in person, by telephone, or electronically), including but not limited to answering substantive questions, instructing users in the selection and use of appropriate tools and techniques for finding information, conducting searches on behalf of the patron, directing users to the location of library resources, assisting in the evaluation of information, referring patrons to resources outside the library when appropriate, etc. are regarded as the services provided under library reference services.</definition></entry>
+
+<entry><word>review article</word><definition>a periodical article that describes, analyses', and criticizes a book, journal article, movie, or other creative or academic work.</definition></entry>
+
+
+<entry><word>scholarly article</word><definition>an article, usually in a scholarly journal, that deals with academic subject matter at an advanced level.</definition></entry>
+
+<entry><word>search strategy</word><definition>a generalized set of technique used in the process of determining what information you currently have, determining what information you need, and determining how to get it. Some possible strategies include; controlled vocabulary searches, specific entry searches, browsing, general scanning, broad to narrow searches, adjacent item browsing, subject tracings searches, keyword searches, citation searches, literature searches, cross reference searches, and chat room questions and other direct people contact searches.</definition></entry>
+
+<entry><word>subject heading</word><definition>the name of the category that a record is included under. For example, the record "natural frequency of vibration" might be found under the subject heading of "Acoustics", and acoustics, in tern, might be found under the subject heading "Physics". </definition></entry>
+
+<entry><word>subject directory</word><definition>an hierarchical grouping of related subject headings. The tree structure shows relationships between subject headings. They can be found either inside a database or separate from a data base.</definition></entry>
+
+
+<entry><word>thesaurus</word><definition>generally a book of synonyms, often also containing antonyms. An example is Roget's Thesaurus. In database searching, a thesaurus strategy is to use multiple iterations to search for related words and generate results. The database will often suggest synonyms and related words to try.</definition></entry>
+
+<entry><word>truncation</word><definition>the shortening of a search word, field, or record. In the case of truncating a search word, this is a strategy used to search among multiple variants or spellings of a word. The asterisk (*) is generally used as a wildcard to replace a letter or letters. An example is invest* which will pick up instances of invest, investor, investments, investigations, etc. In some databases the asterisk must be accompanied with a number that define the number of characters that can be truncated.</definition></entry>
+
+</dictionary>

@@ -1,0 +1,486 @@
+This is a '''glossary of [[nautical]] terms'''; some remain current, many date from the 17th-19th century. 
+{{compactTOC}}
+__NOTOC__
+
+== A ==
+* '''above board''' - On or above the deck, in plain view, not hiding anything.
+* '''act of pardon''' / '''act of grace''' - A letter from a state or power authorising action by a [[privateer]]. Also see [[#letter of marque and reprisal|letter of marque]].
+* '''[[abaft]]''' - Towards the stern, relative to some object ("abaft the fore hatch")
+* '''abaft the beam''' - A relative bearing of greater than 90 degrees from the bow. e.g. "two points abaft the port beam."
+*'''abandon ship''' - An imperative to leave the vessel immediately, usually in the face of some imminent danger.
+* '''abeam''' - 'On the beam', a relative bearing at right angles to the centerline of the ship's [[keel]].
+* '''Abel Brown''' - A sea song (shanty) about a young sailor trying to sleep with a maiden. [http://www.traditionalmusic.co.uk/sea-shanty/Abel_Brown_the_Sailor.htm].
+* '''aboard''' - On or in a vessel. - ''Close aboard'' means near a ship.
+* '''absentee pennant''' - Special pennant flown to indicate absence of commanding officer, admiral, his chief of staff, or officer whose flag is flying (division, squadron, or flotilla commander).
+* '''accommodation ladder''' - A portable flight of steps down a ship's side.
+* '''[[admiralty]]''' - a high naval authority in charge of a state's Navy or a major territorial component. In the Royal Navy (UK) the Board of Admiralty, executing the office of the Lord High Admiral, promulgates Naval law in the form of Queen's (or King's) Regulations and Admiralty Instructions.
+* '''[[admiralty law]]''' - Body of law that deals with maritime cases. In UK administered by the Probate, Divorce and Admiralty Division of the High Court of Justice.
+* '''[[adrift]]''' - Afloat and unattached in any way to the shore or seabed.  It may also imply that a vessel is not anchored and not under control, therefore goes where the wind and current take her, (Loose from moorings, or out of place).
+* '''advance note''' - A note for one month's wages issued to sailors on their signing a ship's articles.
+* '''[[aft]]''' - Towards the stern (of the vessel)
+* '''afternoon [[Watch (shift)|watch]]''' - The 1200-1600 watch.
+* '''[[aground]]''' - Resting on or touching the ground or bottom.
+* '''[[ahead]]''' - Forward of the bow.
+* '''[[ahoy]]''' - A cry to draw attention.  Term used to hail a boat or a ship, as "''Boat ahoy!''"
+* '''aid to navigation''' - (ATON) Any device external to a vessel or aircraft specifically intended to assist navigators in determining their position or safe course, or to warn them of dangers or obstructions to navigation.
+* '''[[all hands]]''' - Entire ship's company, both officers and enlisted personnel.
+* '''all night in''' - Having no night watches.
+* '''[[aloft]]''' - Above the ship's uppermost solid structure; overhead or high above.
+* '''Alongside''' - By the side of a ship or pier.
+* '''[[amidships]] (or [[midships]])''' - In the middle portion of ship, along the line of the keel.
+* '''[[anchor]]''' - An object designed to prevent or slow the drift of a ship, attached to the ship by a line or chain; typically a [[metal]], hook like, object designed to grip the bottom under the body of water.
+* '''[[anchorage]]''' - A suitable place for a ship to anchor.  Area of a port or harbor.
+* '''[[anchor's aweigh]]''' - Said of an anchor when just clear of the bottom.
+* '''anchor ball''' - Black shape hoisted in forepart of a ship to show that ship is anchored in a fairway.
+* '''anchor buoy''' - A small buoy secured by a light line to anchor to indicate position of anchor on bottom.
+* '''anchor cable''' - Wire or line running between anchor and ship.
+* '''anchor chain''' - Heavy stud-linked chain running between anchor and ship.
+* '''anchor detail''' - Group of men who handle ground tackle when the ship is anchoring or getting underway.
+* '''anchor light''' - White light displayed by a ship at anchor.  Two such lights are displayed by a ship over 150 feet in length.
+* '''anchor watch''' - Making sure that the anchor is holding and the vessel is not drifting. Important during rough weather and at night.  Most marine [[GPS]] units have an Anchor Watch alarm capability.
+* '''arc of visibility''' - The portion of the horizon over which a lighted aid to navigation is visible from seaward.
+* '''[[armament]]''' - A ship's weapons.
+* '''[[articles of war]]''' - Regulations governing the [[military]] and [[naval]] forces of [[UK]] and [[USA]]; read to every ship's company on [[commissioning]] and at specified intervals during the commission. 
+* '''[[ashore]]''' - On the beach, shore or land.
+* '''[[astern]]''' - Toward the stern; an object or vessel that is abaft another vessel or object.
+* '''ASW''' - Anti-submarine warfare.
+* '''athwart, athwartships''' - At right angles to the fore and aft or centerline of a ship
+* '''[[avast]]''' - Stop!  Cease or desist from whatever is being done.
+* '''[[awash]]''' - So low in the water that the water is constantly washing across the surface.
+* '''[[aweigh]]''' - Position of an anchor just clear of the bottom.
+* '''[[aye]], aye''' - Reply to an order or command to indicate that it first heard, and second is understood and will be carried out.  ("Aye, aye, sir" to officers)
+* '''[[azimuth]] [[compass]]''' - An instrument employed for ascertaining the sun's magnetic azimuth.  The azimuth of an object is its bearing from the observer measured as an angle clockwise from true north.
+* '''azimuth circle''' - Instrument used to take bearings of celestial objects.
+
+== B ==
+* '''back and fill''' - To use the advantage of the tide being with you when the wind is not.
+* '''[[backstay]]s''' - Long lines or cables, reaching from the rear of the vessel to the mast heads, used to support the mast.
+* '''[[baggywrinkle]]''' - A soft covering for cables (or any other obstructions) that prevents sail chafing from occurring.
+* '''[[bank]]''' -  A large area of elevated sea floor.
+* '''bar''' - Large mass of sand or earth, formed by the surge of the sea. They are mostly found at the entrances of great rivers or havens, and often render navigation extremely dangerous, but confer tranquility once inside. See also: Touch and go, grounding. Alfred Lord Tenneyson's poem 'Crossing the bar' an allegory for death.
+* '''[[bar pilot]]''' - A bar pilot guides ships over the dangerous sandbars at the mouth of rivers and bays.
+* '''[[beacon]]''' - A lighted or unlighted fixed aid to navigation attached directly to the earth’s surface. (Lights and daybeacons both constitute beacons.)
+* '''[[beam]]''' - The beam of a ship is its width at the widest point, or a point alongside the ship at the mid-point of its length.
+* '''bear''' - Large squared off stone used for scraping clean the deck of a sailing man-of-war.
+* '''[[bear down]]''' - Turn away from the wind, often with reference to a transit.
+* '''bearing''' - The horizontal direction of a line of sight between two objects on the surface of the earth.
+* '''before the mast''' - Literally, the area of a ship before the foremast (the forecastle). Most often used to describe men whose living quarters are located here, officers being housed behind (abaft) the mast and enlisted men before the mast. This was because the midships area where the officers were berthed is more stable, being closer to the center of gravity, and thus more comfortable.  It is less subject to the up and down movement resulting from the ship's pitching.
+* '''belaying pins''' - Bars of iron or hard wood to which running rigging may be secured, or ''belayed''.
+* '''[[berth]]''' - A bed on a boat, or a space in a port or harbour where a vessel can be tied up.
+* '''between the Devil and the deep blue sea''' - See Devil seam.
+* '''bilged on her anchor''' - A ship that has run upon her own anchor.
+* '''[[bimini]]''' - Weather-resistant fabric stretched over a stainless steel frame, fastened above the cockpit of a sailboat or flybridge of a power yacht which serves as a rain or sun shade. 
+* '''[[bimmy]]''' - A punitive instrument
+* '''[[binnacle]]''' - The stand on which the ship's compass is mounted.
+* '''binnacle list''' - A ship's sick list. The list of men unable to report for duty was given to the officer or mate of the watch by the ship's surgeon. The list was kept at the binnacle.
+* '''bitt, plural bitts''' - Posts mounted on the ship's bow, merely comprising two wooden uprights supporting a crossbar, for fastening ropes or cables; also used on various ships to tie boys over for painful (posterior) discipline, more informally then kissing the [[gunner's daughter]].
+* '''bitter end''' - The anchor cable is tied to the bitts, when the cable is fully paid out, the bitter end has been reached. The last part of a rope or cable.
+* '''bloody''' - An intensive derived from the substantive 'blood', a name applied to the Bucks, Scrowers, and Mohocks of the seventeenth centuries.
+* '''Blue Peter''' - A blue and white flag hoisted at the foretrucks of ships about to sail.
+* '''[[boat]]''' - A craft or vessel designed to float on, and provide transport over, water. 
+* '''[[boatswain]]''' or '''bosun''' - A non-commissioned officer responsible for the sails, ropes and boats on a ship who issues "piped" commands to seamen.
+* '''[[bollard]]''' - From 'bol' or 'bole', the round trunk of a tree. A substantial vertical pillar to which lines may be made fast. Generally on the quayside rather than the ship.
+* '''Bombay runner''' - Large cockroach.
+* '''Bonded Jacky''' - A type of tobacco or sweet cake.
+* '''booby''' - A type of bird that has little fear and therefore is particularly easy to catch, hence booby prize.
+* '''booby hatch''' - A sliding hatch or cover.
+* '''[[boom]]''' - A spar used to extend the foot of a sail.
+* '''booms''' - Masts or yards, lying on board in reserve.
+* '''[[boom vang]]''' (vang) - A [[sail]] control that lets one apply downward tension on the boom, countering the upward tension provided by the [[mainsail]]. The boom vang adds an element of control to mainsail shape when the mainsheet is let out enough that it no longer pulls the boom down. Boom vang tension helps control leech twist, a primary component of sail power.
+* '''[[buoy]]''' - A floating object of defined shape and color, which is anchored at a given position and serves as an aid to navigation.
+* '''[[bow]]''' - The front of a ship.
+* '''bow-chaser, chase or chase-piece''' - A long gun with a relatively small bore, placed in the bow-port to fire directly ahead. Used especially while chasing an enemy vessel to damage its sails and rigging. (quoted from ''A Sea of Words'') 
+* '''[[bowline]]''' - A type of knot, producing a strong loop of a fixed size, topologically similar to a sheet bend. Also a rope attached to the side of a sail to pull it towards the bow (for keeping the windward edge of the sail steady).
+* '''bowse''' - To pull or hoist.
+* '''[[bowsprit]]''' - A spar projecting from the bow used as an anchor for the forestay and other rigging.
+* '''[[boy seaman]]''' - a young sailor, still in training 
+* '''[[brail]]''' - To furl or truss a sail by pulling it in towards the mast, or the ropes used to do so.
+* '''brake''' - The handle of the pump, by which it is worked.
+* '''[[brass monkeys]]''' or '''brass monkey weather''' - Very cold weather. The origin is unknown, though various folk etymologies exist.
+*'''[[bridge]]''' - A structure above the weather deck, extending the full width of the vessel, which houses a command centre, itself called by association, the bridge.
+* '''bring to''' - Cause a ship to be stationary by arranging the sails.
+* '''broaching-to''' - A sudden movement in navigation, when the ship, while scudding before the wind, accidentally turns her leeward side to windward, also use to describe the point when water starts to come over the gunwhale due to this turn.
+* '''buffer''' - The chief bosun's mate (in the Royal Navy), responsible for discipline.
+* '''[[bulkhead]]''' - An upright wall within the hull of a ship.
+* '''Bull of Barney''' - A beast mentioned in an obscene sea proverb.
+* '''[[bulwark]]''' - The extension of the ship's side above the level of the weather deck.
+* '''bumboat''' - A private boat selling goods.
+* '''[[bumpkin]]''' - An iron bar (projecting out-board from a ship's side) to which the lower and topsail brace blocks are sometimes hooked. Chains supporting/stabilising the bowsprit.
+* '''bunked''' - One's afflicted disposition after being talked to by a driveling idiot. 
+* '''buntline''' - One of the lines tied to the bottom of a square sail and used to haul it up to the yard when furling.
+* '''bunting tosser''' - A [[signalman]] who prepares and flys flag [[hoists]].
+* '''buoyed up''' - Lifted by a buoy, especially a cable that has been lifted to prevent it from trailing on the bottom.
+* '''by and large''' - '''By''' means into the wind, while '''large''' means with the wind. '''By and large''' is used to indicate all possible situations "''the ship handles well both by and large''".
+* '''by the board''' - Anything that has gone overboard.
+
+== C ==
+* '''[[cabin]]''' - an enclosed room on a [[deck]] or flat.
+* '''[[cabin boy]]''' - attendant on passengers and crew 
+* '''cable''' - A large rope.  Also a measure of length or distance - (UK) 1/10 nautical mile, approx. 600 feet; (USA) 120 fathoms, 720 feet (219 m); Other countries use different values.
+* '''canister''' - a type of anti personnel canon load in which lead balls or other loose metallic items were enclosed in a tin or iron shell.  On firing the shell would disintegrate releasing the smaller metal objects.  
+* '''Cape Horn fever''' - The name of the fake illness a malingerer is pretending to suffer from.
+* '''[[capsize]]''' - When a ship or boat lists too far and rolls over, exposing the keel. On large vessels, this often results in the sinking of the ship.
+* '''[[capstan]]''' - A rotating wheel mounted vertically, used to wind in anchors or other heavy objects; and sometimes to administer flogging over.
+* '''captain's daughter''' - The [[cat o' nine tails]], which in principle is only used on board on the captain's (or a court martial's) personal orders
+* '''[[careening]]''' - Cause the ship to tilt on its side, usually to clean or repair the hull below the water line.
+* '''cat''' - 1. To prepare an anchor, after raising it by lifting it with a tackle to the Cat Head, prior to securing (fishing) it alongside for sea. (An anchor raised to the Cat Head is said to be ''catted''). 2. The Cat o' Nine Tails (see below). 3. A cat-rigged boat or ''catboat''.
+*'''[[catamaran]]''' - A vessel with two hulls.
+*'''[[catboat]]''' - A cat-rigged vessel with only one sail, usually on a gaff.
+* '''[[cat o' nine tails]]''' - A short nine-tailed [[whip]] kept by the bosun's mate to [[flagellation|flog]] sailors (and soldiers in the Army).
+* '''cat head''' - A beam extending out from the hull used to support an anchor when raised in order to secure or 'fish' it.
+* '''[[centreboard]]''' - A removable keel used to resist leeway.
+* '''[[chafing]]''' - Wear on line or sail caused by constant rubbing against another surface.
+* '''chafing gear''' - Material applied to a line or spar to prevent or reduce chafing. See [[baggywrinkle]].
+* '''[[chain shot]]''' - Cannon balls linked with chain - used to damage rigging and masts.
+* ''' chain-wale or channel''' - A broad, thick plank that projects horizontally from each of a ship's sides abreast a mast, distinguished as the fore, main, or mizzen channel accordingly, serving to extend the base for the shrouds, which supports the mast. 
+* '''chase guns''' - Cannons mounted on the bow or stern. Those on the bow could be used to fire upon a ship ahead, while those on the rear could be used to ward off pursuing vessels.
+* '''[[chine]]''' - A relatively sharp angle in the hull, as compared to the rounded bottoms of most traditional boat hulls.
+* '''[[chock-a-block]]''' - Rigging blocks that are so tight against one another that they cannot be further tightened.
+* '''[[clean bill of health]]''' - A certificate issued by a port indicating that the ship carries no infectious diseases.
+* '''[[clean slate]]''' - At the helm, the watch keeper would record details of speed, distances, headings, etc. on a slate. At the beginning of a new watch the slate would be wiped clean.
+* '''[[cleat]]''' - A stationary device used to secure a rope aboard a vessel.
+* '''clew-lines''' - Used to truss up the [[Parts of a sail#The corners|clews]], the lower corners of square sails.
+*'''club hauling''' The ship drops one of its anchors at high speed to turn abruptly. This was sometimes used as a means to get a good firing angle on a pursuing vessel.
+* '''[[coaming]]''' - The raised edge of a hatchway used to help keep out water.
+* '''companionway''' - A steep staircase or ladder used to move between decks.
+* '''[[compass]]''' - Navigational instrument that revolutionised travel.
+* '''[[corrector]]''' - a device to correct the ship's compass.
+* '''courses''' - The mainsail, [[foresail]], and the mizzen.
+* '''[[coxswain]]''' or '''cockswain''' - The helmsman or crew member in command of a boat.
+* '''as the crow flies''' - A direct line between two points (which might cross land) which is the way crows travel rather than ships which must go around land.
+* '''crow's nest''' - Specifically a masthead constructed with sides and sometimes a roof to shelter the lookouts from the weather, generally by whaling vessels, this term has become a generic term for what is properly called masthead. See masthead.
+* '''[[cuddy]]''' - A small cabin in a boat. 
+* '''[[cunningham]]''' - A line invented by [[w:Briggs Cunningham|Briggs Cunningham]], used to control the shape of a sail.
+* '''[[cunt splice]]''' - A join between two lines, similar to an eye-splice, where each rope end is joined to the other a short distance along, making an opening which closes under tension.
+* '''cuntline''' - The "valley" between the strands of a rope or cable. Before serving a section of laid rope e.g. to protect it from chafing, it may be "wormed" by laying yarns in the cuntlines, giving that section an even cylindrical shape.  
+* '''[[cut and run]]''' - When wanting to make a quick escape, a ship might cut lashings to sails or cables for anchors, causing damage to the rigging, or losing an anchor, but shortening the time needed to make ready by bypassing the proper procedures.
+* '''cut of his jib''' - The "cut" of a sail refers to its shape. Since this would vary between ships, it could be used both to identify a familiar vessel at a distance, and to judge the possible sailing qualities of an unknown one.
+
+== D ==
+* '''[[daggerboard]]''' - A type of [[centerboard]] that is removed vertically.
+* '''[[daybeacon]]''' -  An unlighted fixed structure which is equipped with a dayboard for daytime identification.
+* '''dayboard''' - The daytime identifier of an aid to navigation presenting one of several standard shapes (square, triangle, rectangle) and colors (red, green, white, orange, yellow, or black).
+* '''[[deck]]s''' - the structures forming the approximately horizontal surfaces in the ship's general structure. Unlike flats, they are a structural part of the ship.
+* '''[[deckhead]]''' - The under-side of the deck above. Sometimes panelled over to hide the pipe work. This panelling, like that lining the bottom and sides of the holds, is the ceiling.
+* '''[[deadeye]]''' - A round wooden blank which serves a similar purpose to a [[block]] in the standing [[rigging]] of large sailing vessels.
+* '''deadrise''' - The design angle between the keel (q.v.) and horizontal.
+* '''[[derrick]]''' - A lifting device composed of one mast or pole and a boom or jib which is hinged freely at the bottom. 
+* '''devil seam''' - The curved seam in the deck planking closest to the side of the ship, next to the scuppers. A sailor slipping on the deck would be "''between the Devil and the deep blue sea''".
+* '''devil to pay''' - 'Paying' the Devil is sealing the devil seam. It is a difficult and unpleasant job (with no resources) because of the shape of the seam (closest to the hull).
+* '''[[directional Light]]''' - A light illuminating a sector or very narrow angle and intended to mark a direction to be followed.
+* '''[[dog watch]]''' - A short [[watch]] period, generally half the usual time (e.g. a two hour watch between two four hour ones). Such a watch might be included in order to slowly rotate the system over several days for fairness, or to allow both watches to eat their meals at approximately normal times.
+* '''[[dolphin]]''' - A structure consisting of a number of piles driven into the seabed or riverbed in a circular pattern and drawn together with wire rope.
+* '''[[downhaul]]''' - A line used to control either a mobile [[spar]], or the shape of a sail.
+* '''[[draft]]''' - The depth of a ship's keel below the waterline.
+* '''[[draught]]''' - See draft.
+* '''dressing down''' - Treating old sails with oil or wax to renew them, or a verbal reprimand.
+* '''driver''' - The large sail flown from the mizzen gaff.
+
+== E ==
+* '''earrings''' - Small lines, by which the uppermost corners of the largest sails are secured to the yardarms.
+* '''embayed''' - The condition where a sailing vessel is confined between two capes or headlands, typically where the wind is blowing directly onshore.
+* '''extremis''' – (also known as “in extremis”) the point under International Rules of the Road ([[w:International Regulations for Preventing Collisions at Sea|Navigation Rules]]) at which the privileged (or stand-on) vessel on collision course with a burdened (or give-way) vessel determines it must maneuver to avoid a collision.  Prior to extremis, the privileged vessel must maintain course and speed and the burdened vessel must maneuver to avoid collision.
+
+== F ==
+* '''[[fathom]]''' - A unit of length equal to 6 feet, roughly measured as the distance between a man's outstretched hands. 
+* '''[[fender]]''' - An air or foam filled bumper used in boating to keep boats from banging into docks or each other.
+* '''[[figurehead]]''' - symbolic image at the head of a traditional sailing ship or early steamer.
+* '''[[fireship]]''' - A ship loaded with flammable materials and explosives and sailed into an enemy port or fleet either already burning or ready to be set alight by its crew (who would then abandon it) in order to collide with and set fire to enemy ships.
+* '''[[first rate]]''' - The classification for the largest sailing warships of the 17th through 19th centuries. They had 3 masts, 850+ crew and 100+ guns.
+* '''[[fish]]''' - 1. To repair a mast or spar with a fillet of wood.  2. To secure an anchor on the side of the ship for sea (otherwise known as "catting".)
+*'''[[first lieutenant]]''' - In the Royal Navy, the senior [[lieutenant]] on board; responsible to the [[commander]] for the domestic affairs of the ship's company. Also known as 'Jimmy the One' or 'Number One'. Removes his cap when visiting the mess decks as token of respect for the privacy of the crew in those quarters. Officer i/c cables on the [[forecastle]].
+*'''[[first mate]]''' - The Second in command of a ship
+* '''flag hoist''' - A number of signal flags strung together to convey a message, e.g. 'England expects...'.
+* '''flank''' - The maximum speed of a ship.  Faster than "full speed".
+* '''flatback''' -A Great Lakes slang term for a vessel without any self unloading equipment.
+* '''[[fluke]]''' - The wedge-shaped part of an anchor's arms that digs into the bottom.
+* '''[[fly-by-night]]''' - A large sail used only for sailing downwind, requiring little attention.
+* '''[[Parts of a sail#The edges|foot]]''' - The bottom of a sail.
+* '''[[footloose]]''' - If the foot of a sail is not secured properly, it is footloose, blowing around in the wind.
+* '''[[footrope]]''' - Each yard on a square rigged sailing ship is equipped with a footrope for sailors to stand on while setting or stowing the sails
+* '''[[forecastle]]''' - A partial deck, above the upper deck and at the head of the vessel; traditionally the sailors' living quarters.
+* '''founder''' - To fill with water and sink ''[[founder|> Wiktionary]]''
+* '''[[fore]]''' - Towards the bow (of the vessel).
+* '''foremast jack''' - An enlisted sailor, one who is housed before the foremast.
+* '''[[forestay]]s''' - Long lines or cables, reaching from the front of the vessel to the mast heads, used to support the mast.
+* '''[[freeboard]]''' - The height of a ship's hull (excluding superstructure) above the waterline. The vertical distance from the current waterline to the lowest point on the highest continuous watertight deck. This usually varies from one part to another.
+* '''furl''' - To roll or wrap a sail around the mast or spar to which it is attached.
+
+== G ==
+* '''[[gaff]]''' - The spar that holds the upper edge of a sail.  Also a long hook with a sharp point to haul fish in.
+* '''[[galley]]''' - the kitchen of the ship
+* '''garbled''' - Garbling was the (illegal) practice of mixing cargo with garbage.
+* '''[[global positioning system]]''' - (GPS) A satellite based radionavigation system providing continuous worldwide coverage. It provides navigation, position, and timing information to air, marine, and land users.
+* '''[[grapeshot]]''' - Small balls of lead fired from a [[cannon]], similar to [[shotgun]] shot on a larger scale. Used to hurt people, rather than cause structural damage.
+* '''[[grog]]''' - Watered-down [[Pusser's]] rum - half a gill with equal part of water issued to all seamen over twenty. (CPOs and POs were issued with neat rum)  From the British Admiral Vernon who, in 1740, ordered the men's ration of rum to be watered down. He was called "Old Grogram" because he often wore a [[grogram]] coat), and the watered rum came to be called 'grog'. Often used (illegally) as currency    in exchange for favours in quantities prescribed as 'sippers' and 'gulpers'. Additional issues of grog were made on the command '[[splice the mainbrace]]' for celebrations or as a reward for performing especially onerous duties. The RN discontinued the practice of issuing rum in 1970. 
+* '''groggy''' - Drunk from having consumed a lot of grog.
+* gunner's daughter - see Kissing the G.'s D.
+* '''[[gunwale]]''' - Upper edge of the hull.
+
+== H ==
+* '''[[halyard]]''' or '''Halliard''' - Originally, ropes used for hoisting a spar with a sail attached; today, a line used to raise the head of any sail.
+* '''[[hammock]]''' - Canvas sheets, slung from the [[deckhead]] in [[messdeck]]s, in which seamen slept. "Lash up and stow" a piped command to tie up hammocks and stow  them (typically) in racks inboard of the ship's side to protect crew from splinters from shot and provide a ready means of preventing flooding caused by damage. 
+*'''hand bomber''' - A ship who's boilers are fueled by coal shoveled in by hand.
+*'''hand over fist''' - To climb steadily upwards, from the motion of a sailor climbing shrouds on a sailing ship (originally "hand over hand").
+*'''hank''' - A fastener attached to the [[luff]] of the [[headsail]] that attaches the headsail to the [[forestay]]. Typical designs include a bronze or plastic hook with a spring-operated gate, or a strip of cloth webbing with a snap fastener. 
+* '''[[harbor]]''' - A harbor or harbour, or haven, is a place where ships may shelter from the weather or are stored. Harbours can be man-made or natural. 
+* '''[[haul wind]]''' - To point the ship so as to be heading in the same direction as the wind, to maximise speed.
+* '''hawse-hole''' - A hole in a ship's bow for a cable, such as for an anchor, to pass through.
+* '''[[hawsepiper]]''' -  An informal maritime industry term used to refer to a merchant ship’s officer who began his or her career as an unlicensed merchant seaman and did not attend a traditional maritime college/academy to earn the officer license.
+* '''[[head]]''' - The [[toilet]] or [[latrine]] of a vessel, which for sailing ships projected from the bows
+* '''[[head of navigation]]''' - A term used to describe the farthest point above the mouth of a river that can be navigated by ships.
+* '''[[headsail]]''' - Any sail flown in front of the most forward [[mast]].
+* '''heave''' - A vessel's transient up-and-down motion.
+* '''[[heaving to]]''' - To stop a sailing vessel by lashing the helm in opposition to the sails. The vessel will gradually drift to leeward, the speed of the drift depending on the vessel's design.
+* '''heave down''' - Turn a ship on its side (for cleaning).
+* '''[[helmsman]]''' - A person who steers a ship
+* '''[[hogging]]''' or '''hog''' - The distortion of the hull where the ends of the [[keel]] are lower than the center.
+* '''[[hold]]''' - In earlier use, below the orlop deck, the lower part of the interior of a ship's hull, especially when considered as storage space, as for cargo. In later merchant vessels it extended up through the decks to the underside of the weather deck.
+* '''holiday''' - A gap in the coverage of newly applied paint, slush, tar or other preservative.
+* '''[[holystone]]''' - A chunk of [[sandstone]] used to scrub the decks. The name comes from both the kneeling position sailors adopt to scrub the deck (reminiscent of genuflection for prayer), and the stone itself (which resembled a Bible in shape and size).
+* '''horn''' - A sound signal which uses electricity or compressed air to vibrate a disc diaphragm.
+* '''horse''' - Attachment of sheets to deck of vessel ('Main-sheet horse).
+* '''hounds''' - Attachments of stays to masts.
+* '''[[hull]]''' - The shell and framework of the basic flotation-oriented part of a ship
+* '''[[hydrofoil]]''' - A boat with wing-like foils mounted on struts below the hull.
+
+== I ==
+* '''[[icing]]''' - A serious hazard where cold temperatures (below about -10°C) combined with high wind speed (typically force 8 or above on the Beaufort scale) result in spray blown off the sea freezing immediately on contact with the ship
+* '''in the offing''' - In the water visible from on board a ship, now used to mean something imminent.
+* '''in transit''' – When one object is directly in front of the other, they are said to be `in transit'.  Used in sailing as a navigation aid, especially in ports when the 'transit-line'  from two 'leading lights' is used to guide vessels along the safe channel to port.
+* '''inboard-outboard drive system''' - A larger [[power boat]] alternative drive system to [[transom]] mounted [[outboard motor]]s.
+
+== J ==
+* '''Jack''' - Either a flag, or a sailor. Typically the flag was talked about as if it were a member of the crew.
+* '''[[Jackline]]s''' or '''Jack Stays''' - Lines, often steel wire with a plastic jacket, from the bow to the stern on both port and starboard. The Jack Lines are used to clip on the safety harness to secure the crew to the vessel while giving them the freedom to walk on the deck. 
+* '''[[Jack Tar]]''' - A sailor dressed in 'square rig' - (now) with square collar - (formerly) with tarred pigtail.
+* '''[[jib]]''' - A triangular [[staysail]] at the front of a ship.
+
+== K ==
+* '''[[killick]]''' - A small anchor. A fouled killick is the substantive badge of non-commissioned officers in the RN. Seamen promoted to the first step in the promotion ladder are called 'Killick'. The badge signifies that here is an Able Seaman skilled to cope with the awkward job of dealing with a fouled anchor.
+* '''[[keel]]''' - The central structural basis of the hull
+* '''[[keelhauling]]''' - Maritime punishment: to punish by dragging under the keel of a ship.
+* '''[[kelson]]''' - The timber immediately above the keel of a wooden ship.
+* '''[[kissing the gunner's daughter]]''' - bend over the barrel of a gun for punitive spanking with a cane or cat 
+* '''know the ropes''' - A sailor who 'knows the ropes' is familiar with the miles of cordage and ropes involved in running a ship.
+
+== L ==
+* '''ladder''' - On board a ship, all "stairs" are called ladders, except for literal staircases aboard passenger ships. Most "stairs" on a ship are narrow and nearly vertical, hence the name. Believed to be from the Anglo-Saxon word hiaeder, meaning ladder.
+* '''Laker''' -Great Lakes slang for a vessel who spends all its time on the 5 Great Lakes.
+* '''Land lubber''' - A person unfamiliar with being on the sea.
+* '''[[lanyard]]''' - A rope that ties something off.
+* '''[[larboard]]''' - The left side of the ship (archaic, see port)- cf. '''[[starboard]]'''.
+* '''large''' - See '''By and large'''.
+* '''lateral System''' - A system of aids to navigation in which characteristics of buoys and beacons indicate the sides of the channel or route relative to a conventional direction of buoyage (usually upstream).
+* '''lay ''' - To come and go, used in giving orders to the crew, such as "lay forward" or "lay aloft". To direct the course of vessel. Also, to twist the strands of a rope together. 
+* '''lay down''' - To lay a ship down is to begin construction in a [[shipyard]].
+* '''[[league]]''' - A unit of length, normally equal to three [[nautical mile]]s.
+* '''leech''' - The aft or trailing edge of a fore-and-aft sail; the leeward edge of a spinnaker; a vertical edge of a square sail. The leech is susceptible to twist, which is controlled by the boom vang and mainsheet.
+* '''lee side''' - The side of a ship sheltered from the wind (cf. weather side).
+* '''[[lee shore]]''' - A shore downwind of a ship. A ship which cannot sail well to windward risks being blown onto a lee shore and grounded.
+* '''[[leeway]]''' - The amount that a ship is blown leeward by the wind. See also ''weatherly''. 
+* '''[[leeward]]''' - In the direction that the wind is blowing towards.
+* '''let go and haul''' - An order indicating that the ship is in line with the wind.
+* '''let the cat out of the bag''' - To break bad news (the "cat o' nine tails" being taken out of the bag by the bosun was bad news, announcing a flogging).
+* '''[[letter of marque and reprisal]]''' - A warrant granted to a [[privateer]] condoning specific acts of piracy against a target as a redress for grievances.
+* '''lifeboat''' - A small steel or wood boat located near the stern of a vessel. Used to get the crew to saftey if something happens to the mothership.
+* '''line''' - the correct nautical term for the majority of the cordage or "ropes" used on a vessel. A line will always have a more specific name, such as [[mizzen]] [[topsail]] [[halyard]], which describes its use.
+* '''[[liner]]''' - Ship of The Line: a major warship capable of taking its place in the main (battle) line of fighting ships.  Hence modern term for most prestigious passenger vessel: ''liner''.
+* '''list''' - The vessel's angle of lean or tilt to one side, in the direction called roll.
+* '''Loaded to the gunwales''' - Literally, having cargo loaded as high as the ship's rail; also means extremely drunk.
+* '''loggerhead''' - An iron ball attached to a long handle, used for driving caulking into seams and (occasionally) in a fight.  Hence: 'at loggerheads'.
+*  '''lubber's line'''  - A vertical line inside a compass case indicating the direction of the ship's head.
+* '''[[luff]]''' - 1. The foreward edge of a sail. 2. To head a sailing vessel more towards the direction of the wind. 
+* '''[[luffing]]'''  1. When a sailing vessel is steered more to [[windward]]. 2.  Loosening a [[sheet]] past optimal trim. 3. The flapping of the sail(s) which results.
+*'''[[lying ahull]]''' - Waiting out a storm by dousing all sails and simply letting the boat drift.
+
+== M ==
+* '''mainbrace''' - The [[brace]] attached to the [[mainmast]].
+* '''[[mainmast]]''' (or Main) - The tallest mast on a ship.
+* '''[[mainsheet]]''' - Sail control line that allows the most obvious effect on [[mainsail]] trim. Primarily used to control the angle of the boom, and thereby the mainsail, this control can also increase or decrease downward tension on the [[boom]] while sailing upwind, significantly affecting sail shape. For more control over downward tension on the boom, use a [[boom vang]].
+* '''malingerer''' - a sailor who feigns illness to avoid duty.
+* '''[[man of war]]''' - a [[warship]] from the age of sail.
+* '''[[man overboard]]!''' - A cry let out when a seaman has gone overboard
+* '''[[marina]]''' - a docking facility for small ships and yachts.
+* '''[[marines]]''' Soldiers afloat. [[Royal Marines]] formed as the Duke of York and Albany's Maritime Regiment of Foot in 1664 with many and varied duties including providing guard to ship's officers should there be mutiny aboard. Sometimes thought by seamen to be rather gullible - hence 'tell it to the marines' who might believe your tall tale.
+* '''[[mast]]''' - A vertical pole on a ship which supports sails or rigging.
+* '''masthead''' - A small platform partway up the mast, just above the height of the mast's main yard. A lookout is stationed here, and men who are working on the main yard will embark from here.  See also Crow's Nest.
+* '''[[master]]''' - Either the commander of commercial vessel, or a senior officer of a naval sailing ship in charge of routine seamanship and navigation but not in command during combat.
+* '''[[master-at-arms]]''' - A [[non-commissioned officer]] responsible for discipline on a naval ship. Standing between the officers and the crew, commonly known in the Royal Navy as 'the Buffer'.
+* '''[[mess]]''' - An eating place aboard ship. A group of crew who live and feed together,
+* '''mess deck catering''' - A system of catering in which a standard ration is issued to a mess supplemented by a money allowance which may be used by the mess to buy additional victuals from the [[Pusser]]'s stores or elsewhere. Each mess was autonomous  and self-regulating. Seaman cooks, often members of the mess,  prepared the meals and took them, in a tin canteen, to the [[galley]] to be cooked by the ship's cooks.  As distinct from '[[cafeteria]] messing' where food is issued to the individual hand - now the general practice.
+* '''[[midshipman]]''' - A [[non-commissioned officer]] below the rank of [[lieutenant|Lieutenant]]. Usually regarded as being "in training" to some degree. Also known as 'Snotty'. 'The lowest form of animal life in the Royal Navy'  where he has authority over and responsibility for more junior ranks, yet, at the same time, relying on their experience and learning his trade from them.
+* '''[[mizzenmast]]''' (or Mizzen) - The third mast on a ship.
+* '''mizzen [[staysail]]''' - Sail on a [[ketch]] or [[yawl]], usually lightweight, set from, and forward of, the mizzen mast while reaching in light to moderate air.
+* '''[[moor]]''' - to attach a boat to a mooring buoy or post.  Also, to a dock a ship.
+
+== N ==
+*'''[[w:International Regulations for Preventing Collisions at Sea|navigation rules]]''' - Regulations that provide guidance on how to avoid collision and also used to assign blame when a collision does occur.
+* '''nipper''' - Short rope used to bind a cable to the "messenger" (a moving line propelled by the capstan) so that the cable is dragged along too (Used because the cable is too large to be wrapped round the capstan itself).  During the raising of an anchor the nippers were attached and detached from the (endless) messenger by the ship's boys.  Hence the term for small boys: 'nippers'. 
+* '''no room to swing a cat''' - The entire ship's company was expected to witness floggings, assembled on deck. If it was very crowded, the bosun might not have room to swing the 'cat o' nine tails' (the whip).
+
+== O ==
+* '''[[oilskin]]''' Foul-weather gear worn by sailors.
+* '''[[oreboat]]''' -Great Lakes Term for a vessel primarily used in the transport of iron ore.
+* '''[[orlop deck]]''' The lowest deck of a ship of the line. The deck covering in the hold. 
+* '''[[outhaul]]''' - A line used to control the shape of a sail.
+* '''[[overbear]]''' - To sail downwind directly at another ship, stealing the wind from its sails.
+* '''[[overhaul]]''' - Hauling the buntline ropes over the sails to prevent them from chaffing.
+* '''[[overhead]]''' - The "ceiling," or, essentially, the bottom of the deck above you.
+* '''[[overreach]]''' - When tacking, to hold a course too long.
+* '''[[over the barrel]]''' - Adult sailors were flogged on the back or shoulders while tied to a grating, but boys were beaten instead on the posterior (often bared), with a cane or cat, while bending, often tied down, over the barrel of a gun, known as (kissing) the [[gunner's daughter]].
+* '''[[overwhelmed]]''' - Capsized or foundered.
+* '''[[ox-eye]]''' - A cloud or other weather phenomenon that may be indicative of an upcoming storm.
+
+== P ==
+* '''parrel''' - A movable loop, used to fasten the yard to its respective mast.
+* '''part brass rags''' - Fall out with a friend.  From the days when cleaning materials were shared between sailors.
+* '''pay''' - Fill a seam (with caulking or pitch); see 'The Devil to Pay', or to lubricate the running rigging: 'pay' with slush (qv) or protect from the weather by covering with slush.
+* '''[[paymaster]]''' - The officer responsible for all money matters in RN ships including the paying and provisioning of the crew, all stores, tools and spare parts.
+* '''[[pilot]]''' - Navigator. A specially knowledgeable person qualified to navigate a vessel through difficult waters, e.g harbour pilot etc.  
+* '''pipe (Bos'n's)''' - or a Bos'n's Call -  A whistle used by [[boatswain|Boatswain]]s (bosuns or bos'ns) to issue commands. Consisting of a metal tube which directs the breath over an aperture on the top of a hollow ball to produce high pitched notes. The pitch of the notes can be changed by partly covering the aperture with the finger of the hand in which the pipe is held. The shape of the instrument is similar to that of a smoking pipe.
+* '''[[pipe down]]''' - A signal on the bosun's pipe to signal the end of the day, requiring lights (and smoking pipes) to be extinguished and silence from the crew.
+* '''piping the side''' - A [[salute]] on the bos'n's pipe(s) performed in the company of the deck watch on the [[starboard]] side of the [[quarterdeck]] or at the head of the gangway, to welcome or bid farewell to the ship's [[captain]], senior officers and honoured visitors.
+* '''pitch''' - A vessel's motion, rotating about the beam axis, so the bow pitches up and down.
+* '''[[pontoon]]''' - A flat-bottomed vessel used as a [[ferry]] or a [[barge]] or [[float]] moored alongside a [[jetty]] or a [[ship]] to facilitate boarding.
+* '''[[poop deck]]''' - A high deck on the aft superstructure of a ship.
+* '''[[pooped]]''' - 1. Swamped by a high, following sea. 2. Exhausted.
+* '''[[port]]''' - Towards the left-hand side of the ship facing forward (formerly Larboard). Denoted with a red light at night.
+* '''[[press gang]]''' - Formed body of personnel from a ship of the [[Royal Navy]] (either a ship seeking personnel for its own crew or from a 'press tender' seeking men for a number of ships) that would identify and force (press) men, usually merchant sailors into service on naval ships usually against their will.
+* '''preventer''' (Gybe preventer, Jibe preventer) - A sail control line originating at some point on the boom leading to a fixed point on the boat's deck or rail (usually a cleat or pad eye) used to prevent an accidental [[jibe]] while sailing downwind.
+* '''[[privateer]]''' - A privately-owned ship authorised by a national power (by means of a '''[[w:Letter of marque and reprisal|Letter of Marque]]''') to conduct hostilities against an enemy. Also called a '''private man of war'''.
+* '''[[prow]]''' - a poetical alternative term for bows.
+* '''[[pusser]]''' - Purser, the one who is buys, stores and sells all stores on board RN ships, including victuals, rum and tobacco. originally a private merchant, latterly a warrant officer.
+
+== Q ==
+* '''Queen's King's]] Regulations ''' - The standing orders governing the [[Royal Navy]] of UK issued in the name of the current [[monarch]].
+
+== R ==
+* '''[[radar]]''' - An electronic system designed to transmit radio signals and receive reflected images of those signals from a "target" in order to determine the bearing and distance to the "target".
+* '''radar reflector''' - A special fixture fitted to a vessel or incorporated into the design of certain aids to navigation to enhance their ability to reflect radar energy. In general, these fixtures will materially improve the visibility for use by vessels with radar.
+* '''range lights''' - Two lights associated to form a range (a line formed by the extension of a line connecting two charted points) which often, but not necessarily, indicates the channel centerline. The front range light is the lower of the two, and nearer to the mariner using the range. The rear light is higher and further from the mariner.
+* '''[[ratlines]]''' - Rope ladders permanently rigged from [[bulwark]]s and [[tops]] to the mast to enable access to [[top mast]]s and [[yards]]. Also serve to provide lateral stability to the masts.
+* '''[[reach]]''' - A point of sail from about 60° to about 160° off the wind. Reaching consists of "close reaching" (about 60° to 80°), "beam reaching" (about 90°) and "broad reaching" (about 120° to 160°)
+* '''reduced cat''' - A light version on the cat o'nine tails for use on boys; also called "boys' pussy".
+* '''reef''' 
+**1. [[reef]]: To temporarily reduce the area of a sail exposed to the wind, usually to guard against adverse effects of strong wind or to slow the vessel. 
+**2. [[reef]]: Rock or coral, possibly only revealed at low tide, shallow enough that the vessel will at least touch if not go aground. 
+* '''reef points''' - Small lengths of cord attached to a sail, used to secure the excess fabric after reefing.
+* '''reef-bands''' - Long pieces of rough canvas sewed across the sails to give them additional strength.
+* '''reef-tackles''' - Ropes employed in the operation of reefing.
+* '''[[rigging|Rigging]]''' - The system of masts and lines on ships and other sailing vessels.
+* '''roll''' - A vessel's motion rotating from side to side, about the fore-aft axis. List (qv) is a lasting tilt in the roll direction.  
+* '''rolling-tackle''' - A number of pulleys, engaged to confine the yard to the weather side of the mast; this tackle is much used in a rough sea.
+*''the ropes''' refers to the lines in the rigging.
+* '''rope's end''' A summary punishment device.
+* '''[[rummage sale]]''' - A sale of damaged cargo (from French ''arrimage'').
+* '''running [[rigging]]''' - [[rigging|Rigging]] used to manipulate sails, spars, etc. in order to control the movement of the ship. Cf. standing rigging.
+
+== S ==
+*'''[[sagging]]''' - When a trough of a wave is amidship.
+* '''[[sail-plan]]''' - A set of drawings showing various sail combinations recommended for use in various situations.
+* '''saltie''' - Great Lakes term for a vessel that sails the oceans.
+* '''scandalize''' - To reduce the area of a sail by expedient means (slacking the peak and tricing up the tack) without properly reefing it.
+* '''scud''' - A name given by sailors to the lowest clouds, which are mostly observed in squally weather.
+* '''scudding''' - A term applied to a vessel when carried furiously along by a tempest.
+* '''scuppers''' - An opening on the side rail that allows water to run off the deck.
+* '''scuttle''' - A small opening, or lid thereof, in a ship's deck or hull. To cut a hole in, or sink something.
+* '''scuttlebutt''' - A barrel with a hole in used to hold water that sailors would drink from. Also: [[gossip]].
+* '''[[sea anchor]]''' - A stabilizer deployed in the water for [[heave to|heaving to]] in heavy weather.  It acts as a brake and keeps the hull in line with the wind and perpendicular to waves.
+* '''[[seaman]]''' - generic term for sailor, or (part of) a low naval rank
+* '''self-unloader''' - Great Lakes slang term for a vessel with a conveyor or some other method of unloading the cargo without shoreside equipment.
+* '''[[sennet whip]]''' - a summary punitive implement
+* '''shakes''' - Pieces of barrels or casks broken down to save space. They are worth very little, leading to the phrase "no great shakes".
+* '''sheer''' - The upward curve of a vessel's longitudinal lines as viewed from the side.
+* '''[[sheet]]''' - A rope used to control the setting of a sail in relation to the direction of the wind.
+* '''[[ship's bell]]''' - Striking the ship's bell is the traditional method of marking time and regulating the crew's watches.
+* '''ship's company''' - The [[crew]] of a [[ship]].
+* '''[[shrouds]]'''- Standing rigging running from a mast to the sides of a ships.
+* '''[[siren]]''' A sound signal which uses electricity or compressed air to actuate either a disc or a cup shaped rotor.
+* '''skysail''' - A sail set very high, above the royals. Only carried by a few ships.
+* '''skyscraper''' - A small, triangular sail, above the skysail. Used in light winds on a few ships.
+* '''slush''' - Greasy substance obtained by boiling or scraping the fat from empty salted meat storage barrels, or the floating fat residue after boiling the crew's meal. In the [[Royal Navy]] the perquisite of the cook who could sell it or exchange it (usually for alcohol) with other members of the crew.  Used for greasing parts of the running rigging of the ship and therefore valuable to the master and bosun. 
+* '''[[slush fund]]''' - The money obtained by the cook selling slush ashore. Used for the benefit of the crew (or the cook).
+* '''Son of a gun''' - The space between the guns was used as a semi-private place for trysts with prostitutes and wives, which sometimes led to pregnancies.
+* '''[[spanker]]''' - A fore and aft, gaff-rigged sail on the aft-most mast of a square-rigged vessel. 
+* '''[[spar]]''' - A wooden pole used to support various pieces of rigging and sails.
+* '''[[spindrift]]''' - Finely-divided water swept from crest of waves by strong winds. 
+* '''[[spinnaker]]''' - A large sail flown in front of the vessel while heading downwind.
+* '''[[spinnaker pole]]''' - A spar used to help control a spinnaker or other [[headsail]].
+* '''[[splice]]''' - To join lines (ropes, cables etc.) by unraveling their ends and intertwining them to form a continuous line. To form an eye or a knot by splicing.
+* '''[[standing rigging]]''' - [[rigging|Rigging]] which is used to support masts and spars, and is not normally manipulated during normal operations. Cf. running rigging.
+* '''[[starboard]]''' - Towards the right-hand side of a vessel facing forward.  Denoted with a green light at night.
+* '''square meal''' - A sufficient quantity of food.  Meals on board ship were served to the crew on a square wooden plate in harbour or at sea in good weather.  Food in the Royal Navy was invariably better or at least in greater quantity than that available to the average landsman.  However, while square wooden plates were indeed used on board ship, there is no established link between them and this particular term.  The OED gives the earliest reference from the U.S. in the mid 19th century.
+* '''[[stay]]''' - Rigging running fore (forestay) and aft (backstay) from a mast to the hull. 
+* '''[[staysail]]''' - A sail whose [[luff]] is attached to a forestay.
+* '''[[steering oar]]''' or '''steering board''' - A long, flat board or oar that went from the stern to well underwater, used to control the vessel in the absence of a [[rudder]].
+* '''[[stem]]''' - the extension of keel at the forward of a ship.
+* '''[[stern]]''' - The rear part of a ship, technically defined as the area built up over the sternpost, extending upwards from the counter to the taffrail.
+* '''[[stern tube]]''' - the tube under the hull to bear the tailshaft for propulsion(usually at stern).
+* '''[[stonnacky]]''' - a punitive device 
+* '''[[studding-sails]]''' (pronounced 'stunsail') - Long and narrow sails, used only in fine weather, on the outside of the large square sails.
+* '''surge''' - A vessel's transient motion in a fore and aft direction.
+* '''sway''' - A vessel's motion from side to side.
+* '''swinging the compass''' - Measuring the accuracy in a ship's magnetic [[compass]] so its readings can be adjusted - often by turning the ship and taking bearings on reference points. 
+* '''swinging the lamp''' - Telling sea stories. Referring to lamps slung from the [[deckhead]] which swing while at sea. Often used to indicate that the story teller is exaggerating.
+* '''swinging the lead''' - Measuring the depth of water beneath a ship using a [[lead]]-weighted sounding line. A sailor who was feigning illness etc to avoid a hard job was said to be 'swinging the lead'.
+
+== T ==
+* '''[[tailshaft]]''' - a kind of metallic shafting (a rod of metal) to hold the propeller and connected to the power engine. When the tailshaft is moved, the propeller may also be moved for propulsion.
+* '''[[taken aback]]''' - An inattentive helmsmen might allow the dangerous situation to arise where the wind is blowing into the sails 'backwards', causing a sudden (and possibly dangerous) shift in the position of the sails.
+* '''taking the wind out of his sails''' - To sail in a way that steals the wind from another ship. cf. overbear.
+* '''tally''' - The operation of hauling aft the '''sheets''', or drawing them in the direction of the ship's stern.
+* '''[[teazer]]''' - A rope used as a punitive device.
+* '''three sheets to the wind''' - On a three-masted ship, having the sheets of the three lower courses loose will result in the ship meandering aimlessly downwind. Also, a sailor who has drunk strong spirits beyond his capacity.
+* '''timoneer''' - From the French ''timonnier'', is a name given, on particular occasions, to the steersman of a ship.
+* '''[[toe the line]] ''' or ''' Toe the mark''' - At parade, sailors and soldiers were required to stand in line, their toes in line with a seam of the deck.
+*'''[[togey]]''' - A rope used as a punitive device
+* '''[[topsail]]''' - The second sail (counting from the bottom) up a mast. These may be either square sails or fore-and-aft ones, in which case they often "fill in" between the mast and the gaff of the sail below.
+* '''[[topmast]]''' - The second section of the mast above the deck; formerly the upper mast, later surmounted by the [[topgallant]] mast; carrying the topsails.
+* '''[[topgallant]]''' - the mast or sails above the tops.
+* '''touch and go''' - The bottom of the ship touching the bottom, but not grounding.
+* '''towing''' - The operation of drawing a vessel forward by means of long lines.
+* '''[[travellers]]''' - Small fittings that slide on a rod or line. The most common use is for the inboard end of the mainsheet; a more esoteric form of traveller consists of "slight iron rings, encircling the backstays, which are used for hoisting the top-gallant yards, and confining them to the backstays".
+* '''traffic separation scheme''' - Shipping corridors marked by buoys which separate incoming from outgoing vessels. Improperly called ''Sea Lanes''.
+* '''trick''' - A period of time spent at the wheel (''"my trick's over"'').
+* '''turtling''' - When a sailboat (in particular a dinghy) capsizes to a point where the mast is pointed straight down and the hull is on the surface resembling a turtle shell.
+
+== U ==
+* '''under the weather''' - Serving a watch on the weather side of the ship, exposed to wind and spray.
+* '''underway''' - A vessel that is not at anchor, or made fast to the shore, or aground.
+* '''upper-yardmen''' - Specially selected personnel destined for high office.
+
+== W ==
+* '''wales''' - A number of strong and thick planks running length-wise along the ship, covering the lower part of the ship's side.
+* '''[[watch]]''' -  A period of time during which a part of the crew is on duty. Changes of watch are marked by strokes on the ship's bell. 
+* '''[[watercraft]]''' - Water transport vessels. [[ships|Ships]], [[boats]], [[personal water craft]].
+* '''[[weather gage]]''' - Favorable position over another sailing vessel to with respect to the wind.
+* '''weather deck''' - Whichever deck is that exposed to the weather – usually either the main deck or, in larger vessels, the upper deck.
+* '''weather side''' - The weather side of a ship is the side exposed to the wind.
+* '''weatherly''' - A ship that is easily sailed and maneuvered; makes little leeway when sailing to windward.
+* '''weigh anchor''' - To heave up (an anchor) preparatory to sailing.
+* '''wells''' - Places in the ship's hold for the pumps.
+* '''white horses''' – Waves in wind strong enough to produce foam or spray on the wave tops.
+* '''wheelhouse''' - Location on a ship where the steering wheel is located, often interchanged with pilothouse and bridge.
+* '''wide berth''' - To leave room between two ships moored (berthed) to allow space for maneuver.
+* '''[[windage]]''' - Wind resistance of the boat.
+* '''windbound''' - A condition wherein the ship is detained in one particular station by contrary winds.
+* '''[[windward]]''' - In the direction that the wind is coming from.
+* '''[[windlass]]''' - A winch mechanism, usually with a horizontal axis. Used where mechanical advantage greater than that obtainable by block and tackle was needed (such as raising the anchor on small ships).
+
+== Y ==
+* '''[[yard]]''' - The horizontal spar from which a square sail is suspended. 
+* '''[[yardarm]]''' The very end of a yard. Often mistaken for a "yard", which refers to the entire spar. As in to hang 'from the yardarm' and the sun being 'over the yardarm' (late enough to have a drink). 
+* '''[[yaw]]''' - A vessel's motion rotating about the vertical axis, so the bow yaws from side to side.
+
+==External links==
+*[http://www.sailingahead.com/information/glossary.htm A Glossary of Nautical and Sailing Terms]
+
+[[Category:Nautical| Glossary of nautical terms]]
+[[Category:Glossaries|Nautical terms]]
+
+[[de:Liste seemannischer Fachworter]]
+[[fr:Vocabulaire maritime]]
+[[it:Glossario dei termini marinareschi]]
+[[pt:Terminologia nautica]]
+[[ru:Морские термины]]

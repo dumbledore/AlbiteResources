@@ -1,0 +1,34 @@
+{{idiom|UK}} This is a glossary of British Firefighting personnel.
+
+==A==
+*'''ACO:''' Assistant Chief Officer - Assistant to the Chief Fire Officer
+*'''ADO:''' Assistant Divisional Officer - In charge of a fire station 
+*'''AFA:''' Automatic Fire Alarm - Automatically sets off when smoke is detected
+*'''ALP:''' Aerial Ladder Platform - Turntable Ladder
+*'''Appliance:''' Standard Name for a Fire Engine
+
+==B==
+*'''BA:''' Breathing Apparatus - Face Mask and Oxygen Cylinder, used in smoke filled buildings
+*'''BA Board:''' A board which is used to keep track of crew using Breathing Apparatus, and air remaining
+*'''Bowser:''' Water Tanker
+*'''Bulk Foam Tender:''' A tanker that carries foam
+
+==C==
+*'''CFO:''' Chief Fire Officer - Commander of an entire Brigade
+*'''Command Unit:''' Used at large incidents to keep track of appliances attending and planning.
+*'''Cromwell:''' Manufacturer of Fire Helmets, Namely Cromwell 500 (Used until the 90's) Cromwell F500 , Cromwell F600
+
+==D==
+*'''Dennis:''' Manufacturer of Fire Appliances 
+*'''DO:''' Divisional Officer - Commands a Division, Takes Charge of Medium Size Incidents
+*'''DPL:''' Dual Purpose Ladder
+
+==E==
+*'''Epaulettes:''' Shoulder markings to signify rank
+*'''EVAC:''' Walkie-Talkie Radio
+*'''Extinguisher:''' Hand-Held Fire Fighting Equipment
+
+
+''Note: This list is '''incomplete'''.  You can help by adding to it.''
+[[Category:Firefighting| ]]
+[[Category:Glossaries|Firefighting]]

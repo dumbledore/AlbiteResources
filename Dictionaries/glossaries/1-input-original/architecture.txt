@@ -1,0 +1,214 @@
+{{wikipedia|Glossary of architecture}}
+For other architecture terminology, refer to:
+* [[w:List of classical architecture terms|List of classical architecture terms]]
+* [[w:Classical order|Classical order]]
+* [[w:Molding (decorative)|Decorative molding]]
+----
+{{compactTOS}}
+----
+
+==A==
+
+* '''[[aisle]]''' - Subsidiary space alongside the body of a building, separated from it by columns, piers, or posts.
+
+* '''[[apron]]''' - 1) Raised panel below a window or wall monument or tablet. 2) The open portion of a marine terminal immediately adjacent to a vessel berth, used in the direct transfer of cargo between the vessel and the terminal. 3) The [[concrete]] slab immediately outside a vehicular door or passageway used to limit the wear on asphalt paving due to repetitive turning movements.
+
+* '''[[apse]]''' - Vaulted semicircular or polygonal end of a chancel or chapel.
+
+* '''[[arcade]]''' - Passage or walkway covered over by a succession of [[arch]]es or of [[vault]]s supported by [[column]]s.  See also [[wikipedia:Arcade (architecture)|wikipedia:arcade]], [[w:arch|arch]], [[w:vault|vault]] and [[w:column|column]].
+
+* '''[[arch]]''' - A curved structure capable of [[Span (architecture)|spanning]] a space while supporting significant weight. 
+
+* '''[[architrave]]''' - Formalized lintel, the lowest member of the classical entablature. Also the moulded frame of a door or window (often borrowing the profile of a classical architrave).
+
+* '''[[arris]]''' - Sharp edge where two surfaces meet at an angle.
+
+* '''[[ashlar]]''' - Masonry of large blocks cut with even faces and square edges.
+
+* '''[[atrium]]'''(Plural atria) inner court of a Roman or C20 house; in a multi-storey building, a toplit covered court rising through all storeys.
+
+* '''[[attic]]''' - Small top storey within a roof. The storey above the main [[entablature]] of a classical [[facade]].
+
+==B==
+                                                                 
+* '''[[bahut]]''' - Dwarf-wall of plain masonry, carrying the roof of a cathedral or church and masked or hidden behind the [[baluster|balustrade]].
+
+[[Image:Orna138-Docken-Baluster.png|right|thumb|A page of fanciful balusters]]
+* '''[[baluster]]''' - Small moulded shaft, square or circular, in stone or wood, sometimes metal, supporting the coping of a parapet or the handrail of a staircase (pictured).  See also [[wikipedia:baluster]].
+
+* '''[[balustrade]]''' - A series of [[baluster]]s supporting a [[handrail]] or [[coping]].
+
+* '''[[basement]]''' - The lowest, subordinate storey of building often either entirely or paritially below ground level; the lowest part of classical elevation, below the [[piano nobile]].
+
+* '''[[basilica]]''' - Originally a Roman, large roofed hall erected for transacting business and disposing of legal matters.; later the term came to describe an aisled building with a clerestory. Medieval cathedral plans were a development of the basilica plan type.
+
+* '''[[bay]]''' - Internal compartments of a building; each divided from the other by subtle means such as the boundaries implied by divisions marked in the side walls (columns, pilasters, etc) or the ceiling (beams, etc). Also external divisions of a building by fenestration (windows).
+
+* '''[[bay window]]''' - Window of one or more storeys projecting from the face of a building. [[Canted window|Canted]] with a straight front and angled sides. [[bow window|Bow window]] curved. [[oriel|Oriel]] rests on corbels or brackets and starts above ground level; also the bay window at the dais end of a medieval [[great hall]].
+
+* '''[[belfry]]''' - Chamber or stage in a tower where bells are hung.
+
+* '''[[bond]]''' - Term used to describe the manner in which bricks are laid in a wall so that they interlock.
+
+* '''[[boss]]''' - The projecting keystone of a [[ribbed vault]], usually carved.
+
+* '''[[bossage]]''' - Uncut stone that is laid in place in a building, projecting outward from the building, to later be carved into decorative moldings, capitals, arms, etc. Bossages are also [[w:rustic|rustic]] work, consisting of stones which seem to advance beyond the surface of the building, by reason of indentures, or channels left in the joinings; used chiefly in the corners of buildings, and called rustic [[w:Quoin (architecture)|quoin]]s. The cavity or indenture may be round, square, chamfered, bevelled, diamond-shaped, or enclosed with a [[w:cavetto|cavetto]] or [[w:listel|listel]]. {{ref label|1728|2|^}}
+
+* '''[[boutant]]''' - Type of support. An [[w:arc-boutant|arc-boutant]], or flying buttress, serves to sustain a vault, and is self-sustained by some strong wall or massive work. A pillar boutant is a large chain or jamb of stone, made to support a wall, terrace, or vault. The word is French, and comes from the verb ''bouter'', "to butt" or "abut". {{ref label|1728|2|^}}
+
+* '''[[brise soleil]]''' - Projecting fins or canopies which shade windows from direct sunlight.
+
+* '''[[bullseye window]]'''<!--Oeil-de-Boeuf-->
+A small oval window, set horizontally.
+
+* '''[[bressumer]]'''(Literally "breast- beam") A large, horizontal beam supporting the wall above, especially in a jettied building.
+
+* '''[[bulwark]]''''' - For ships in the Royal Navy, see [[w:HMS Bulwark|HMS Bulwark]]'' - [[w:Barricade|Barricade]] of [[w:beam (structure)|beams]] and [[w:soil|soil]] used in [[w:15th century|15th]] and [[w:16th century]] [[w:fortification|fortifications]] designed to mount [[w:artillery|artillery]]. On board [[w:ship|ships]] the term is used of the [[w:woodwork|woodwork]] running round the ship above the level of the [[w:deck (ship)|deck]]. Figuratively it means anything serving as a defence.
+
+* '''[[buttress]]''' - Vertical member projecting from a wall to stabilize it or to resist the lateral thrust of an arch, roof, or vault. A [[flying buttress]] transmits the thrust to a heavy abutment by means of an [[arch]] or half-arch.
+
+==C==
+                                                                 
+* '''[[cancellus]]'''(plural:Cancelli) Barriers which correspond to the modern balustrade or railing, especially the screen dividing the body of a church from the part occupied by the ministers hence chancel. The Romans employed cancelli to partition off portions of the courts of law.
+
+* '''[[cauliculus]]''' or '''[[caulicole]]''' - Stalks (eight in number) with two leaves from which rise the helices or spiral scrolls of the [[w:Corinthian capital|Corinthian capital]] to support the [[w:abacus|abacus]].
+
+* '''[[chalcidicum]]''' - In Roman architecture, is the vestibule or portico of a public building opening on to the forum, as in the basilica of Eumactria at Pompeii, and the basilica of Constantine at Rome, where it was placed at one end.
+
+* '''[[chimera]]''' - A [[gargoyle]] that does not work as a [[waterspout]].
+
+* '''[[chresmographion]]''' - Chamber between the pronaos and the [[w:cella|cella]] in Greek temples where oracles were delivered.
+
+* '''[[cincture]]''' - Ring, list, or [[w:fillet|fillet]] at the top and bottom of a column, which divides the shaft from the capital and base.{{ref label|1728|2|^}}
+
+* '''[[cinquecento]]''' - Style which became prevalent in Italy in the century following 1500, now usually called 16th-century work. It was the result of the revival of classic architecture known as Renaissance, but the change had commenced already a century earlier, in the works of [[w:Ghiberti|Ghiberti]] and [[w:Donatello|Donatello]] in sculpture, and of [[w:Brunelleschi|Brunelleschi]] and [[w:Alberti|Alberti]] in architecture.
+
+* '''[[cippus]]''' - A low pedestal, either round or rectangular, set up by the Romans for various purposes such as military or milestones, boundary posts. The inscriptions on some in the British Museum show that they were occasionally funeral memorials.
+
+* '''[[cleithral]]''' - An architectural term applied to a covered Greek temple, in contradistinction to hypaethral, which designates one that is uncovered the roof of a cleithral temple completely covers
+
+* '''[[collarino]]'''(also colarin or colarino) The little frieze of the captial of the Tuscan and Doric column placed between the astragal, and the annulets. It was called by [[Vitruvius]], [[hypotrachelium]].
+
+* '''[[compluvium]]''' - Latin term for the open space left in the roof of the atrium of a Roman house for lighting it and the rooms round.
+
+* '''[[cornice]]''' - The upper section of an entablature, a projecting shelf along the top of a wall often supported by brackets.
+
+* '''[[cross springer]]''' - Block from which the diagonal ribs of a vault spring or start the top of the springer is known as the skewback.
+
+* '''[[crypto-porticus]]''' - A concealed or covered passage, generally underground, though lighted and ventilated from the open air. One of the best-known examples is the crypto-porticus under the palaces of the Caesars in Rome. In Hadrians villa in Rome they formed the principal private intercommunication between the several buildings.
+ 
+* '''[[cyrto-style]]''' - Circular projecting portico with columns, like those of the transept entrances of St Paul's cathedral and the western entrance of St Mary-le-Strand, London.
+
+==D==
+                                                                 
+* '''[[diastyle]]''' - A term used to designate an intercolumniation of three or four diameters.
+
+* '''[[diaulos]]''' - Peristyle round the great court of the palaestra, described by [[w:Vitruvius|Vitruvius]], which measured two stadia (1,200 ft.) in length, on the south side this peristyle had two rows of columns, so that in stormy weather the rain might not be driven into the inner part. The word was also used in ancient Greece for a foot race of twice the usual length.
+
+* '''[[diazomata]]''' - Landing places and passages which were carried round the semicircle and separated the upper and lower tiers in a Greek theatre.
+
+* '''[[dikka]]''' - Islamic architectural term for the tribune raised upon columns, from which the Koran is recited and the prayers intoned by the Imam of the mosque.
+
+* '''[[dipteral]]''' - Temples which have a double range of columns in the peristyle, as in the temple of Diana at Ephesus.
+
+* '''[[distyle]]''' - A portico which has two columns between antae, known as distyle-in-antis.
+
+* '''[[dodecastyle]]''' - A temple where the portico has twelve columns in front, as in the portico added to the temple of Demeter at Eleusis, designed by [[w:Philo|Philo]], the architect of the arsenal at the Peiraeus.
+
+* '''[[Doric order]]'''[[Image:Classical orders from the Encyclopedie.png|right|thumb|Doric order]] - One of the three orders or organisational systems of Ancient Greek or classical architecture which stood on the flat pavement of a temple without a base, their vertical shafts fluted with pararell concave grooves topped by a smooth capital that flared from the column to meet a square abacus at the intersection with the horizontal beam that they carried. 
+
+* '''[[dosseret]]''' or '''[[impost block]]''' - Cubical block of stone above the capitals in a Byzantine church, used to carry the arches and vault, the springing of which had a superficial area greatly in excess of the column which carried them.
+                                                                 
+* '''[[dromos]]''' - Entrance passage leading down to the beehive tombs in Greece, open to the air and enclosed between stone walls.
+
+==E==
+
+* '''[[ephebeum]]''' - Large hall in the ancient Palaestra furnished with seats, the length of which should be a third larger than the width. It served for the exercises of youths of from sixteen to eighteen years of age.
+
+* '''[[epinaos]]''' - Open vestibule behind the nave. The term is not found in any classic author, but is a modern coinage, originating in Germany, to differentiate the feature from opisthodomus, which in the Parthenon was an enclosed chamber.
+
+* '''[[estrade]]''' - French term for a raised platform. In the Levant the estrade of a divan is called Sopha (Blondel), from which comes our sofa.
+
+* '''[[eustyle]]''' - Intercolumniation defined by [[w:Vitruvius|Vitruvius]] as being of the best proportion, i.e. two and a half diameters.
+
+==F==
+
+* '''[[feretory]]''' - Enclosure or chapel within which the fereter shrine, or tomb (as in Henry VII.'s chapel), was placed.
+                                                                 
+* '''[[foot-stall]]''' - Literally translation of “pedestal”, the lower part of a pier in architecture.
+
+* '''[[formeret]]''' - French term for the wall-rib carrying the web or filling-in of a vault.
+
+
+==G==
+                                                                 
+* '''[[gablet]]s''' - Triangular terminations to [[w:buttress|butresses]], much in use in the [[w:Early English Period|Early English]] and [[w:Decorated Gothic|Decorated periods]], after which the buttresses generally terminated in pinnacles. The Early English gablets are generally plain, and very sharp in pitch. In the Decorated period they are often enriched with panelling and [[w:crocket|crocketts]]. They are sometimes finished with small crosses, but more often with finials.
+
+* '''[[garretting]]''', properly '''[[galletting]]''' - The process in which the gallets or small splinters of stone are inserted in the joints of coarse masonry to protect the mortar joints. They are stuck in while the mortar is wet.
+
+==L==                                                                 
+                                                                 
+                                                                 
+* '''[[lacunar]]''' - Latin name in architecture for a panelled or coffered ceiling or soffit. The word is derived from lacuna, a cavity or hollow, a blank, hiatus or gap. The panels or coffers of a ceiling are by [[w:Vitruvius|Vitruvius]] called lacunaria.
+
+==M==
+                                                                 
+* '''[[maksoora]]''' - Islamic architectural term given to the sanctuary or praying-chamber in a mosque, which was sometimes enclosed with a screen of lattice-work the word is occasionally used for a similar enclosure round a tomb.
+
+* '''[[modillion]]''' - Enriched block or horizontal bracket generally found under the cornice and above the bedmold of the Corinthian entablature. It is probably so called because of its arrangement in regulated distances.
+
+* '''[[monotriglyph]]''' - Interval of the intercolumniation of the [[w:Doric|Doric]] column, which is observed by the intervention of one [[w:triglyph|triglyph]] only between the triglyphs which come over the axes of the columns. This is the usual arrangement, but in the [[w:Propylaea|Propylaea]] at Athens there are two triglyphs over the central intercolumniation, in order to give increased width to the roadway, up which chariots and beasts of sacrifice ascended.
+
+* '''[[w:muqarna|muqarna]]''' - A type of decorative corbel used in [[w:Islamic architecture|Islamic architecture]] that in some circumstances, resembles stalactites.
+
+* '''[[mutule]]''' - Rectangular block under the soffit of the cornice of the Greek Doric temple, which is studded with [[w:guttae|guttae]]. It is supposed to represent the piece of timber through which the wooden pegs were driven in order to hold the rafter in position, and it follows the [[w:cornice|sloping rake]] of the roof. In the Roman Doric order the mutule was horizontal, with sometimes a crowning fillet, so that it virtually fulfilled the purpose of the modillion in the Corinthian cornice.
+                                                                 
+==O==
+                                                                 
+* '''[[oillet]]s''' - Arrow slits in the walls of medieval fortifications, but more strictly applied to the round hole or circle with which the openings terminate. The same term is applied to the small circles inserted in the tracery-head of the windows of the Decorated and Perpendicular periods, sometimes varied with trefoils and quatrefoils.
+
+* '''[[orthostatae]]''' - Greek architecture term for the lowest course of masonry of the external walls of the [[w:naos|naos]] or [[w:cella|cella]], consisting of vertical slabs of stone or marble equal in height to two or three of the horizontal courses which constitute the inner part of the wall.
+
+* '''[[orthostyle]]''' - A range of columns placed in a straight row, as for instance those of the portico or flanks of a classic temple.
+
+==P==
+                                                                 
+* '''[[parclose]]''' - Screen or railing used to enclose a chantry, tomb or chapel, in a church, and for the space thus enclosed.
+
+* '''[[peripteral]]''' - Term applied to a temple or other structure where the columns of the front [[portico]] are returned along its sides as wings at the distance of one or two intercolumniations from the walls of the [[w:cella|naos]] or [[w:cella|cella]]. Almost all the Greek temples were peripteral, whether Doric, Ionic, or Corinthian
+
+* '''[[planceer]]''' or '''[[planchier]]''' - Building element sometimes used in the same sense as a [[w:soffit|soffit]], but more correctly applied to the soffit of the [[w:corona|corona]] in a [[w:cornice|cornice]].
+
+* '''[[poppy heads]]''' - Term given to the finials or other ornaments which terminate the tops of bench ends, either to pews or stalls. They are sometimes small human heads, sometimes richly carved images, knots of foliage or finials, and sometimes fleurs-de-lis simply cut out of the thickness of the bench end and chamfered. The term is probably derived from the French ''poupee'' doll or puppet used also in this sense, or from the flower, from a resemblance in shape.
+
+* '''[[portico]]'''[[Image:BO-portico.jpg|thumb|right|100px|Portico]] A series columns or arches in front of a building, generally as a covered walkway.
+
+* '''[[prick post]]''' - Old architectural name given sometimes to the queen posts of a roof, and sometimes to the filling in quarters in framing.
+
+* '''[[pseudo-peripteral]]''' - Temple in which the columns surrounding the naos have had walls built between them, so that they become engaged columns, as in the great temple at Agrigentum. In Roman temples, in order to increase the size of the celia, the columns on either side and at the rear became engaged columns, the portico only having isolated columns.
+
+* '''[[pycnostyle]]''' - Architectural term given by [[w:Vitruvius|Vitruvius]] to the intercolumniation between the columns of a temple, when this was equal to 11/2 diameters.
+
+==R==                                                                 
+                                                                 
+* '''[[rear vault]]''' - [[vault|Vault]] of the internal hood of a doorway or window to which a splay has been given on the reveal, sometimes the vaulting surface is terminated by a small rib known as the scoinson rib, and a further development is given by angle shafts carrying this rib, known as scoinson shafts.
+
+* '''[[rose window]]''' - Circular window usually appears in religious architecture particularly during the Gothic period
+
+==S==
+                                                                 
+* '''[[sommer]]''' or '''[[summer]]''' - Girder or main "summer beam" of a floor: if supported on two storey posts and open below, also called a "bress" or "breast-summer". Often found at the centerline of the house to support one end of a [[w:joist|joist]], and to bear the weight of the structure above.
+
+* '''[[systyle]]''' - In the [[w:classical order|Classical orders]], this describes columns rather thickly set, with an intercolumniation to which two diameters are assigned
+
+==T==
+                                                                 
+* '''[[tympanum]]''' - The semi-circular or triangular decorative wall surface over an entrance bounded by a lintel and arch
+
+==References==
+#''This article incorporates text from the [[w:Encyclop?dia Britannica Eleventh Edition|Encyclop?dia Britannica Eleventh Edition]], a publication now in the [[w:public domain|public domain]].''
+#{{w:note label|1728|2|^}}{{1728}}
+
+[[Category:Glossaries|Architecture]]
+
+[[de:Schanzkleid]]

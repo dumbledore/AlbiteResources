@@ -1,0 +1,95 @@
+This is a glossary of [[card game]]s.
+
+{{CompactTOS}}
+<div style="float:right; clear: both; border: 1px solid gray; background-color: #F8F8F0; margin: 1em 1em 1em 1em; padding:5px; font-size:smaller;">
+<center>Ranks</center>
+* ace
+* king
+* queen
+* jack
+* ten
+* nine
+* eight
+* seven
+* six
+* five
+* four
+* three
+* two
+* deuce
+</div>
+<div style="float:right; clear: both; border: 1px solid gray; background-color: #F8F8F0; margin: 1em 1em 1em 1em; padding:5px; font-size:smaller;">
+<center>Suits</center>
+* hearts
+* diamonds
+* clubs
+* spades
+</div>
+<div style="float:right; clear: both; border: 1px solid gray; background-color: #F8F8F0; margin: 1em 1em 1em 1em; padding:5px; font-size:smaller;">
+<center>Games</center>
+* poker
+* rubby
+* bridge
+* canasta
+* whist
+</div>
+
+==A==
+; [[ace]] : The card marked using a single point.
+
+==B==
+; [[bridge]] : A card game played normally with four players playing as two teams of two players each.
+
+==C==
+; [[canasta]] : A card game, using two packs, similar to rummy, where the object is to meld groups of the same rank.
+; [[clubs]] : One of the four suits of playing cards, marked with the symbol ¦.
+ 
+==D==
+; [[deal]] : To distribute cards to the players in a game. 
+; [[deal]] : The distribution of cards to players; a player's turn for this.
+; [[deuce]] : A card with two spots, one of four in a standard deck of playing cards.
+; [[diamonds]] : One of the four suits of playing cards, marked with the symbol ¦.
+
+==F==
+; [[follow suit]] : To play a card of the same suit as the previous or leading card.
+
+==H==
+; [[hand]] : 
+; [[hearts]] : One of the four suits of playing cards, in red, marked with the symbol ¦.
+
+==J==
+; [[jack]] : The card ranking between the ten and queen of any suit, picturing a knave or prince on its face, and in some card games having a value of eleven.
+; [[joker]] : A playing card that features a picture of a joker (that is, a jester) and that may be used as a wild card in some card games.
+
+==K==
+; [[king]] : A playing card with the image of a king on it.
+
+==O==
+; [[outrank]] : To be of a higher rank than.
+; [[overbid]] : To announce a goal, before starting play that exceeds the goal actually achieved.
+
+==P==
+; [[pack]] : A full set of playing cards; also, the assortment used in a particular game; as, a euchre pack.
+; [[poker]] : Any of various card games in which, following each of one or more rounds of dealing or revealing the cards, the players in sequence make tactical bets or drop out, the bets forming a pool to be taken either by the sole remaining player or, after all rounds and bets have been completed, by those remaining players who hold a superior hand according to a standard ranking of hand values for the game.
+
+==Q==
+; [[queen]] : A playing card with the picture of a queen on its face, the twelfth card in a given suit.
+
+==R==
+; [[rank]] :
+; [[renege]] :
+
+==S==
+; [[shuffle]] : To mix up cards in a random order before a card game.
+; [[spades]] : One of the four suits of playing cards, marked with the symbol ¦.
+; [[suit]] : Each of the sets of a pack of cards distinguished by color and/or specific emblems, such as the spades, hearts, diamonds, or clubs of traditional Anglo, Hispanic, and French playing cards.
+
+==T==
+; [[trump]] : The suit, in a game of cards, that outranks all others.
+
+==W==
+; [[whist]] : Any of several four-player card games, similar to bridge.
+; [[wild card]] : A card that can be assigned any value or used to substitute for any needed card.
+
+[[Category:Glossaries|Card games]]
+[[Category:Card games|*]]

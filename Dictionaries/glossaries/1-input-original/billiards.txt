@@ -1,0 +1,607 @@
+{{wikipedia|Glossary of cue sports terms}}
+The following is a glossary of traditional terms used in the three main [[cue sport]] disciplines: ''[[Pocket billiards|pool]]'', which denotes a host of games played on a table with six pockets such as [[straight pool]], [[eight-ball]], [[nine-ball]], [[one-pocket]] and [[bank pool]]; ''[[carom billiards]]'' referring to the various [[#Carom|carom]] games played on a table without pockets such as straight-rail, [[Carom billiards#Three cushion billiards|three-cushion]], [[#Balkline|balkline]] and [[artistic billiards]]; and ''[[snooker]]'' played on a special table which, like a pool table, has six pockets, but is significantly larger and has specialized refinements. The term [[#Billiards|billiards]] is sometimes also used to refer to all of the cue sports. 
+
+{{CompactTOS}}
+
+== 0–9 ==
+; 8 (eight) ball : ''See [[#8 ball|8 ball]], under "[[E]]", for the ball.  See [[eight-ball]] main article for the game.''
+; 9 (nine) ball : ''See [[#9 ball|9 ball]], under "[[N]]", for the ball.  See [[nine-ball]] main article for the game.''
+
+== A ==
+; Above : Used in [[snooker]] in reference to the position of the [[#Cue ball|cue ball]]. It is above the [[#Object ball|object ball]] if it is off-straight on the [[#Baulk cushion|baulk cushion]] side of the imaginary line for a straight [[#Pot|pot]] (e.g. "he'll want to finish above the [[#Blue ball|blue]] in order to go into the [[#Pink ball|pink]] and [[#Red ball|red]]s"). It is also common to use the term [[#High|high]] instead<ref name="TIEOB">{{reference-book
+| last = Shamos
+| first = Michael Ian
+| year = [[1993]]
+| title = The Illustrated Encyclopedia of Billiards
+| publisher = Lyons & Burford
+| location = [[New York, NY]] 
+| id = ISBN 1-55821-219-1
+}}</ref>
+; Action : #[[gambling|Gambling]] or the potential for gambling (US).
+#Lively results on a ball (usually the cue ball) from the application of [[#English|english]].
+; Ahead race or session : A match format in which a player has to establish a lead of an agreed number of [[#Rack|racks]] in order to win (e.g. in a ten ahead race a player wins when she/he has ten more racks than the opponent).<ref name="TIEOB" />
+; Aiming line : An imaginary line drawn from the desired path an [[#Object ball|object ball]] is to be sent (usually the center of a [[#Pocket|pocket]]) and the center of the object ball.
+; Angle of incidence : The angle at which a ball approaches a [[#Rail|rail]], as measured from the perpendicular to the rail. The phrase has been in use since as early as 1653.<ref name="TIEOB" />
+; Angle of reflection : The angle from which a ball rebounds from a rail, as measured from the perpendicular to the rail.<ref name="TIEOB" />
+; Arc : 
+The arc of the [[#Cue ball|cue ball]] is the extent to which it curves as a result of a [[#Semi-masse|semi-masse]] or [[#Masse|masse shot]].
+
+== B ==
+; Back : ''Same as [[#Stake/Stakehorse|stake]].''<ref name="TIEOB" />
+; Back cut : A [[#Cut shot|cut shot]] in which if a line were drawn from the [[#Cue ball|cue ball]] to the [[#Rail|rail]] behind the targeted [[#Object ball|object ball]], perpendicular to that rail, the object ball would lie beyond the line with respect to the [[#Pocket|pocket]] being targeted.
+; Backer : ''Same as [[#Stake/Stakehorse|stakehorse]].''
+; Backspin : ''Also '''back spin'''.''<ref name="TIEOB" />
+''Same as [[#Draw|draw]].''
+''Contrast [[#Topspin|topspin]].''
+; Baize : A cloth material used to cover billiard tables, usually green in colour and sometimes called [[felt]] based on a similarity on appearance, though very different in makeup.<ref name="TIEOB" /> ''See [[wikipedia:Baize|Baize]] main article.''
+; Balance point : The point, usually around 18? from the bottom of a [[#Cue|cue]], at which the cue will balance when resting on one hand.<ref name="TIEOB" />
+; Balkline : #A type of [[carom billiards]] game created to eliminate very high [[#Run|runs]] in [[Straight-rail billiards|straight-rail]].
+#A line drawn horizontally from a point on the billiard table's [[#Long rail|long rail]] to the corresponding point on the opposite long rail, from which the game of balkine takes its name.<ref name="TIEOB" />
+''Not to be confused with [[#Baulk line|baulk line]].''
+; Ball-in-hand : The option of placing the [[#Cue ball|cue ball]] anywhere on the table prior to shooting. Usually only available to a player when the opposing player has committed some type of [[#Foul|foul]] under a particular game's rules.<ref name="TIEOB" />  (Cf. the [[free throw]] in [[basketball]] by way of comparison.)
+; Ball-on : Any legally strikable ball on the table in British terminology.  For example, in WEPF/[[Eight-ball#UK|UK eight-ball]]<ref name="WEPFRules" />, if a player is playing [[#Yellow ball|yellows]], any yellow ball (or any solid, from 1 to 7, if using a solids and stripes ball set) can be the "ball-on" until they are all [[#Pot|potted]], in which case the 8 ball is the ball-on.  In [[snooker]], at the beginning of a player's turn, unless all are already potted, any [[#Red ball|red ball]] can be the "ball-on".  Plural: "balls-on".  ''Compare [[#Object ball|object ball]].''<ref name="TIEOB" />
+; Banger : A derogatory term for a recreational or beginning player who "bangs" the balls without any thought for [[#Position|position]] nor attempt to control the [[#Cue ball|cue ball]]; also a reference to the predilection of beginners to often hit the cue ball far harder than necessary. ''See also [[#Potter|potter]].''
+; Bank shot/bank : A shot in which an [[#Object ball|object ball]] is driven to one or more rails prior to being [[#Pocket|pocketed]] (or in some contexts, prior to reaching its intended target; not necessarily a pocket). Sometimes "bank" is conflated to refer to [[#Kick shot|kick shots]] as well, and in the UK it is often called a double.<ref name="TIEOB" />
+; Bar player or Bar league player : A player that predominantly plays in [[bar (establishment)|bar]]s or is in a bar-based pool league. Often used pejoratively by pool room players to refer to a perceived lesser skill level of such players.
+; Bar pool : ''Also '''bar rules'''.''
+Pool, almost always a variant of [[eight-ball]], that is played by bar players on a [[#Bar table|bar table]].  Bar pool has rules that vary from region to region, sometimes even from pub to pub in the same city, especially in the U.S.  It is thus always a good idea to understand/agree to rules before engaging in a money game under bar rules.  Typical differences between bar pool and tournament eight-ball are the lack of ball-in-hand after a foul, the elimination of a number of fouls, and (in U.S. bar pool) the requirement that most aspects of a shot (rails and other balls to be contacted) be called, not just the object ball and pocket.  Bar pool has evolved into this "nitpicky" version principally to make the games last longer, since bar pool is typically played on coin-operated tables that cost money per-game rather than per-hour.  Competitive league pool played on bar tables, however, usually uses international, national or local/regional league rules, and is not what is usually meant by "bar pool".  ''Depending on local dialect may also be called tavern pool, pub pool, etc.  Not to be confused with the game of [[Bar billiards]].''
+; Bar table : ''Also '''bar box'''.''
+Distinctive pool tables found in [[bar (establishment)|bar]]s/[[taverns]]. They are almost always coin-operated and smaller than regulation-sized tables (3.5 ft. x 7 ft. is typical of bar boxes, though 4x8 and even 3x6 examples can sometimes be found).  Most North American brands of bar tables have pocket proportions confusingly opposite those of regular tables &mdash; the side pockets are remarkably tight, while the corners are more generous than those of pool hall tables.  Because they are coin-operated and capture pocketed balls, they employ one of several mechanisms to return a [[#Scratch|scratched]] [[#Cue ball|cue ball]].  The oversized, and extra-dense cue ball methods are deprecated, because these cue balls do not play correctly (especially with regard to [[#Cut shot|cut]] and [[#Stop shot|stop]]/[[#Draw shot|draw]] shots, respectively; cf. [[#Smash-through|smash-through]]).  Modern bar tables make use of a magnet and a regulation or near-regulation size and weight cue ball with an iron core, to separate the cue ball from the others and return it to the players.<ref name="RGivens">{{reference-book
+| last = Givens
+| first = R. &#91;Randi&#93;
+| year = 2004
+| title = The Eight Ball Bible: A Guide to Bar Table Play (Illustrated Ed.)
+| publisher = Eight Ball Press
+| id = ISBN 0-97472-737-7
+}}</ref>  Pool hall players complain also that the [[#Cloth|cloth]] used on bar tables is often greatly inferior (in particular that it is "slow" and that [[#English|english]] does not "take" enough), and also often find that the [[#Cushion|cushions]] are not as responsive as they are used to.<ref name="TIEOB" />
+
+; Baulk : In [[snooker]], [[English billiards]], and WEPF/[[Eight-ball#UK|UK eight-ball]]<ref name="WEPFRules" />, the area between the [[#Baulk line|baulk line]] and the [[#Baulk cushion|baulk cushion]], which houses [[#"D", the|the "D"]] and is analogous to the [[#Kitchen|kitchen]] in American pool.<ref name="TIEOB" />
+; Baulk colour : In [[snooker]], any of the three [[#Colour ball|colour ball]]s that get [[#Spot|spotted]] on the [[#Baulk line|baulk line]]: the [[#Yellow ball|yellow]], [[#Green ball|green]] or [[#Brown ball|brown ball]].<ref name="TIEOB" />
+; Baulk cushion : In [[snooker]], the [[#Cushion|cushion]] opposite the [[#Top cushion|top cushion]] and bounded by the [[#Yellow pocket|yellow]] and [[#Green pocket|green pocket]]s.<ref name="TIEOB" />
+; Baulk line : A straight line drawn 29? from the face of the bottom cushion on a snooker table.  Similar to the [[#Head string|head string]] on a pool table.<ref name="TIEOB" />  ''Not to be confused with [[#Balkline|balkline]].''
+; Bed : The playing area of a table, exclusive of the [[#Cushion|cushion]]s.<ref name="TIEOB" />
+; Below : Used in snooker in reference to the position of the [[#Cue ball|cue ball]]. It is "below" the object ball if it is off-straight on the [[#Top cushion|top cushion]] side of the imaginary line for a straight pot (e.g. he'll want to finish below the [[#Black ball|black]] in order to go into the [[#Red ball|red]]s). This may seem counterintuitive, see [[#Above|above]] for an explanation.
+; Big : ''Also '''bigs''', '''big balls''', '''big ones'''.''
+In [[eight-ball]], to be shooting the striped [[#Suit|suit]] ([[#Group|group]]) of balls (9 through 15); "you're big, remember", "you're big balls" or "I've got the big ones".<ref name="TIEOB" />  ''Compare [[#Stripes|stripes]], [[#Yellow ball|yellows]], [[#High|high]]; contrast [[#Little|little]].''  ''Not to be confused with the carom billiards concept of a [[#Big ball|big ball]].''
+; Big ball : A [[carom billiards]] metaphor, it refers to an object ball positioned and being approached in such a manner that a near miss will rebound off a cushion and still score. It is ''as if'' the ball were larger than normal, making it easier to contact.  Normally a ball a couple inches from a rail is a big ball, but only if being approached from an angle and if all the prerequisite rails have already been contacted. A ball near a corner can effectively be a foot wide.
+Not to be confused with the eight-ball term "the big balls". In older British usage the concept was referred to as "large ball".<ref name="TIEOB" /> ''See also "[[#Big pocket|big pocket]]".''
+; Big pocket : A [[pocket billiards]] term (inherited from carom billards by way of "[[#Big ball|big ball]]", above), it is a metaphor for a shot that is very difficult to miss pocketing for any of a number of reasons, most commonly either because the object ball is positioned such that a near miss on one side of it will likely cause the cue ball to rebound into the object ball off of the rail and pocket it anyway, or another ball is positioned such that if the target ball does not go straight in, it is still likely to go in off of the other ball in a [[#Kiss|kiss]].  It is ''as if'' the pocket, for this one shot, had become larger.  The term can also refer to the angle of shot toward a pocket, especially a side pocket; the pocket is said to be "bigger", for example, on a shot that is only a 5-degree angle away from straight on, than on a 45-degree angle shot which is much more likely to hit one of the cushion points and bounce away.
+; Billiard : ''Also '''billiard shot'''.''
+#Any shot in which the [[#Cue ball|cue ball]] is [[#Carom|caromed]] off an [[#Object ball|object ball]] to strike another object ball (with or without contacting cushions in the interim).<ref name="TIEOB" />
+#In certain [[carom billiards]] games such as [[three-cushion billiards|three-cushion]], a successful attempt at making a ''scoring'' billiard shot under the rules for that game (such as contacting three cushions with the cue ball while executing the billiard).  A failed attempt at scoring would, in this context, not be called "a billiard" by players of such games even if it satisfied the first, more general definition.
+; Billiards : In the US, generally refers to the [[Carom billiards|carom games]], or sometimes to all [[cue sport]]s.  In the UK, it usually means the game of [[English billiards]].  In Europe and otherwise outside the US and UK, it usually refers to carom games.  Historically, it universally meant [[cue sport]]s in general.
+; Black ball : ''Also '''the black'''.''
+#In [[snooker]], the highest-value [[#Colour ball|colour ball]] on the table, being worth seven points.<ref name="TIEOB" />  In some (especially American) snooker ball sets it is numbered "7" on its surface.
+#The black ball (usually numbered "8") in the [[eight-ball]] variant games [[Eight-ball#Blackball rules|blackball]] and WEPF/[[Eight-ball#UK|UK eight-ball]].<ref name="WEPFRules" />  ''See also [[#8 ball|8 ball]].''
+; Blood test : Any very difficult shot that must be made under pressure.
+; Blue ball : #In [[snooker]], the [[#Colour ball|colour ball]] worth 5 points, whose [[#Spot|spot]] is at the center of the table.<ref name="TIEOB" />
+#''Also '''the blues'''.''  In the [[eight-ball]] game variant [[Eight-ball#Blackball rules|blackball]], and sometimes in [[Eight-ball#UK|UK eight-ball more generally]], a differently colored but otherwise identical replacement for [[#Red ball|the red]] [[#Group|group]] (i.e., what would be the [[#Solids|solids]] in an American-style pool ball set.<ref name="BlackballRules">[http://www.wpa-pool.com/download/WPABlackballfinalrules.pdf "World Pool Association &#91;sic&#93; Blackball Rules"], World Pool-Billiard Association, 2005.</ref>
+; Body english : The useless but common practice of contorting one's body while a shot is in play, in the vain hope that that will influence the balls' paths of travel; the term is considered humorous.<ref name="TIEOB" />
+; Bottom spin : ''Same as [[#Backspin|backspin]].''
+; Break : #Typically describes the first shot in most types of billiards games.  In carom games it describes the first point attempt, as shot from an unvarying cue ball and object balls placement; in many pocket billiard games it describes the first shot which is used to break open the balls which have been [[#Rack (verb)|racked]] together;<ref name="TIEOB" />
+#Also describes a series of consecutive pots by a player during a single turn. More typically applied in Snooker, e.g., "The player had a break of 89 points."<ref name="TIEOB" />  (Chiefly British; ''compare [[#Run|run]].'')
+; Break and dish : ''Same as [[Break and run]].''  (Chiefly British.)
+; Break and run : ''Also '''break and run out'''.''
+In [[pocket billiards]], when a player breaks the balls, pockets at least one ball on the break, and commences to [[#Run out|run out]] the remaining balls without the opponent getting a turn at the table. Multiple break-and-runs occur quite frequently in professional play, but anything higher than five racks in a row is considered very good (Earl Strickland once broke and ran eleven racks in a row to win $1,000,000 during a tournament that had a promotion that anyone who could break and run ten in row would win the million.{{cn}})  ''See also [[#Run the rack|run the rack]].''
+; Break down one's cue : To take one's two-piece [[#Cue stick|cue stick]] apart, often indicating that the game is over or conceded.<ref name="TIEOB" />
+; Bridge : Either the player's hand or a [[#Mechanical bridge|mechanical bridge]] used to support the shaft end of the cue stick during a shot. Also the particular hand formation used for this purpose.<ref name="TIEOB" />
+; Bridge hand : The hand used by a player as a [[#Bridge|bridge]] during a normal shot that doesn't involve a [[#Mechanical bridge|mechanical bridge]]. The bridge hand is usually a player's non-dominant hand.<ref name="TIEOB" />
+; Brown : In [[snooker]], the highest-value [[#Baulk colour|baulk colour]], being worth 4 points.<ref name="TIEOB" />
+; Bumper : The rubber bumper on the bottom of a cue.<ref name="TIEOB" />
+; Burnish : To seal the pores of a wooden cue by rubbing it vigorously with some material, usually leather; also done to the edge of a cue tip to fortify it against [[Glossary of pool, billiards and snooker terms #Mushroom|mushrooming]].
+; Business, doing : Collusion between matchplay opponents who prearrange who will win a match on which other people's money is wagered, in order to guarantee a payday.<ref name="TIEOB" />
+; Butt : The bottom portion of a pool cue which is gripped by a player's hand.<ref name="TIEOB" />
+
+== C ==
+; Calcutta : A player's auction at a pool tournament. Each player is called and players and spectators bid on the player. The highest bidder pays their bid to the calcutta, and then essentially has invested in that player's success. The highest bidder(s) on the player(s) that win or advance far enough in the tournament is/are entitled to their share of all money used for bids.
+; Call : Any instance of a player having to say what they are about to do, or have already done. For example, in eight ball a player must call the pocket in which a ball is intended to be potted.  ''Contrast [[#Fish|fish]].''
+; Call-shot : ''Also '''called-shot'''.''
+Any game in which during normal play a player must call the ball to be hit and the intended pocket; "eight-ball is a call-shot game."  Sometimes referred to as "call&#91;ed&#93; pocket" to distinguish it from the common American [[#Bar pool|bar pool]] practice of requiring every ''aspect'' of shots to be called.
+; Cannon : English/Canadian variant of [[#Carom|carom]].
+; Carom : # ''Also '''carom shot'''.''  To careen the cue ball off of an object ball to strike another object ball with the cue ball.  ''Contrast with [[#Kiss|kiss shot]].''
+# ''Also '''carambole'''.''  A type of point-scoring shot in billiards where the player causes his/her cue ball to hit each of the other two balls on the table.{{dubious}}<!--I think this definition belongs to #Billiard, at defn. 2.)--> Also called a [[#Cannon|cannon]] (British/Canadian variant).
+# To careen the cue ball off of an object ball at all; used in such phrases as "carom angle".
+; Center spot : ''Also '''centre spot'''.''
+The (usually unmarked) spot at the geometric center of the [[#Bed of table|bed]] of a table.
+; Centre pocket : In the UK, one of the two [[#Pocket|pocket]]s one either side of a [[pocket billiards|pool]], [[snooker]] or [[English billliards]] table halfway up the [[#Long rail|long rails]]. They are cut shallower than [[#Corner pocket|corner pocket]]s because they have a 180 degree aperture, instead of 90 degrees. Also commonly called a middle pocket. The term is not generally used in the US where "side pocket" prevails.
+
+; Century : In [[snooker]], a [[#Break|break]] of 100 points or more, which involves [[#Pot|potting]] at least 26 balls consecutively.
+; Chalk : A powdered substance placed on a cue stick's tip to increase its friction and thereby decrease slippage between the tip and cue ball. ''See also [[#Hand chalk|hand chalk]].''
+; Chasing one's money : The inability of some players to stop gambling once they have lost money because they "have" to get their money back.
+; Cheat the pocket : To aim at an object ball such that it will enter one side or the other, rather than the center, of a pocket. This permits the cue ball to strike the object ball at a different contact point than the most obvious one.  Employed for [[#Position play|position play]] and to prevent [[#Scratch|scratches]] on dead-straight shots in cases where draw is not desirable (or may not be dependable; see [[#Smash-through|smash-through]].
+; Check side : A type of [[#English|spin]] imparted to the [[#Cue ball|cue ball]] to make it rebound from a [[#Cushion|cushion]] at a shallower angle than it would if the spin had not been used. 
+; Chinese snooker : [[Image:Chinese snooker.svg|thumb|right|200px|Chinese snooker on the red ball]]
+A situation where the [[#Cue ball|cue ball]] is directly in front of another ball in the line of the shot such that the player is [[#Hampered|hampered]] by it, having to [[#Bridge|bridge]] over it awkwardly. This term is most commonly used in the game of [[snooker]].
+; Choke : To commit errors while shooting, especially at the [[#Money ball|money ball]], due to pressure.
+; Clean : Describing a [[#Pot|pot]] that goes straight into the [[#Pocket|pocket]] without touching either [[#Knuckle|knuckle]].
+; Clearance : In [[snooker]] and various pool games played in the UK, the successful [[#Pot|potting]] of all object balls in play in a single frame.
+; Cling : An unnatural contact between two balls, usually the [[#Cue ball|cue ball]] and an [[#Object ball|object ball]], which can negatively affect an otherwise well-played shot. Cling occurs when some foreign material, often residual [[#Chalk|chalk]] on the cue ball's surface, contacts the object ball and throws the shot offline. Also sometimes known as [[#Skid|skid]], or in the UK, [[#Kick|kick]].
+; Closed bridge : A bridge formed by the hand where the index finger is curved over the cue stick and other fingers are spread on the cloth providing solid support for the cue stick's direction.
+; Cloth : The cloth covering the tables playing surface and rails, usually made from wool or a wool-nylon blend. Sometimes cloth is improperly referred to as "felt."
+; Cluster : Two or more object balls that are touching or are close together.
+
+; Cocked hat double : A term applied especially in [[snooker]] for a type of double off three cushions, e.g. around the [[#Baulk colour|baulk colours]] and into a [[#Centre pocket|centre pocket]]. Such a shot is very difficult to make and would not normally be played as anything more than a [[#Shot for nothing|shot for nothing]].
+
+; Collision-induced english : Sidespin imparted to an object ball by the friction from the hit of the cue ball during a cut shot.
+; Collision-induced throw : Deflection of an object ball's path away from the impact line of a [[#Cut shot|cut shot]], caused by sliding friction between the cue ball and the object ball. One of the two types of [[#Throw|throw]].
+; Colour ball : ''Also '''coloured ball(s)''', '''colour(s)'''
+#In [[snooker]], any of the [[#Object ball|object ball]]s that are not [[#Red ball|reds]]. A colour ball must be [[#Pot|potted]] after each red in the continuation of a [[#Break|break]], and are [[#Re-spot|re-spotted]] until the reds run out, after which the colours must be potted in their order:
+:*[[#Yellow ball|yellow]] (2 points);
+:*[[#Green ball|green]] (3 points);
+:*[[#Brown ball|brown]] (4 points);
+:*[[#Blue ball|blue]] (5 points);
+:*[[#Pink ball|pink]] (6 points);
+:*[[#Black ball|black]] (7 points).
+:Although the full term includes "ball" after the colour, they are most commonly referred to with the omission of "ball", just stating the colour (e.g. "he's taken 5 blacks with reds so far").
+:2.  In WEPF/[[Eight-ball#UK|UK eight-ball]], a generic, collective term for the [[#Red ball|red]] and [[#Yellow ball|yellow]] [[#Group|groups]] of [[#Object ball|object balls]], corresponding to the (originally American, but used much more widely today) [[#Solids|solids]] and [[#Stripes|stripes]], respectively.<ref name="WEPFRules" />
+; Combination shot : ''Also '''combination''', '''combo'''.''
+Any shot in which the cue ball contacts an object ball, which in turn hits one or more additional object balls (which in turn may hit yet further object balls) to send the last-hit object ball to an intended place, usually a pocket.  In the UK this is often referred to as a [[#Plant|plant]].
+; Contact point : The point on each of two balls at which they touch at the moment of impact.
+; Containing safety : A type of [[#Safety shot|safety shot]] in the middle of a safety exchange that is not intended to put the opponent in a difficult situation regarding their next safety, but rather played so as to not leave an easy [[#Pot|pot]] on. A typical example in [[snooker]], which sees the most shots of this kind, is a slow [[#Roll-up|roll-up]] into the [[#Pack|pack]].
+; Corner hooked : When the corner lip of a pocket blocks the path of the cue ball from contacting an intended object ball. Interchangeable with "[[#Tittie hooked|tittie hooked]]".
+; Corner pocket : Any of the four [[#Pocket|pocket]]s in each corner of a pool or [[snooker]] table. They have a 90 degree aperture and as such are cut deeper than center pockets, which have 180 degree apertures. On an American table, a corner pocket is cut to be able to accept two balls abreast simultaneously.
+; Creep : Deviation of a ball from its initial direction of travel. Often the result of a poor-quality table and may be an artifact of the [[#Cloth|cloth]], the [[#Bed|bed]], a ball with uneven weight distribution, or simply the floor the table stands on being uneven. It should not be confused with the [[#Nap|nap]] of the cloth.
+; Cribbage : A game in which players score "[[#Way|ways]]" by making series of two balls in succession that have a number value which combined equal 15. For example, the 8 ball and the 7 ball added together equal 15 and make up one "way".
+; Cross : ''Also '''cross rake'''.''  A type of [[#Rest|rest]], with a straight [[#Shaft|shaft]] and "x"-shaped head for resting the [[#Cue|cue]] upon.
+; Cross-corner : A bank shot that rebounds from a cushion and into the nearer corner pocket.
+; Cross double : A UK term describing a [[#Bank shot|bank shot]] in which the [[#Cue ball|cue ball]] crosses the future path of the [[#Object ball|object ball]]. Such shots are usually played into a [[#Center pocket|center pocket]] because there is the danger of a [[#Double-kiss|double-kiss]] if played to a [[#Corner pocket|corner pocket]].
+; Cross-side : A bank shot that rebounds from a cushion and into the side pocket.
+; Cue : #A stick, usually around 55-60" in length with a leather tip on the end and sometimes with a joint in the middle, which is used to propel billiard balls. {{further|[[Cue stick]]}}
+#Sometimes cue is short for [[#Cue ball|cue ball]].
+; Cue action : A UK term describing the posture and timing used by players on their shots, often indicative of how they play in their shot selection. A fast, natural player would tend to be more aggressive whereas a less naturally-gifted player might have a slow action and tend to be more conservative on the table. It is widely accepted that the better players get lower to the table with their chins on the [[#Cue|cue]], have a straight back leg, their elbow hingeing in line with the shot, and a straight follow-through after the [[#Cue ball|cue ball]] has been struck.
+; Cue ball : The ball in a billiards game, typically white in color, that a player strikes with a cue stick. It is variably spelled cueball, and is sometimes referred to as the white ball, whitey and the rock.
+; Cue power : A UK term describing the amount of control a player can retain when playing shots with heavy spin and great pace; "it took tremendous cue power to get onto the 2-ball having been relatively straight on the 1."
+; Cue stick : ''Same as [[#Cue|cue]].''
+; Cue tip : A material, usually leather, placed on the end of a cue stick that comes in contact with the cue ball. 
+; Curve shot : ''Same as [[#Semi-masse|semi-masse]].''
+; Cushion : The elastic bumpers mounted on all rails of a billiards table, usually made from rubber or synthetic rubber, from which the balls rebound.  
+; Cut shot : Technically, any shot that is not a center-to-center hit, but almost always used to describe a shot that has more than a slight degree of angle.
+; Cutthroat : A three person game. Each player claims a set of 5 balls, choosing between sets of the 1 through 5 balls, the 6 through 10 balls and the 11 through 15. The goal is to sink all the balls of both of your opponents while keeping yours on the table. If a player scratches, one previously sank ball of each opponent are brought back into play.
+
+== D ==
+; "D", the : An 11-1/2?-radius semicircle, drawn behind a snooker table's [[#Baulk line|baulk line]], centred on the middle of the line, and resembling the upper case letter "D" in shape.  The "D" is also used in [[English billiards]] and sometimes also in [[Eight-ball#UK|UK eight-ball]].
+; Dart stroke : A short and loose stroke performed in a manner similar to the way one throws a dart; usually employed for the [[#Jump or jump shot|jump shot]].
+; Dead : ''Same as [[#Wired|wired]].''
+; Dead ball shot : ''Same as [[#Kill shot|kill shot]].''
+; Dead rail : A [[#Cushion|cushion]] that has either lost a degree of elastic resiliency or is not firmly bolted to the frame, in both cases causing balls to rebound with less energy than is normal.
+; Dead stroke : When a player is playing flawlessly, just "cannot miss" and the game seems effortless.
+; Deadweight : Describing a [[#Pot|pot]] played at such a pace as to just reach the [[#Pocket|pocket]] and drop in without hitting the back.
+; Deflection : Displacement of the cue ball's path away from the parallel line formed by the cue stick's direction of travel; occurs every time [[#English|english]] is employed. The degree of deflection increases the faster and the more english with which a ball is struck. It is also called squirt, typically in the United States.
+; Deliberate foul : A shot, especially common in [[straight pool]] and in some variants of [[Eight-ball#UK|UK eight-ball]] (but not WEPF/EPA eight-ball<ref name="WEPFRules"/>), in which a player intentionally commits a [[#Foul|foul]] with the object in mind of either leaving the opponent with little chance of [[#Run out|running out]] or simply to avoid shooting where no good shot is presented and to do anything else would give the opponent an advantage. It is often referred to in straight pool also as a "back scratch."
+; Develop : To move a ball (usually deliberately) from a safe position, e.g. close to the middle of a [[#Cushion|cushion]] or in a [[#Cluster|cluster]], so that it becomes [[#Pot|pottable]].
+; Diamonds : Markings, usually inlaid into the surface above the rail cushions, used as target or reference points. Three equally spaced diamonds are normally between each pocket on a pool table. Diamonds get their name from the shape of the markings traditionally used. Nevertheless, no matter the shape, rail markings are still referred to as "diamonds."
+; Diamond system : Any system for [[#Bank shot|banking]] or [[#Kick shot|kicking]] balls multiple rails which uses table [[#Diamonds|diamonds]] as aiming references.
+; Dish : ''Same as [[#Run out|run out]].''  (Chiefly British.)  ''See also [[#Break and dish|break and dish]].''
+; Dog : #A widespread term in US parlance describing missing a relatively easy shot &mdash; often in the face of pressure.  Can be used in many forms: "I dogged the shot"; "I hope he dogs it"; "I'm such a dog."
+#''Same as [[#Slop|slop]] shot.''  (Chiefly southern US, colloquial.)
+; Dots : In chiefly UK parlance, the non-striped ball [[#Group|group]] of a fifteen ball set that are numbered 1 through 7 and have a solid color scheme.  ''Compare [[#Solids]], [[#Red ball|reds]], [[#Low|low]], [[#Small|small]], [[#Little|little]], [[#Spots|spots]]; contrast [[#Stripes|stripes]].''
+; Double : ''Same as [[#Bank shot|bank shot]].''  (Chiefly British.)
+; Double cheeseburger, the : ''Same as [[#Hill-hill|hill, hill]].''
+; Double elimination : A tournament format in which a player must lose two matches in order to be eliminated.   
+; Double hit : An illegal shot in which the cue stick's tip contacts the cue ball twice during a single stroke. Double hits often occurs when a player shoots the cue ball when it is very close to another ball or rail.
+; Double kiss : A situation in which a ball strikes another ball which is close to a rail and the struck ball rebounds back into the ball it was hit by; usually but not always unintended.
+; Double shimmed : A pool table where two [[shim]]s have been placed on the sides of each pocket (in the [[#Jaws|jaws]] beneath the cloth), making the pockets "tighter" (smaller). Such tables are "tougher" than unshimmed or single-shimmed tables, but not as tough as a triple-shimmed table. Top players often prefer shimmed tables, whereas beginners find them frustrating.
+; Double the rail : A [[three cushion billiards]] shot where the cue ball is shot with [[#Reverse english|reverse english]] at a relatively shallow angle down the rail, and spins backwards off the adjacent rail back into the first rail.
+; Drag shot : A shot played slowly and with heavy [[#Draw|draw]] and [[#Followthrough|followthrough]] so that the [[#Cue ball|cue ball]] can be struck firmly but with a lot of the pace taken out, allowing more control than just a gentle tap that would travel as far.
+; Draw : Also known as [[#Backspin|backspin]], a type of spin applied to the [[#Cue ball|cue ball]] by hitting it below its [[#Equator|equator]], causing it to spin backwards even as it slides forward on the cloth.  Backspin slows the cue ball down, reduces its travel, and narrows both the [[#Carom|carom angle]] after contact with an [[#Object ball|object ball]], and [[#Angle of reflection|angle of reflection]] off of a [[#Cushion|cushion]].  It is crucial to [[#Draw shot|draw shots]] and [[#Stop shot|stop shots]].  There are several variant terms for this, including "bottom" and "bottomspin" in the US and "screw" in the UK.  Draw is thought to be the first spin technique understood by billiards players prior to the introduction of leather tips, and was in use by the 1790s.<ref name="TIEOB" />
+; Draw shot : A shot in which the [[#Cue ball|cue ball]] is struck below its equator with sufficient [[#Draw|draw]] to make it reverse direction at the moment of contact with an [[#Object ball|object ball]] because it is still backspinning.<ref name="TIEOB" />  When the object and cue balls are lined up square, the reversal will be directly backwards, while on a cut shot, the effect will alter the [[#Carom|carom]] angle.  Can also refer to any shot to which draw is applied, as in "draw it off the foot rail just to the left of the center diamond".
+; Drill : #A set practice routine;
+#To beat badly; "I drilled my opponent."
+#In British terminology, a [[#Bank shot|bank shot]].
+; Drop pockets : Pockets that do not return the balls to a foot end of the table, which must be retrieved manually.
+; Duck : #(Noun): Derived from "sitting duck", refers to an object ball sitting close to a pocket or so positioned that is virtually impossible to miss.  ''Same as [[#Hanger|hanger]] (US, colloquial), [[#Sitter|sitter]] (UK).''
+#(Verb): To intentionally play a safety.
+
+== E ==
+; 8 ball : ''Also '''the 8'''.''
+The [[#Money ball|money ball]] ([[#Game ball|game ball]]) in a game of [[Eight-ball|eight-ball]]. It is last ball that must be pocketed, after the [[suit]] of seven object balls belonging to the player shooting for the 8 (pocketing the 8 ball early is a loss of game &mdash; unless done on the break, in some rules variants.)  It is usually black in colour with the numeral "8" in a white circle.  In other games, such as [[nine-ball]] and [[straight pool]], the 8 is simply an object ball.
+; End rail : Either of the two shorter rail of a billiards or pocket billiards table.  
+; English : Also known as [[#Sidespin]], spin placed on the cue ball when hit with the cue stick to the left or right of the ball's center. English has a marked effect on [[#Cue ball|cue ball]] rebound angle off of [[#Cushion|cushions]] (though not off of [[#Object ball|object balls]]), and is thus crucial for gaining [[#Shape|shape]]; and can be used to "[[#Throw|throw]]" an object ball slightly off its otherwise expected trajectory, to [[#Cheat the pocket|cheat the pocket]], and for other effects.  "English" is sometimes used more inclusively, to also refer to [[#Follow|follow]] and [[#Draw|draw]].  The British and Irish do not use this term, instead preferring "[[#Side|side]]".
+; Equator : The horizontal plane directly in the center of the [[#Cue ball|cue ball]], which when hit exactly by the [[#Cue tip|cue tip]] should impart no [[#Follow|follow]] or [[#Draw|draw]].
+; Escape : A successful attempt to get out of a [[#Snooker|snooker]].
+; Extension : Any mechanical aid that serves to extend the length of the player's [[#Cue|cue]], normally added to the end of the [[#Butt|butt]] either by clipping around the end or screwing into the base. Though extensions are used for pool, it is more common in snooker because of the significantly larger table size.
+
+== F ==
+; Fat : ''See [[#Undercut|undercut]].''
+; Fault : ''Same as [[#Foul|foul]].''  (Chiefly British, and declining in usage; even the WPA blackball and WEPF eight-ball rules use "foul".)
+; Feather shot : ''Also '''feather'''.''  A very thin [[#Cut shot|cut shot]] in which the cue ball just brushes the edge of an object ball.  "Feather" by itself can be both noun and verb.  ''See also [[#Snick|snick]].''
+; Felt : ''Same as [[#Cloth|cloth]].''  (Deprecated; it is factually incorrect.)
+; Ferrule : A sleeve, fitted onto the [[lathe]]d-down tip end of the [[#Cue|cue]], made from fiberglass, plastic, ivory or other material, upon which the [[#Cue tip|cue tip]] is mounted and which protects the [[#Shaft|shaft]] wood from splitting from [[#Cue ball|cue ball]] impact.
+; Firewood : Common slang in the US for a cheap, poorly-made cue.  ''Compare [[#Wood|wood]].''
+; Fish : #An easy [[#Mark|mark]];
+#A person who loses money gambling and keeps coming back for more;
+#Sometimes, a poor player;
+#As a verb, to hit the balls hard with no intention in mind other than to get lucky.  ''Compare [[#Slop|slop]]; contrast [[#Mark|mark]] and [[#Call|call]].''
+; Flagrant foul : A [[#Foul|foul]] where the rules are blatantly, intentionally violated, with a stiffer penalty (e.g., loss of game) than normal.
+; Fluke : A shot that has a positive outcome for the player, although it was not what the player intended. Examples of flukes include an unexpected [[#Pot|pot]] off several [[#Cushion|cushions]] or other balls having missed the pocket aimed for, or perhaps a lucky [[#Safety|safety]] position after having missed a pot.
+; Follow : The forward rotation of the [[#Cue ball|cue ball]] that results from a [[#Follow shot|follow shot]]. Also called follow.
+Also known as [[#Topspin|topspin]], a type of spin applied to the [[#Cue ball|cue ball]] by hitting it above its [[#Equator|equator]], causing it to spin more rapidly forward than it would simply by rolling on the cloth from a center-ball hit.  Follow speeds the cue ball up, increases its travel, and widens both the [[#Carom|carom angle]] after contact with an [[#Object ball|object ball]], and [[#Angle of reflection|angle of reflection]] off of a [[#Cushion|cushion]]. "Top" and "topspin" are other terms for "follow".
+; Follow shot : A shot in which the [[#Cue ball|cue ball]] is struck above its equator with sufficient [[#Draw|draw]] to cause the cue ball to travel forward after it contacts an [[#Object ball|object ball]]. When the object and cue balls are lined up square, the travel will be directly forward (and can sometimes even be used to pocket a second ball), while on a cut shot, the effect will alter the [[#Carom|carom]] angle.  Can also refer to any shot to which follow is applied, as in "follow it off the foot rail just to the left of the center diamond".
+; Follow-through : On a shot, the extension of the [[#Mechanical Cue|cue]] through the [[#Cue ball|cue ball]] position during the end of a player's stroke in the direction originally aimed.
+; Foot rail : The short rail at the end of the table where balls are normally racked.
+; Foot spot : The point on the table surface over which the apex ball of a rack is centered or, the point half the distance between the second diamond on either side of the racking end of the table.  The foot spot is the intersection of the [[#Foot string|foot string]] and the [[#Long string|long string]], and is typically marked with a cloth or paper decal on pool tables, but not on some other table types.
+; Foot string : An imaginary line running horizontally across a billiards table from the second diamond on one long rail to the corresponding second diamond on the other long rail on the [[#Rack (verb)|racking]] end of the table.  The foot string intersects the [[#Long string|long string]] at the [[#Foot spot|foot spot]].
+; Force follow : A powerful follow shot with a high degree of topspin on it; usually when the object ball being hit is relatively close to the cue ball and is being hit very full; also known as "prograde topspin" or "prograde follow" (when referring to the action on the shot rather than the shot ''per se''), and as a "jenny" in Australia.
+; Foul : A violation of a particular game's rules for which a set penalty is imposed. In many games the penalty for a foul is ball-in-hand anywhere on the table for the opponent, or [[#Ball-in-hand|ball-in-hand]] behind the [[#Headstring|headstring]].  In other games such as straight pool, a foul results in a loss of one or more points. In one-pocket, in which a set number of balls must be made in a specific pocket, upon a foul the player must return a ball to the table. In some games, three successive fouls in a row is a loss of game. In straight pool, a third successive foul results in a loss of 16 points (15 plus one for the foul).<p>Possible foul situations (nonexclusive):
+* The player shoots the cue ball first into a ball that is not an object ball
+* The player shoots and after contacting an object ball, no ball is pocketed and neither the cue ball nor a numbered ball contacts a cushion (excepting [[#Push or push out|push out]] rules)
+* The player pockets the cue ball ''(See [[#Scratch|scratch]])''
+* The player does not have at least one foot on the floor at the moment of shooting
+* The player shoots the cue ball before all other balls have come to a complete stop
+* The player hits the cue ball more than once during a shot (a [[#Double hit|double hit]])
+* The player touches the cue ball with something other than the tip of the cue
+* The player touches any ball other than the cue ball
+* The player causes a ball to leave the table's playing surface
+* The player marks the table in any manner to aid in aiming
+* The player who has ball-in-hand touches an object ball with the cue ball while attempting to place the cue ball on the table
+* The player shoots in such a manner that his cue tip stays in contact with the cue ball for more than the momentary time commensurate with a stroked shot (a [[#Push shot|push shot]]).
+; Frame : A term especially used in [[snooker]] and WEPF/[[Eight-ball#UK|UK eight-ball]]<ref name="WEPFRules" /> but also in the US for each [[#Rack|rack]] from the [[#Break|break]] off until a [[#Clearance|clearance]], losing foul or concession has been made.
+; Frame ball : ''Same as [[#Game ball|game ball]].''  (Chiefly in [[snooker]] and [[Eight-ball#UK|UK eight-ball]].)
+; Free ball : A situation where a player has [[#Foul|fouled]], leaving the opponent [[#Snookered|snookered]]. In [[Eight-ball#UK|UK eight-ball]] this would normally give the opponent the option of one of two plays: (1) [[#Ball-in-hand|ball-in-hand]] with [[#Two shots|two shots]]; (2) being allowed to contact, or even [[#Pot|pot]], a ball other than one from his/her set from the snookered position (although the black may not be potted), with the loss of the first shot. In [[snooker]] it allows a player to call any ball as the ball she/he would have wanted to play, potting it for the same number of points, or the opponent can be put back in without the same privilege, having to play the ball snookered on. It should be noted that the definition of ''snooker'' on this occasion means the opponent cannot strike both extreme edges of the [[#Object ball|object ball]].<!-- Not sure this agrees with what is said at [[#Two shots]] and [[#Two-shot carry]]. -->
+; Free stroking : #Pocketing well and quickly but without much thought for position play.
+#Playing loose and carefree.
+#''Same as [[#Dead stroke|dead stroke]].''
+; Freeze up : To dedicate a set amount of money that a gambling match will be played to; no one may quit until one player or the other has won the "frozen up" funds.
+; Frozen : A resting ball that is in actual contact with one or more balls or with a rail is "frozen" (or, colloquially, "froze") to the touching ball(s) or rail.
+; Fundamentals : The basic actions necessary to shoot well &ndash; [[#Stance|stance]], grip, [[#Stroke|stroke]], [[#Bridge|bridge]] and [[#Follow-through|follow-through]].
+
+== G ==
+; Game ball : The ball required to win the [[#Rack|rack]].  In [[snooker]] it is called the [[#Frame ball|frame ball]].  ''See also [[#Money ball|money ball]].''
+; Games on the wire : To give a handicap to an opponent where they have to win a specified number less games than the other player in order to triumph in the match.
+; Gapper : An agreement between two players in a tournament, one of whom will advance to a guaranteed money prize if the match is won, to give a certain percentage of that money to the loser of the match.
+; Gather shot : In the carom games, any shot where the end result is all the balls near each other; ideally, in position for the start of a [[#Nurse|nurse]] on the next stroke.
+; Ghost ball : A common aiming method in which a phantom ball is imagined frozen to the object ball at the point where an imaginary line drawn between their centers is aimed at the desired target; the cue ball may then be shot at the center of the "ghost" ball and, ideally, impact the object ball at the proper aiming contact point.
+; Go off : Describes the propensity of a player losing small money at gambling to suddenly sharply increase the stakes; often continuing to lose until broke.  ''Compare [[#Chasing your money|chasing your money]].''
+; Golden break : In [[nine-ball]], especially in the UK, a [[#Break|break]] shot that pots the [[#9 ball]] without [[#Foul|fouling]], in which case the player wins in one shot.  ''See also [[#On the snap|on the snap]].''
+; Goose neck : ''Also '''Goose neck rest'''.''  ''Same as [[#Swan|swan]].''
+; Green : #Nearly table-length distance between the cue ball and target object ball, or near cue and object balls and target pocket, i.e. a potentially difficult shot ("you sure left me a lot of green on that one")
+#The [[#Cloth|cloth]] covering the table ("oh, man, you just ripped the green")
+#The [[#Green ball|green ball]] ("that was a great shot on the green")
+#Money ("I won a lot of green last night from that wannabe hustler")
+; Green ball : In [[snooker]], the [[#Colour ball|colour ball]] that is worth three points, being the second-least valuable colour behind the [[#Yellow ball|yellow]]. It is one of the [[#Baulk colour|baulk colour]]s.
+; Green pocket : The [[#Pocket|pocket]] in [[snooker]] that is closest to the [[#Green ball|green]] [[#Spot|spot]].
+; Group : ''Same as [[#Suit|suit]]'', predominantly in British terminology, i.e., in [[eight-ball]] either of the set of seven balls ([[#Reds|reds]] or [[#Yellows|yellows]]) that must be cleared before [[#Pot|potting]] [[#Black ball|the black]].  Generally used in the generic, especially in rulesets or articles, rather than colloquially by players.<ref name="WEPFRules">[http://www.wepf.org/playrules.php?option=1 World Eight-ball Pool Federation Eight-ball Rules], 2004, Perth, WA, Australia &mdash; These are also the rules of the English Pool Association and other national WEPF affiliates.  Despite its name, the WEPF is principally composed of leagues in the current or former [[British Commonwealth]] nations.</ref>
+
+== H ==
+; Half-ball hit : A shot aimed such that the center of the cue ball is in line with the edge of the object ball, eclipsing half of the ball. "Hit it just a little thinner than half ball." Also notable because the carom angle the cue ball takes is more consistent than at other contact points.
+; Half-century : In [[snooker]], a [[#Break|break]] of 50–99 points (100 points or more being called a century), which involves [[#Pot|potting]] at least 12 consecutive balls.
+; Hand chalk : Powdery white chalk placed on a player's [[#Bridge hand|bridge hand]] to reduce moisture so that a [[#Cue|cue]]'s shaft can slide more easily. It is not provided in many establishments as many recreational players will use far more than is necessary and transfer it all over the table's surface.
+; Handicapping : Modification of the rule and/or scoring of a game to enable players of differing abilities to compete on more even terms. Examples of handicapping include [[#Spot a ball(s)|spotting balls]] and giving [[#Games on the wire|games on the wire]] to an opponent.
+; Hanger : ''Same as [[#Duck|duck]].''  Derives from An easily-shot ball "hanging" over the edge of a pocket.
+; Hanging in the pocket : A ball hanging over the edge of a pocket.
+; Have the nuts : Be in a game where either because of disparity in skill level, or because of a [[#Handicapping|handicap]] given, it would be very difficult to lose.
+; Having the cue ball on a string : Used when describing perfect cue ball position play.
+; Head rail : The short rail at the opposite end of the table from where the balls are normally racked.
+; Head spot : The intersection of the [[#Head string|head string]] and [[#Long string|long string]], which may or may not actually be marked on a table with a spot decal.
+; Head string : A line, sometimes imaginary, sometimes drawn on the cloth, that runs horizontally across the table from the second diamond on one long rail to the corresponding second diamond on the other long rail on the [[#Break|breaking]] end of the table. In many pool games, the opening break shot must be performed with the center (base) of the cue ball behind the head string.  The head string intersects the [[#Long string|long string]] at the [[#Head spot|head spot]], and defines the [[#Kitchen|kitchen]].
+; Heads up : ''Same as [[#Straight up|straight up]].''
+; Heart : The strength of a player's will to win; the ability to overcome pressure; "he showed a lot of heart in making that comeback."
+; High : #''Also '''highs''', '''high balls''', '''high ones'''.''
+:In [[eight-ball]], to be shooting the striped [[#Suit|suit]] ([[#Group|group]]) of balls (9 through 15); "you're high balls" or "I've got the highs" ("you're high" is rare, because of the "intoxication" ambiguity).  ''Compare [[#Stripes|stripes]], [[#Yellow ball|yellows]], [[#Big|big ones]]; contrast [[#Low|low]].''
+:2.  In [[snooker]], same as "[[#Above|above]]", as in "she'll want to finish high on the black to allow position on the red".
+; Hill-hill : The point in match play where both players (or teams) need only one more game to win. ''See also [[#On the hill|on the hill]].''
+; Hook : #''Same as [[#Snooker|snooker]] (verb)''
+#''Same as [[#Hook rest|hook rest]].''
+; Hook rest : ''Also '''the hook'''.''
+In [[snooker]], a type of [[#Mechanical bridge|mechanical bridge]] that has only recently been endorsed by the [[WPBSA]] to allow its use in major tournament play. It is a normal rest with the head in line with the [[#Shaft|shaft]], but the last foot or so of the shaft is curved. This allows players to position the curved end around an obstructing ball that would have otherwise left them [[#Hampered|hampered]] on the [[#Cue ball|cue ball]] and in need of a [[#Spider|spider]] or [[#Swan|swan]] with [[#Extension|extension]]s, which would have less control.
+; House cue : Usually a one-piece cue freely available for use by patrons in bars and pool halls.
+; House man : A pool room employee who plays with a good degree of skill.
+; House rack : A pejorative term for an improper rack in which the balls are not properly in contact with their neighbors, often resulting in a poor spread on the break.
+; House rules : The rules played in a particular venue not necessarily in comportment with official rules.
+; Hug the rail : ''See [[#Velcro|velcro]].''
+; Hustle : Play for money and lull a victim into thinking they can win, prompting them to accept higher and higher stakes, until beating them and walking off with more money than they would have been willing to bet had they been beaten soundly in the beginning. The terms hustler, for one who hustles, and hustling, describing the act, are just as common if not more so than this verb form.
+
+== I ==
+; In-hand : ''See [[#Ball-in-hand|ball-in-hand]].''
+; Inning : A player's turn at the table, usually ending with a miss, a failure to score a point, a [[#Safety|safety]] or with a win.
+; In-off : In [[snooker]], an instance where the [[#Cue ball|cue ball]] has been [[#Pot|potted]] after contacting another ball first. The term also tends to be used when it goes straight in, but this is not technically correct.
+; Inside english : Sidespin on a cue ball on the same side of the direction of the cut angle to be played (left hand english when cutting a ball to the left, and vice versa).
+; In stroke : Cueing and timing the balls well; in good form, where [[#Pot|potting]], [[#Safety|safety]] and clarity of thinking seems to come a lot easier. If a player is not doing as well but then suddenly picks up, which happens during the course of most matches, she/he is said to catch a stroke.
+; Insurance ball : A ball that is easily made from most positions on the table but which is left untouched while the rack is played, so that in the event the player gets out of position, the shooter has an insurance shot. Typically an insurance ball will be in or near the [[#Jaws|jaws]] of a pocket.
+; In turn : When a particular ball is given as a [[#Handicapping|handicap]] in nine-ball, designating that ball ''in turn'' means that it must be made in rotation, when it is the lowest numerical ball remaining on the table, and cannot be made to garner a win earlier in the game by way of a combination, carom or any other shot. For example, if a player is [[#Spot (verb)|spotted]]  the 8 ball, he only wins by making that ball after balls 1 through 7 have been cleared from the table. The phrase is not common in the U.S.
+; Irish linen : Linen made from flax and produced in Ireland which is often used to wrap the gripping area of the [[#Butt|butt]] of a cue.
+{{further|[[Irish linen]]}}
+
+== J ==
+; Jack up : #To elevate the back of the cue on a shot.
+#In gambling, to "jack up a bet" means to increase the stakes.
+; Jail : When a player is on the receiving end of a devastating safety where it is very difficult or near impossible to make a legal hit on an object ball. 
+; Jam up : Adjectival expression for a player's deadly game; "watch out, he plays jam up."
+; Jaws : The inside walls of a pocket billiards table's pockets.
+; Jenny : ''Same as a [[#Force follow|force follow]] shot.''
+; Joint : The interlocking connection between the butt and shaft ends of a two-piece cue stick.
+; Joint protectors : Plugs that screw into the joint when a two-piece cue is broken down to keep foreign objects and moisture from contacting the joint mechanism. 
+; Jump cue : A [[#Cue|cue]] dedicated to [[#Jump shot|jumping]] balls; usually shorter and lighter than a playing cue and having a wider, hard [[#Cue tip|tip]]. Also referred to as a jump stick.
+; Jump shot : Any shot where the [[#Cue ball|cue ball]] is intentionally jumped into the air to clear an obstacle. Jump shots must be performed by hitting the cue ball into the table's surface so that it rebounds from the [[#Cloth|cloth]]. Scooping under the cue ball to fling it into the air is deemed illegal by all authoritative rules sources. The term is often shortened to "jump."
+
+== K ==
+; Key ball : The [[#Object ball|object ball]] involved in a [[#Key shot|key shot]].
+; Key shot : #A shot or ball that allows a player to obtain [[#Shape|shape]] on another ball hard to play position to.
+#A shot or ball that is the "key" to [[#Run out|running out]]. 
+#The 14<sup>th</sup> [[#Object ball|object ball]] in a rack of [[straight pool]] that, when proper position is achieved on, allows easy position play, in turn, on the last (15<sup>th</sup>) object ball for an [[Straight pool#Intergame racking|intergame break shot]].
+; Kick : #In the US, a ubiquitous shortening of the term [[#Kick shot|kick shot]].
+#In the UK, the phenomenon known as [[#Cling|cling]] or [[#Skid|skid]] in the US.
+; Kick shot : A shot in which the [[#Cue ball|cue ball]] is driven to one or more [[#Rail|rails]] before reaching its intended target &mdash; usually an [[#Object ball|object ball]]. It is often shortened to kick, as in "I had to kick at it" or "He can kick like a mule!"
+; Kill shot : A shot intended to slow down or "kill" the [[#Cue ball|cue ball]]'s speed as much as possible after contact with an [[#Object ball|object ball]]; usually a shot with [[#Draw|draw]], often combined with [[#Inside english|inside english]]. It is often shortened to kill.
+; Kiss : An instance of contact between balls, usually used in the context of describing an [[#Object ball|object ball]] contacting another object ball (e.g. "the two ball kissed off the twelve ball"). If the player's ''intention'' was to cause two object balls to kiss (e.g. to pocket a shot ball after a ricochet off of a stationary one), it is often called a '''kiss shot'''.  ''Compare [[#Double kiss|double kiss]]; contrast [[#Carom|carom]].''
+; Kiss shot : ''See [[#Kiss|kiss]].''
+; Kitchen : The area on the table behind the [[#Head string|head string]].  ''See also [[#Baulk|baulk]].''
+; Knuckle : One of two sharp, jutting curves of the [[#Cushion|cushion]]s either side of a [[#Pocket|pocket]] at the points where cushion and pocket meet, forming the [[#Jaws|jaws]] of the pockets.  Also known as a [[#Point|point]] or [[#Tittie|tittie]].
+
+== L ==
+; Lag : To determine the order of break, players (representing only themselves, or a team/partnership) each shoot a ball (usually a cue ball) from the [[#Kitchen]] to the end rail and back toward the bottom rail.  This pre-game mini-competition is known as "the lag", or "lagging for the break".  Whichever shooter's ball comes to rest closest to the bottom rail gets to choose who breaks. (In [[nine-ball]] and [[eight-ball]] the winner of the lag would usually keep the break, while in [[straight pool]] would likely require the loser of the lag to break.)  It is permissible but not required for the lagged ball to touch or rebound from the bottom rail.  Lagging is usually a two-party activity, though there are games such as [[cutthroat (pool)]] in which three players might lag.  In the case of a tie, the tying shooters re-lag.  The lag is most often used in tournament play or other competitions; the opponents who have been chosen to lag will each, side-by-side, strike their lagging ball at or about the same time.  When playing recreationally in pool rooms or at home, where having two or more cue balls is less likely, it is not uncommon to lag with object balls, or to take turns on lagging with a single cue ball (in which case the subsequent lag&#91;s&#93; is taken with the resting destination of the previously lagged ball marked using a coin, chalk, object ball, etc.  The cue ball that remains closest to the opposite cushion will determine which player will break the rack. It is permissible for the lagged ball to strike the cushion on its return, although doing so is not required.
+; Leave : The cue ball's position after a shot. A "good" leave would describe an advantageous position for the next shot.
+; Lemonade stroke : Intentionally playing with an amateurish stroke to disguise one ability to play. ''Compare [[#On the lemonade|on the lemonade]].''
+; Let out : To allow an opponent to stop playing a set for money in exchange for something. If a player is winning a set by a large amount with $100 on the line, the player could say, "I'll let you out now for $75." This is usually meant to save pride.
+; Little : ''Also '''littles''', '''little ones''', '''little balls'''.''
+In [[eight-ball]], to be shooting the solid [[#Suit|suit]] ([[#Group|group]]) of balls (1 through 7); "you're little, remember", "you're the little balls" or "I've got the littles".  ''Compare [[#Small|small]], [[#Solids|solids]], [[#Red ball|reds]], [[#Low|low]], [[#Spot|spots]], [[#Dots|dots]]; contrast [[#Big|big]].''
+; Lock : A game that basically cannot be lost based on disparity of skill levels; "this game is a lock for him."
+; Lock artist : Someone talented at making [[#Lock|lock]] games.
+; Long double : A term used in the UK for a [[#Bank|bank shot]] played up and down the longer length of the table off a [[#Short rail|short rail]] and into a [[#Corner pocket|corner pocket]], as opposed to the more common bank across the short length into a [[#Center pocket|center pocket]] or corner.
+; Long rail : ''Same as [[#Side rail|side rail]].''
+; Long string : An imaginary line dividing the table into two equal halves lengthwise.  It intersects with the [[#Head string|head string]] and [[#Foot string|foot string]] at the [[#Head spot|head spot]] and [[#Foot spot|foot spot]], respectively.
+; Look back : To enter the [[loser bracket]] in a [[double-elimination]] tournament, or otherwise slip in standing in other tournament formats  (i.e., to lose a game/frame/round/match, but still remain in the competition).
+; Losing hazard : A shoot in which the cue ball scratches after caroming off another ball.
+; Low : ''Also '''lows''', '''low balls''', '''low ones'''.''
+In [[eight-ball]], to be shooting the solid [[#Suit|suit]] ([[#Group|group]]) of balls (1 through 7); "you're low, remember", "you're low balls" or "I've got the lows".  ''Compare [[#Solids|solids]], [[#Red ball|reds]], [[#Little|little]], [[#Spot|spots]], [[#Dots|dots]]; contrast [[#High|high]].''
+
+== M ==
+; Mark : #The target of a scam or hustle;
+#A foolish person in a pool room;
+#To indicate where something is to be done. To "mark the pocket" means to indicate which pocket you intend to sink an [[#Object ball|object ball]]. ''Contrast [[#Fish|fish]].''
+; Masse : A steep curve or complete reversal of cue ball direction without the necessity of any rail or object ball being struck, imparted to the cue ball by a steeply elevated cue.  ''Compare [[#Semi-masse|semi-masse]].''
+; Maximum : In [[snooker]], the highest [[#Break|break]] attainable with the balls that are [[#Rack|racked]]; usually 147 points starting by [[#Pot|potting]] 15 [[#Red ball|red]]s, in combination with [[#Black ball|black]]s, and clearing the [[#Colour ball|colour]]s.
+; Mechanical bridge : A special stick with a grooved, slotted or otherwise supportive end attachment that helps guide the cue stick.  Usually used only when the shot cannot be comfortably reached with a hand bridge.  Often shortened to '''bridge''' or called a '''bridge stick'''.  And entire class of different bridge sticks exists for snooker, called [[#Rest|rests]], also commonly used in [[Eight-ball#UK|English-style eight-ball]]. <!-- Please do not clutter this definition with any of the numerous derogatory expressions that amateur players use for the mechanical bridge, such as "granny stick".  To the extent they can be shown to have widespread use they should have their own entries that cross-reference to this one. -->
+; Middle pocket : ''Same as [[#Centre pocket|centre pocket]].''
+; Miscue : A stroke in which the cue's tip glances or slips off the cue ball not effectively transferring the intended force. Usually the result is a bungled shot.  The most common cause is a lack of [[#Chalk|chalk]] on the [[#Cut tip|cue tip]].
+; Miss : In [[snooker]], a rule (commonly called the miss rule) whereby if a player [[#Foul|foul]]s and leaves it safe, his opponent has the option to make the opponent play exactly the same shot again, or at least as accurately as the [[#Referee|referee]] is able to reproduce the ball positions. A miss usually only applies when the player has been put in by the opponent after a [[#Safety|safety]]. It is a controversial rule that tries to account for [[#Deliberate foul|deliberate fouls]]; a frowned-upon practice. A referee will normally call a miss on any failed attempt to get out of a safety—especially [[#Snooker|snooker]]s.
+; Missable : Describing a difficult [[#Pot|pot]]: "the awkward cueing makes this shot missable."
+; Money ball : Name for the ball that when pocketed, wins the game, or any ball that when made results in a payday such as a [[#Way|way]] in the game of Chicago.
+; Money table : The table reserved for games played for money or the best table in the house. This table is always of better quality and regularly maintained. Money tables are most commonly reserved for big action.
+; Mushroom : Leather of the cue tip overhanging the [[#Ferrule|ferrule]] because of compression from repeated contact with the cue ball.
+
+== N ==
+; Nap : The direction in which the small fibers that project upward from the [[#Cloth|cloth]] lie. The convention in most billiards games is to brush the cloth along the table in the same direction of the nap, usually from the end that a player [[#Break|break]]. In [[snooker]] and [[Eight-ball#UK|UK eight-ball]] especially (American tables usually employ a napless weave), this creates the effect of [[#Creep|creep]] in the  direction of the nap, the most-affected shot being a slow roll into a [[#Center pocket|center pocket]] against the nap. It is commonly referred to in the fuller term "nap of the cloth."
+; Natural : In pocket billiards, an easy shot requiring no english. In three cushion billiards, the most standard shot where the third ball is advantageously placed in a corner.
+; 9 ball : ''Also '''the 9'''.''
+The [[#Money ball|money ball]] ([[#Game ball|game ball]]) in a game of [[nine-ball]]. It is the last ball that must be pocketed, after the remaining eight object balls have been pocketed, or may be pocketed early to win the game so long as the lowest-numbered ball on the table is struck before the 9.  In other games, such as [[eight-ball]], the 9 is simply one of the regular object balls (a [[#Stripes|stripe]], in particular.)
+; Nip draw : A short, jabbed [[#Draw|draw]] [[#Stroke|stroke]] usually employed so as to not commit a [[#Foul|foul]] (i.e. due to following through and hitting the [[#Cue ball]] twice) when the cue ball is very near to the target [[#Object ball|object ball]].
+; Nit : Someone who wants too high a handicap or refuses to wager any money on a relatively fair match; a general pool room pejorative moniker.  Probably derived from "nitwit".
+; Nurse : ''Also '''nurse shot'''.''
+In carom games such as [[Balkline and straight rail|straight rail]],  [[Balkline and straight rail|balkline]] and [[cushion caroms]], where all the balls are kept near each other and a cushion, and with very soft shots, can be "nursed" down a rail on multiple successful shots that effectly replicate the same ball setup so that the nurse shot can be repeated again (and again, etc.)  Excessive use of nurse shots by players skilled enough to set them up and pull them off repeatedly at will is what lead to the development of the [[#Balkline|balkline]] game variations.
+
+== O ==
+; Object ball : Depending on context:
+#Any ball that may be legally struck by the [[#Cue ball|cue ball]] (i.e., any [[#Ball-on|ball-on]]);
+#Any ball other than the cue ball.
+Usage notes: When speaking very generally, e.g. about the proper way to make a kind of shot, any ball other than the cue ball is an object ball.  In narrower contexts, this may not be the case.  For example when playing [[eight-ball]] one might not think of the 8 ball as an object ball unless shooting for the 8.
+; On the hill : Describes a player who needs only one more game win to be victorious in the match. ''See also [[#Hill-hill|hill, hill]].''
+; On the lemonade : Disguising the level of one's ability to play; also known as sandbagging or hustling (though the latter has other meanings).  ''Compare [[#Lemonade stroke|lemonade stroke]].''
+; On the snap : Literally "on the break shot"; usually used in reference to pocketing the [[#Money ball|money ball]] on the break.  ''See also [[#Golden break|golden break]].''
+; Open bridge : A bridge formed by the hand where no finger loops over the shaft of the cue. Typically, the cue stick is channeled by a  "v"-shaped groove formed by the thumb and the base of the index finger.
+; Open table : In eight ball, when choice of group has not yet been decided. Often shortended to just "open".
+; Orange crush, the : The 5-[[#Out|out]].
+; Out : #A specific ball number followed by "out" refers to a handicap in nine-ball where the "spot" is all balls from that designated number to the 9 ball. To illustrate, the 6-out would allow the player getting [[#Weight|weight]] to win by pocketing the 6, 7 or 8 in addition to the 9 ball.
+#''Short for [[#Run out|run out]].''
+; Outside English : Sidespin on a cue ball on the opposite side of the direction of the cut angle to be played (right hand english when cutting a ball to the left, and vice versa).
+; Overcut : Hitting the object ball with too large of a cut angle; hitting the object ball too thin. It is a well-known maxim that overcutting is preferable to [[#undercut|undercutting]]. ''See also [[#Professional side of the pocket|professional side of the pocket]].''
+
+== P ==
+; Pack : #In [[snooker]], the bunch of reds that are typically left below the [[#Pink ball|pink]] spot in the early stages of a [[#Frame|frame]], not including those reds that have been released into [[#Pot|pottable]] positions.
+#''Same as [[#Package|package]].''
+; Package : Successive games won without the opponent getting to the table; a 5-[[#Pack|pack]] would be a package of 5 games.
+; Paper cut : ''Same as [[#Feather|feather]] (US) or [[#Snick|snick]] (UK).''  US, colloquial.
+; Parking the cue ball : #Having the cue ball stop at or near the center of the table on a forceful break shot (the breaking ideal in many games such as nine-ball);
+#Having the cue ball stop precisely where intended.
+; Pink ball : In [[snooker]], the second-highest value [[#Colour ball|colour ball]], being worth six points.
+; Plant : ''Same as [[#Combination|combination]].''
+; Pocket : #(noun) An opening in a table, cut partly into the [[#Bed|bed]] and partly into the [[#Rail|rails]] and their [[#Cushion|cushions]], into which balls are shot (pocketed or [[#Pot|potted]]).
+#(verb) Send a ball into a pocket, usually intentionally.
+{{further|[[Pocket (billiards)]]}}
+; Point : # Another term for [[#Knuckle|knuckle]] / [[#Tittie|tittie]].
+# A unit of scoring, in games such as [[snooker]] and [[straight pool]] with numerical scoring.
+# A unit of scoring, in team matches in leagues that use numerical scoring instead of simple win/loss ratios.
+; Position : The placement of the balls, especially the cue ball, relative to the next planned shot.  ''Also known as as [[#Shape|shape]].''
+; Position play : Skilled playing in which knowledge of ball speed, angles, post-impact trajectory, and other factors are used to gain [[#Shape|shape]] after the target ball is struck.  The goals of position play are generally to ensure that the next shot is easy or at least makeable, and/or to play a [[#Safety|safety]] in the advent of a miss (intentional or otherwise).
+; Pot : (Chiefly UK)
+#(verb) ''Same as [[#Pocket|pocket]] (verb)'': To sink a ball into a pocket.
+#(noun) An instance of [[#Pot|potting]] a ball ("it was a good pot considering the angle and distance of the shot").
+; Pot and tuck : A tactic employed in [[Eight-ball#UK|UK eight-ball]] in which a player [[#Call|call]]s and [[#Pot|pot]]s one of the balls in a favorably-lying set, then plays safe, leaving as many of his/her well-placed balls on the table as possible, until the opponents commits a [[#Foul|foul]] or leaves a chance that the player feels warrants an attempt at [[#Run out|running out]].
+; Potter : A UK term for someone with little experience or understanding of the game, who may be skilled at [[#Pot|potting]] individual balls but does not consider tactics such as [[#Position|position]] or [[#Safety|safety]]; "he's a potter not a player." ''See also [[#Banger|banger]].''
+; Potting angle : The desired angle that must be created between the path of the [[#Cue ball|cue ball]] and the path of the [[#Object ball|object ball]] upon contact to [[#Pot|pot]] the object ball. It is usually measured to the center of the [[#Pocket|pocket]]. ''See also [[#Aiming line|aiming line]].''
+; Professional side of the pocket : To err on the side of overcutting a shot rather than undercutting; "missing on the professional side of the pocket." So called because experienced nine-ball players understand that an [[#Overcut|overcut]] will far more often leave the cue ball in an unfavorable position for the incoming opponent than will an [[#Undercut|undercut]], as well be less likely to leave a missed object ball sitting in front of the pocket it had been intended for.  &#91;Note however that undercutting may be more advantageous when playing eight-ball, rather than nine-ball, as the incoming player cannot be shooting for the same ball (unless only the 8 ball is left on the table) and the majority of the time an undercut that misses will leave the object ball closer to the pocket, for later sinking, than will an overcut.  In nine-ball this would be a grave error, but in eight-ball it is part of good strategy play.<ref name="RGivens" />&#93;
+; Push : Means either [[#Push out|Push out]] or [[#Push shot|Push shot]], depending on the context.
+; Push out : A rule in many games allowing a player to "push" the cue ball to a new position without certain [[#Foul|foul rules]] applying, with the caveat that the opponent may shoot from the new cue ball position or give the shot back to the pusher who must shoot from the new position.
+; Push shot : Any shot where a player's cue tip stays in contact with the cue ball for more than the momentary time commensurate with a stroked shot. In the game of Snooker, it is considered a 'push' if the cue strikes the cue ball more than once in a given shot (a [[#Double hit|double hit]]). Again in Snooker, it is considered a 'push' if the cue and the 'ball on' are all in contact together during a shot (if the cue ball and object ball are 'frozen' together, special dispensation is given provided the cue ball is struck at a downward or other angle; that is, not directly into the line of the two balls). A push shot is a [[#Foul|foul]].
+
+== R ==
+; Race : A set number of games players agree to play to; "a race to seven" means whomever wins seven game first wins the match.
+; Rack (noun) : #A geometric form, usually wooden or plastic, used to assist in setting up balls in games like [[eight-ball]], [[nine-ball]], and [[snooker]].  The rack allows for more consistently tight grouping of balls, which is necessary for a successful [[#Break|break]] shot. In most games a triangle-shaped rack, capable of holding fifteen balls is employed, even if the game calls for racking less than a full ball set, such as in the game of nine-ball.
+#Used to refer to a racked group of balls before they have been broken.
+#In some games, refers to a single [[#Frame|frame]].
+{{further|[[Rack (billiards)]]}}
+; Rack (verb) : The act of setting up the balls for a [[#Break|break]] shot. In tournament play this will be done by the [[#Referee|referee]], but in lower-level play, players either rack for themselves or for each other depending on convention.
+; Rail : The sides of a table's frame upon which the elastic cushions are mounted. May also be used interchangeably with [[#Cushion|cushion]].
+; Rake : ''Same as [[#Mechanical bridge|mechanical bridge]];'' so-called because of its typical shape. 
+; Rat in : To pocket a ball by luck; "he ratted in the 9 ball"; usually employed dissaprovingly.
+; Red ball : ''Also '''red(s)'''.''
+#In [[snooker]], any of the 15 balls worth 1 point each that can be potted in any order. During the course of a [[#Break|break]] a player must first [[#Pot|pot]] a red followed by a [[#Colour ball|colour]], and then a red and colour, etc., until the reds run out and then the [[#Re-spot|re-spotted]] six colours must be cleared in their order. Potting more than one red in a single shot is not a foul – the player simply gets a point for each red potted.
+#In WEPF/[[Eight-ball#UK|UK eight-ball]], one of two [[#Group|groups]] of seven [[#Object ball|object balls]] that must be potted before the [[#Black ball|black]].  Reds are spotted before yellows, if balls from both group must be spotted at the same time.  Cf. [[#Yellow ball|yellow ball]].<ref name="WEPFRules" />
+#In [[carom billiards]], the ball that is neither player's cue ball.
+; Referee : The person in charge of the game whose primary role is to ensure adherence by both players to the appropriate rules of the game being played. Other duties of the referee include [[#Rack|racking]] each frame, re-spotting balls during the course of a game, maintaining the equipment associated with the table (e.g. keeping the balls clean), controlling the crowd and, if necessary, controlling the players.
+; Re-rack : #In [[snooker]], the abandonment of a [[#Frame|frame]] upon agreement between the players, so that the balls can be set up again and the frame restarted with no change to the score since the last completed frame. This is the result of situations, such as trading of [[#Containing safety|containing safeties]], where there is no foreseeable change to the pattern of shots being played, so the frame could go on indefinitely.
+#In [[Pocket billiards|pool]], placing of the [[#Object ball|object balls]] back in the rack, after a [[#Foul|foul]] [[#Break|break]].
+; Re-spot : ''Same as [[#Spot (verb)|spot (verb)]], sense 2.''
+; Re-spotted black : In [[snooker]], a situation where the scores are tied after all the balls have been [[#Pot|potted]], and the [[#Black ball|black ball]] is [[#Spot (verb)|re-spotted]] and the first player to pot it wins. The players toss for the first shot, which must be taken with the [[#Cue ball|cue ball]] in [[#"D", the|the D]], and a [[#Safety shot|safety]] battle will ensue until a crucial error or a [[#Fluke|fluke]] is made.
+; Rest : A chiefly UK term for a set of [[#Mechanical bridge|mechanical bridges]].  British-style rests differ from most American-style [[#Rake|rake]] bridges in shape, and take several forms: the [[#Cross|cross]], the [[#Spider|spider]] and the [[#Swan|swan]] (or [[#Goose neck|Goose neck]]), as well as the rarer and often unsanctioned [[#Hook rest|hook]].  When used unqualified, the word usually refers to the cross.  Rests are used in [[snooker]], [[English billiards]], and common WEPF-rules<ref name="WEPFRules" /> and [[Eight-ball#UK|English-style eight-ball]].
+; Reverse english : Sidespin on the [[#Cue ball|cue ball]] that causes it to unnaturally roll off a [[#Cushion|cushion]] (contacted at an angle) ''against'' rather than ''with'' the ball's momentum and direction of travel.  If angling into a rail that is on the right, then reverse [[#English|english]] would be right english, and vice versa.  The angle of deflection will be steeper (narrower) than if no english were applied.  ''Opposite of [[#Running english|running english]], which has effects other than simply the opposites of those of reverse english.''
+; Ring game : #Any game in which as many players are allowed to join as the participants choose, and anyone can quit at any time; almost always in the context of gambling.
+#A nine-ball ring game is played by more than two players and has special rules. Typically the players choose a random method for setting the order of play, with the winner breaking. Safeties are not allowed and there are two or more [[#Money ball|money balls]]—usually the five and nine.
+; Road map : A pool table spread in which the balls are easily positioned for a run out.
+; Road player : A highly-skilled [[#Hustler|hustler]] making money gambling while traveling. Fast Eddie Felson in ''[[The Hustler]]'' was a road player.
+; Rob : Playing an opponent for money who has no chance of winning based on disparity of skill levels. 
+; Roll : Describes lucky or unlucky "rolls" of the cue ball; "I had good/bad rolls all night; "that was a bad roll."
+; Roll-up : A gentle tap of the [[#Cue ball|cue ball]] with the intention of getting it as tight as possible behind another ball, in the hope of a [[#Snooker|snooker]]. It is most common in the game of [[snooker]], and is illegal in many pool games, in which on every shot a ball must either be pocketed, or some ball must contact a [[#Cushion|cushion]] after the cue ball has contacted an [[#Object ball|object ball]].
+; Round robin : A tournament format in which each contestant plays each of the other contestants at least once.
+; Round the angles : Describing a shot which requires one or more balls to be played off several [[#Cushion|cushions]], such as an elaborate [[#Escape|escape]] or a [[#Position|positional]] shot; "he'll have to send the cue ball round the angles to get good position."
+; Rubber match : The deciding match between two tied opponents.  ''Compare [[#Hill-hill|hill, hill]].''
+; Ruckus : A UK term (especially in [[snooker]]) for the [[#Split|splitting]] of a group of balls when another ball is sent into them, typically with the intent of deliberately moving them with the [[#Cue ball|cue ball]] to [[#Develop|develop]] them.
+; Run : The number of balls [[#Pot|potted]] in a [[#Inning|inning]] (e.g. a run of five balls).  ''Compare British [[#Break|break]] (sense 2).''
+; Run out : #(verb) Make all of the required shots in a game without the opponent ever getting to the table or getting back to the table
+#(noun) An instance of running out in a game.
+; Run the table : Similar to [[#Run out|run out]] (sense 1), but more specific to making all required shots from the ''start'' of a rack.  ''See also [[#Break and run|break and run]], [[#Break and dish|break and dish]].''
+; Running english : Sidespin on the [[#Cue ball|cue ball]] that causes it to roll off a [[#Cushion|cushion]] (contacted at an angle) ''with'' rather than ''against'' the ball's natural momentum and direction of travel.  If angling into a rail that is on the right, then running [[#English|english]] would be left english, and vice versa.  The angle of deflection will be wider than if no english were applied to the cue ball.  But more importantly, because the ball is rolling instead of sliding against the rail, the angle will be more ''consistent''.  For this reason, running english is routinely used.  ''Opposite of [[#Reverse english|reverse english]].''
+
+== S ==
+; Safety : #An intentional defensive shot, the most common goal of which is to leave the opponent either no plausible shot at all, or at least a difficult one.
+#A shot that is called aloud as part of a game's rules; once invoked, a safety usually allows the player to pocket his or her own object ball without having to shoot again, for strategic purposes.  In games such as [[seven-ball]], in which any shot that does not result in a pocketed ball is a foul under some rules, a called safety allows the player to miss without a foul resulting.  A well-played safety may result in a [[#Snooker|snooker]].
+; Scratch : Pocketing of the cue ball in pocket billiards. In many games a scratch is a type of foul. Scratch is sometimes used to refer to all types of fouls. ''See, more generally, [[#Foul|foul]].''
+; Screw : ''Same as [[#Draw|draw]].''  (Chiefly British.)
+; Seeding : The placement of player(s) automatically in a tournament where some have to qualify, or automatic placement in later rounds.
+; Semi-masse : A moderate curve imparted to the [[#Cue ball|cue ball]] by an elevated hit with use of [[#English|english]].  Also known as a curve or (more rarely swerve) shot.
+; Session : One or more [[#Set|sets]], usually in the context of gambling.
+; Set : A predetermined number of games, usually played for a specified sum of money. ''Compare [[#Race|race]].''
+; Sewer : A [[#Pocket|pocket]], usually used in disgust when describing a  [[#Scratch|scratch]] (e.g. the cue ball's gone down the sewer).
+; Shaft : The upper portion of a [[#Cue|cue]] which slides on a player's [[#Bridge hand|bridge hand]] and upon which the [[#Cue tip|tip]] of the cue is mounted at its terminus. It also applies to the main, unsegmented body of a [[#Mechanical|mechanical bridge]].
+; Shape : Similar to [[#position|position]]; "she got good shape on the next shot".
+; Shark : ''Also '''pool shark(ing)'''.''
+#Noun: A very good player. Also "sharp," especially in the UK.  This usage is common among non-players who often intend it as a compliment and are not aware of its derogatory senses (below).
+#Noun: A player that disguises his or her ability with the goal of making money from an unsuspecting mark (see [[#Fish|fish]]). Also "sharp," especially in the UK.  This usage is more common among actual players, and is why the above compliment is sometimes rejected.
+#Verb: To perform some act or make some utterance with the intent to distract, irritate or intimidate the opponent so that they do not perform well, miss a shot, etc. (Not employed in this sense in the UK).  Most league and tournament rules forbid blatant sharking, as a form of unsportsmanlike conduct, but it is very common in bar pool.
+; Sharp : ''Same as [[#Shark|shark]] (senses 1, 2).''  (Chiefly British.)
+; Short rack : Any rack composed of less than 15 balls.
+; Short rail : Either of the two [[#Rail|rail]]s on a standard pool, billiards or [[snooker]] table between the two [[#Corner pocket|corner pockets]]. ''Compare [[#Side rail|side rail]].''
+; Short stop : One of the best players in a region but who is not quite good enough to beat a [[#Road player|road player]] or a professional.
+; Shot for nothing : ''Also '''shot to nothing'''.''  A UK term for a shot in which a player attempts a difficult [[#Pot|pot]] but with [[#Safety|safety]] in mind, so that in the event of missing the pot it is likely that the opponent will not make a meaningful contribution, and will probably have to reply with a safety.  The meaning refers to lack of risk, to implying the shot comes "to nothing".  ''Compare [[#Two-way shot|two-way shot]].''
+; Side : The British term for [[#English|english]], in its narrower definition.
+; Side pocket : One of the two [[#Pocket|pocket]]s one either side of a pool table halfway up the [[#Long rail|long rails]]. They are cut shallower than [[#Corner pocket|corner pocket]]s because they have a 180 degree aperture, instead of 90 degrees.  In the UK the term [[#Centre pocket|centre pocket]] or middle pocket are preferred.
+; Side rail : Either of the two longer [[#Rail|rail]]s of a billiards or pocket billiards table, bisected by a [[#Center pocket|center pocket]] and bounded at both ends by a [[#Corner pocket|corner pocket]]. Also called a long rail.
+; Sidespin : Same as [[#English|english]], in its narrower definition.  Often shortened to just [[#Side|side]].
+; Single elimination : A tournament format in which a player is out of the tournament after a single match loss.  ''Contrast [[#Double elimination|double elimination]].''
+; Sink : ''Same as [[#Pocket|pocket]] (sense 2).''
+; Sitter : ''Same as ''[[#Duck|duck]]'', and stemming from the same obvious etymology.  (Chiefly British.)
+; Skid : Phenomenon where the cue ball contacts the object ball right on a chalk mark and causes it to take a straighter angle than normal. Experienced observers can see that a skid occurred because the object ball moves oddly, lightly ''skipping''. One of the only uncontrollable factors that can stop otherwise perfect play. "That ball skidded, did you see that?" Also known as [[#Cling|cling]] or [[#Kick|kick]] (UK).
+; Slate : The heavy, finely-milled rock ([[slate]]) that forms the [[#Bed|bed]] of the table, beneath the [[#Cloth|cloth]].  Major slate suppliers for the billiards industry are Italy, Brazil and China.  Some cheaper tables, and novelty tables designed for outdoor use, do not use genuine slate beds, but artificial materials such as Slatrol.
+; Slide : Describes a [[#Cue bal|cue ball]] sliding on the [[#Cloth|cloth]] without any [[#Topspin|topspin]] or [[#Backspin|backspin]] on it.
+; Slip Stroke : A stroking technique in which a player release his gripping hand briefly and re-grasps the cue farther back on the [[#Butt|butt]] just before hitting the cue ball. 
+; Slop : 
+#''Also '''slop shot'''.''  A luck shot.  ''Compare [[#Fish|fish]]; contrast [[#Mark|mark]] and [[#Call|call]].''
+#''Also '''sloppy'''.''  Descriptive of any game where the rules have been varied to allow luck shots not normally allowed or where no [[#Foul|foul]] rules apply.
+; Small : ''Also '''smalls''', '''small ones''', '''small balls'''.''
+In [[eight-ball]], to be shooting the solid [[#Suit|suit]] ([[#Group|group]]) of balls (1 through 7); "you're the small one" or "I've got the smalls".  ''Compare [[#Little|little]], [[#Solids|solids]], [[#Red ball|reds]], [[#Low|low]], [[#Spot|spots]], [[#Dots|dots]]; contrast [[#Big|big]].''
+; Smash-through : The effect of shooting regulation-weight [[#Object ball|object balls]] with an old-fashioned over-weight [[#Bar table|bar table]] [[#Cue ball|cue ball]], such that the cue ball moves forward to occupy (sometimes only temporarily), or go beyond, the original position of the object ball, even on a draw or stop shot, because the mass of the cue ball exceeds that of the object ball.  Players who understand smash-through well can use it intentionally for position play, such as to nudge other object balls nearby the target ball.  Smash-through also makes it dangerous in [[#Bar pool|bar pool]] (when equipped with such a cue ball) to pocket straight-on [[#Duck|ducks]] with a [[#Stop shot|stop shot]] instead of by [[#Cheat the pocket|cheating the pocket]] because of the likelihood of [[#Scratch|scratching]] the cue ball.<ref name="RGivens" />
+; Sneaky pete : Any two-piece [[#Cue|cue]] constructed to resemble a [[#House cue|house cue]].
+; Snick : A UK term for a [[#Pot|pot]] that requires very fine contact between [[#Cue ball|cue ball]] and [[#Object ball|object ball]].  ''See also [[#Feather|feather]].''
+; Snooker : #(noun) The game of [[snooker]].
+#(verb) To leave the opponent (accidentally or by means of a [[#Safety|safety]]) so that a certain shot on a preferred [[#Object ball|object ball]] cannot be played directly in a straight line by normal cueing. It most commonly means that the object ball cannot be hit, because it is hidden by another ball or, more rarely, the [[#Knuckle|knuckle]] of a [[#Pocket|pocket]] (see [[#Corner-hooked|corner-hooked]]). It can also refer to the [[#Potting angle|potting angle]] or another significant point of contact on the object ball, blocking an otherwise more straightforward shot, even if an edge can be seen. A common related adjective describing a player in this situation is '''snookered'''.  Also known as "[[#Hook|to hook]]", for which the corresponding adjective "hooked" is also common.  ''See also [[#Free ball|free ball]].''
+#(noun) An instance of this situation (e.g. "she's put him in a difficult snooker"). A player can choose a range of shots to get out of a snooker; usually a [[#Kick shot|kick shot]] will be implemented but [[#Semi-masse|semi-masses]] are often preferred, and in games where it is not a [[#Foul|foul]], [[#Jump shot|jump shot]]s may be employed that often yield good results for skilled players.  "Snooker" is used loosely (when used at all; "hook" is favored) in the US, but has very specific definitions and subtypes (such as the [[#Total snooker|total snooker]]) in WEPF eight-ball.<ref name="WEPFRules" />
+; Snookers required : A phrase used in [[snooker]] to describe the scenario whereby there are not enough available points on the table to level the scores for the [[#Frame|frame]], therefore the trailing player needs his/her opponent to [[#Foul|foul]] in order to be able to make up the deficit. The name comes from the fact that this would normally have to be achieved by placing the leading player in foul-prone situations such as difficult [[#Snooker|snookers]].
+; Solids : ''Also '''solid''', '''solid ones''', '''solid balls'''.''
+The non-striped ball [[#Suit|suit]] ([[#Group|group]]) of a fifteen ball set that are numbered 1 through 7 and have a solid color scheme (i.e., not including the 8 ball). As in, "I'm solid", or "you've got the solids". ''Compare [[#Low|low]], [[#Small|small]], [[#Little|little]], [[#Red ball|reds]], [[#Spot|spots]], [[#Dots|dots]]; contrast [[#Stripes|stripes]].''
+; Speed : A player's skill level.
+; Speed control : Use of the correct amount of [[#Cue ball|cue ball]] speed to achieve proper position for a subsequent shot.
+; Spider : ''Also '''spider rest'''.''
+A type of [[#Rest|rest]], similar to a common American-style [[#Rake|rake]] [[#Mechanical bridge|bridge]] but with longer legs supporting the head so that the [[#Cue|cue]] is higher and can reach over and around an obstructing ball to reach the [[#Cue ball|cue ball]].  ''See also [[#Swan|swan]].''
+; Split : In pool, the degree to which the balls move apart upon impact by the [[#Cue ball|cue ball]] as a result of a [[#Break shot|break shot]].
+; Spot (noun) : #In pool games such as [[nine-ball]], a specific handicap given (e.g., "what spot will you give me?").
+#In [[snooker]], any of the six designated points on the table on which a [[#Colour ball|colour ball]] is replaced after it has left the playing surface (usually after it has been [[#Pot|potted]]).
+#In [[eight-ball|UK eight ball]], (when not playing with a [[#Red ball|reds]]-and-[[#Yellow ball|yellows]] [[#Colour ball|colour ball]] set) any of the [[#Group|group]] of seven balls, other than [[#8 ball|the 8]], that are a solid colour with just a circled number on the surface. ''In the US, these balls are usually referred to as [[#Solids|solids]] or more colloquially as [[#Low|lows]], [[#Little|littles]] or [[#Small|smalls]].  Another UK term is [[#Dots|dots]].  Contrast [[#Stripes|stripes]].''
+; Spot (verb) : #In pool, return an illegally pocketed object ball to the table by placement on the [[#Foot spot|foot spot]] or as near to it as possible without moving other balls (in ways that may differ from ruleset to ruleset).
+#In [[snooker]], return a [[#Colour ball|colour ball]] to its designated spot on the table. Also called re-spot.
+#In [[nine-ball]], the giving of a [[#Handicap|handicap]] to the opponent where they can also win by making a ball or balls other than the 9 ball (e.g. "she spotted me the seven ball").
+# In [[eight-ball]], [[one-pocket]] and [[straight pool]], the giving of a handicap to the opponent where they have to make fewer balls than their opponent does.
+# In some variants of pool, to place the cue ball on the [[#Head spot|head spot]] or as near to it as possible inside [[#Kitchen|the kitchen]]/[[#Baulk|baulk]], after the opponent has [[#Scratch|scratched]] it.
+; Spot shot : The situation arising in many pool games where a ball is spotted to the table's [[#Foot spot|foot spot]] and the [[#Cue ball|cue ball]] must be shot from the  [[#Kitchen|kitchen]].  There is a known [[#Diamond system|diamond system]] aiming technique for pocketing such shots without [[#Scratch|scratching]] the cue ball.
+; Squeeze shot : A type of [[#Combination|combination]] that can be played when the second [[#Object ball|object ball]] is [[#Frozen|frozen]] to the first and lined up at one of the [[#Knuckle|knuckles]] of the target [[#Pocket|pocket]]. It can normally be [[#Pocket|pocketed]] by hitting the first object ball on the same side as the knuckle and second object ball at a medium to hard pace. It is a somewhat counterintuitive shot because if there is the slighest gap between the two object balls the only way to pocket the second would be to hit the opposite side. The phenomenon occurs as a result of [[#Throw|throw]].<!--This badly needs to be re-explained more clearly and methodically, and moved to; Throw shot :  a term that can be documented in Byrne. Never seen "squeeze shot"; will be hard to source.-->
+; Squirt : ''Same as [[#Deflection|deflection]].''
+; Stake/stakehorse : To provide part or all of the money for a gambling session in which one is not a participant. ''Synonymous with "[[#Back|back]]".'' A person who stakes or backs a player is called a stakehorse or backer.  Stakehorse can also be used as a verb.<ref name="TIEOB" />
+; Stall : #To intentionally hide one's "[[#Speed|speed]]"; "he's on the stall."
+#To intentionally play slowly so as to irritate one's opponent.  This form of [[#Shark|sharking]] has been eliminated from many tournaments with a shot clock, and from many leagues with time-limit rules.
+; Stance : A shooter's body position and posture during a shot.  ''See also [[#Cue action|cue action]].''
+; Stay shot : In the UK, a long-distance shot played to [[#Pot|pot]] a ball close to a [[#Pocket|pocket]] with heavy [[#Topspin|topspin]], so that when the [[#Cue ball|cue ball]] hits the [[#Cushion|cushion]] it bounces off but then stops due to the counteraction of the spin. It is not common in competitive play, being more of an exhibition shot.
+; Steering : The lamentable practice of not following through with the [[#Cue|cue]] straight, but veering off in the direction of the shot's travel or the side [[#English|english]] is applied, away from the proper aiming line; a common source of missed shots.
+; Stick : ''Same as [[#Cue|cue]].''
+; Stop shot : Any shot where the [[#Cue ball|cue ball]] stops immediately after hitting an [[#Object ball|object ball]], generally by application of [[#Backspin|backspin]] short of that required to perform a [[#Draw|draw]] shot.
+; Straight up : To play even; without a [[#Handicap|handicap]]. Also called heads up.
+; Stripes : ''Also '''striped ones''', '''striped balls'''.''
+The ball [[#Suit|suit]] ([[#Group|group]]) of a fifteen ball set that are numbered 9 through 15 and have a wide colored bar around the middle.  ''Compare [[#Big|bigs]], [[#High|highs]], [[#Yellow ball|yellows]]; contrast [[#Solids|solids]].''
+; Stroke : #The motion of the cue stick and the player's arm on a shot;
+#The strength, fluidity and finesse of a player's shooting technique; "she has a good stroke."
+; Stroke, catch a : To suddenly be in stroke after poor prior play; "she caught a stroke." 
+; Stroke, to be in : Pocketing easily and controlling the cue ball well; "he's in stroke."
+; Stun run-through : A shot played with [[#Stun shot|stun]], but not quite enough to completely stop the [[#Cue ball|cue ball]], allowing for a little [[#Follow|follow]]. It is played so that a [[#Follow shot|follow shot]] can be controlled more reliably, with a firmer strike than for a slow roll. It is widely considered as one of the most difficult shots in the game to master, but an excellent weapon in a player's armory once it has been.
+; Stun shot : A shot where the [[#Cue ball|cue ball]] has no [[#Follow|topspin]] or [[#Draw|backspin]] on it when it impacts an object ball, and "stuns" out along the [[#Tangent line|tangent line]]. Commonly shortened to just "stun."
+; Sucker shot : A shot that only a novice or fool would take. Usually because it is a guaranteed [[#Scratch|scratch]] or because it has a low percentage of being pocketed and is likely to leave the opponent in good position.
+; Suit : A (principally American) term in [[eight-ball]] for either of the set of seven balls ([[#Stripes|stripes]] or [[#Solids|solids]]) that must be cleared before [[#Sink|sinking]] the 8 ball.  Borrowed from [[card game]]s.  Generally used in the generic, especially in rulesets or articles, rather than colloquially by players.  ''See also [[#Group|group]] for the British equivalent.''
+; Surgeon : A player skilled at very thin [[#Cut shot|cut shots]], and shots in which a ball must pass cleanly through a very narrow space (such as the [[#Cue ball|cue ball]] between two of the opponent's [[#Object ball|object balls]] with barely enough room) to avoid a foul and/or to pocket a ball.  Such shots may be referred to as "surgery", "surgical shots", "surgical cuts", etc.  (Chiefly US, colloquial.)  ''See also [[#Feather|feather]] (US) or [[#Snick|snick]] (UK).'' 
+; Swan : ''Also '''swan rest'''.''
+A type of [[#Rest|rest]], similar to a [[#Spider|spider]] in that the head is raised by longer supporting legs, but instead of a selection of grooves on the top for the [[#Cue|cue]] to rest in there is only one, on the end of an overhanging neck, so that a player can get to the [[#Cue ball|cue ball]] more easily if the path is blocked by two or more obstructing balls.  Also known as the [[#Goose neck|goose neck]]<ref name="WEPFRules">[http://www.wepf.org/playrules.php?option=1 "World Eight-ball Pool Federation Eight-ball Rules"], 2004, Perth, WA, Australia</ref>
+; Sweaters : Those who are [[#Stake/Stakehorse|stakehorsing]] a match or have side bets on it and are "sweating the [[#action|action]]."
+; Swerve : An unintentional and often barely perceptible curve imparted to the path of the [[#Cue ball|cue ball]] from the use of [[#English|english]] without a level [[#Cue|cue]].
+; Swerve shot : ''Same as[[#Semi-masse|semi-masse]].''
+
+== T ==
+; Table cloth : ''Same as [[#Cloth|cloth]].''
+; Tangent line : The imaginary line drawn perpendicular to the impact line between the cue ball and an object ball. The cue ball will travel along this line after impact with an object ball if it has no vertical spin on it (is sliding) at the moment of impact on a non-center-to-center collision. ''See also [[#Stun shot|stun shot]].
+; Taper : The profile of the shaft of the cue as it as it increases in diameter from the tip to the joint. A "fast" or "slow" taper refers to how quicky the diameter increases.
+; Thin : ''See [[#overcut|overcut]].''
+; Throw : The normal phenomenon where the object ball is pushed in a direction very slightly off of the pure contact angle between the two balls. Caused by the friction imparted by the first ball sliding past or rotating against the other ball.
+; Tickie : A common shot in carom games. The cue ball is driven first to a rail, then hits an object ball and [[#Kiss|kisses]] back to the same rail.
+; Tight : Describing a situation where a [[#Pot|pot]] is made more difficult, either by a [[#Pocket|pocket]] being partially blocked by another ball so that not all of it is available, or the [[#Cue ball|cue ball]] path to the [[#Object ball|object ball's]] [[#Potting angle|potting angle]] involves going past another ball very closely.
+; Time shot : Any shot in which the cue ball moves another ball into a different position and then rebounds from one or more rails to contact it again (normally sending it into a pocket or making a billiard).
+; Timing : The ease with which a player is generating [[#Cue power|cue power]], due to well-timed acceleration of the [[#Cue|cue]] at the appropriate point in a shot.
+; Tip : ''Same as [[#Cue tip|cue tip]].''
+; Tittie : ''Same [[#Knuckle|knuckle]].''
+; Tittie hooked : ''Same as [[#Corner hooked|corner hooked]].''
+; Top cushion : In [[snooker]], the [[#Cushion|cushion]] at the end the [[#Red ball|red]]s are racked, nearest the [[#Black ball|black]] spot, in an area where most of the game should be played.
+; Topspin : ''Also '''top spin'''.''
+''Same as [[#Follow]].  Contrast [[#Backspin|backspin]].''
+; Total clearance : A term used in [[snooker]] for the [[#Pot|potting]] of all the balls that are [[#Rack|racked]] at the beginning of the [[#Frame|frame]] in a single [[#Break|break]]. The minimum total clearance affords 72 points.  ''See also [[#Maximum|maximum]].''
+; Total snooker : In [[Eight-ball#UK|UK eight-ball]] and WEPF international rules<ref name="WEPFRules" />, a situation where the player cannot see any of the balls she/he wants to hit due to obstruction by other balls or the [[#Knuckle|knuckle]] of a [[#Pocket|pocket]]. The player must [[#Call|call]] "total snooker" to the [[#Referee|referee]], which allows a dispensation to the player from having to hit a [[#Cushion|cushion]] after contacting the [[#Object ball|object ball]], which is otherwise a [[#Foul|foul]].
+; Touching ball : In [[snooker]], where the [[#Cue ball|cue ball]] is resting in contact with another ball. If this ball is a ball that may legally be hit, then it is allowable to simply hit away from it and it counts as having hit it in the shot. If the ball moves, then a [[#Push shot|push shot]] must have occurred, in which case it is a [[#Foul|foul]].
+; Triangle : Form of [[#Rack|rack]] that is triangle-shaped. There are different sizes of triangle for different games, the smallest being employed in [[snooker]] and [[Eight-ball#UK|UK eight-ball]] and a larger triangle being used in [[Eight ball|American eight-ball]] (because of the different ball sizes). {{further|[[Rack (billiards)]]}}
+; Trick shot : An exhibition shot designed to impress either by a player's skill or knowledge of how to set the balls up and take advantage of the angles of the table; usually a combination of both. A trick shot may involve items otherwise never seen during the course of a game, such as bottles, baskets, etc., and even members of the audience being placed on or around the table.
+; Two-shot carry : A rule in common WEPF/[[Eight-ball#UK|UK eight-ball]]<ref name="WEPFRules" /> whereby after an opponent has [[#Fault|faulted]] and thus yielded [[#Two shots|two shots]], if the incoming shooter [[#Pot|pots]] a ball on the first shot, (s)he is still allowed to miss in a later shot and take a second shot [[#Ball-in-hand|in-hand]] (from [[#"D", the|the "D"]] or from [[#Baulk|baulk]], or if the opponented potted the cue ball, from anywhere) &mdash; even on [[#Black ball|the black]], in most variants.  Also called the "two visits" rule; i.e., the two penalty shots are considered independent [[#Visit|visits]] to the table, and the limiting variants discussed at [[#Two shots|two shots]] below cannot logically apply.
+; Two shots : In common [[Eight-ball#UK|UK eight-ball]] and WEPF rules<ref name="WEPFRules" />, a penalty conceded by a player after a [[#Fault|fault]].  The incoming opponent is then allowed to miss twice before the faulting player is allowed another [[#Visit|visit]].  Many local rules state the [[#Ball-in-hand|in-hand]] from [[#"D", the|the "D"]] or [[#Baulk|baulk]] (or if the opponented potted the cue ball, from anywhere) nature of the second shot is lost if a ball is potted on the first shot, that it is lost if the ball potted in the first shot was that player's last [[#Colour ball|coloured ball]] ([[#Object ball|object ball]] in their [[#Group|group]]), and/or that there is only ever one shot on [[#Black ball|the black]] after a fault.  ''See [[#Two-shot carry|two-shot carry]] for more detail on a sub-rule that may apply (and eliminate the variations discussed here).''
+; Two visits : ''See [[#Two-shot carry|two-shot carry]].''
+; Two-way shot : #A shot in which if the target is missed, the opponent is safe or will not have a desirable shot;
+#A shot in which there are two ways to score;
+#A shot in which a second ball is targeted to be pocketed, broken out of a cluster, repositioned or some other secondary goal is also intended.
+
+== U ==
+; Umbrella shot : A [[three cushion billiards]] shot in which the cue ball first strikes two cushions before hitting the first object ball then hits a third cushion before hitting the second object ball. So called because the shot opens up like an umbrella after hitting the third rail. Umbrella shots may be classified as inside or outside depending on which side of the first object the cue ball contacts.
+; Undercut : Hitting the object ball with not enough of a cut angle; hitting the object ball too full or "fat". It is a well-known maxim that [[#overcut|overcutting]] is preferable to undercutting.  ''See also [[#Professional side of the pocket|professional side of the pocket]].''
+
+== V ==
+; Velcro : A UK term describing when a ball is tight on the [[#Cushion|cushion]] and a player sends the [[#Cue ball|cue ball]] to hit both the [[#Object ball|object ball]] and the rail at nearly the same time; the object ball, ideally, stays tight to the rail and is thus "velcroed" to the rail. [[#Running english|Running english]] is often employed to achieve this effect, hitting slightly before the ball. Velcroing is also called [[#Hugging the rail|hugging the rail]] in the UK, which is the main expression used to describe this effect in the US.
+; Visit : One of the alternating turns players are allowed at the table, before a shot is played that concedes a visit to his/her opponent (e.g. he cleared up in one visit).
+
+== W ==
+; Warrior, a : A ball positioned near a pocket so that a particularly positioned object ball shot at that pocket will likely go in off it, even if aimed so imperfectly that if the warrior was absent, the shot would likely result in a miss. Usually arises when a ball is being banked to a pocket.
+; Way : #Term for object balls in the game of Chicago that are each assigned as having a set money value; typically the  5, 8, 10, 13 and 15.
+#In games where multiple balls must be pocketed in succession to score a point, such as Cribbage or 30-ball, when the last ball necessary to score has been potted, the points given is referred to as a way.
+; Weight : To "give someone weight" is to give them a [[#Handicapping|handicap]] so the game is more even in skill level.
+; White ball : Alternate name for the [[#Cue ball|cue ball]].
+; Whitey : Alternate name for the [[#Cue ball|cue ball]].
+; Wild : When a ball is given as a [[#Handicapping|handicap]] it often must be called (generally tacit). A wild handicap means the ball can be made in any manner specifically ''without'' being called.
+; Wing ball : Either of the balls on the lateral extremities of the [[nine-ball]] diamond [[#Rack|rack]] of balls, when in racked position. It is seen as a reliable sign of a good [[#Break shot|break]] (which is normally taken from close to either [[#Cushion|cushion]] in the [[#Kitchen|kitchen]]) if the opposite wing ball is [[#Pocket|pocketed]].
+; Wing shot : Shooting at an object ball that is already in motion at the moment of shooting and cue ball impact; illegal in most games and usually only seen in exhibition/trick shots.
+; Wipe its feet : UK term referring to the metaphorical base or "feet" of a ball that rattles in the [[#Jaws|jaws]] of a [[#Pocket|pocket]] before eventually dropping. Usually said of a ball for which the intention was to pot it.
+; Wired : When two ball are or are close to [[#Frozen|frozen]] and lined up for a pocket such that contact on the first ball, without the necessity of great accuracy, will almost certainly pocket the second ball.
+; Wire, the : #The grapevine in the pool world &mdash; what action is taking place where in the country.
+#Actual wire with multiple beads strung (like an abacus) used for keeping score. Points "on the wire" are a type of handicap used, where a weaker player will be given a certain number of points before the start of the game.
+; Wood : A slang term for a [[#Cue|cue]], usually in the phrase piece of wood (e.g. that's a nice piece of wood).
+; Wrap : The area of the butt of a cue where the person grips often covered with [[leather]], [[nylon]] string, or [[Irish linen]].
+
+== Y ==
+; Yellow ball : ''Also '''yellow(s)'''.''
+#In [[snooker]], the lowest-value [[#Colour ball|colour ball]] on the table, being worth two points. It is one of the [[#Baulk colour|baulk colour]]s.
+#In WEPF and [[Eight-ball#UK|UK eight-ball]], one of two [[#Group|groups]] of seven [[#Object ball|object balls]] that must be potted before the [[#Eight ball|eight ball]]; cf. [[#Red ball|red ball]].<ref name="WEPFRules" />
+; Yellow pocket : In [[snooker]], the [[#Pocket|pocket]] nearest the [[#Yellow ball|yellow]] spot.
+
+==References==
+<div class="references-small">
+<references/></div>
+
+[[Category:Billiards]]
+[[Category:Glossaries|Pool, billiards and snooker]]

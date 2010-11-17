@@ -1,0 +1,94 @@
+This is a glossary of [[genetics]].
+
+----
+{{CompactTOS}}
+----
+
+==A==
+
+; [[adenine]] : A [[base]], C<sub>5</sub>H<sub>5</sub>N<sub>5</sub>, found in certain glands and tissues, which pairs with [[thymine]] in [[DNA]] and [[uracil]] in [[RNA]].
+
+; [[allele]] : One of a number of alternative forms of the same gene occupying a given position on a chromosome.
+
+==C==
+
+; [[chromosome]] : A structure in the cell nucleus that contains DNA, histone protein, and other structural proteins.
+
+; [[codon]] : A sequence of three adjacent nucleotides, which encode for a specific amino acid during protein synthesis, or translation. 
+
+; [[cytosine]] : A [[base]], C<sub>4</sub>H<sub>5</sub>N<sub>3</sub>O, which pairs with [[guanine]] in [[DNA]] and [[RNA]].
+
+==D==
+
+; [[diploid]] : Of a cell, having a pair of each type of chromosome, one of the pair is derived from the ovum and the other from the spermatozoon. See also haploid.
+
+; [[DNA]] : Deoxyribonucleic acid, the genetic material of nearly all forms of life.
+
+; [[dominant]] : Of an allele, determining the trait when paired with a recessive one.
+
+==G==
+
+; [[gamete]] : A reproductive cell (male (sperm) or female (egg)) that has only half the usual number of chromosomes.
+
+; [[gene]] : A unit of heredity; a segment of DNA or RNA that is transmitted from one generation to the next, and that carries genetic information such as the sequence of amino acids for a protein.
+
+; [[gene pool]] : The complete set of unique alleles that would be found by inspecting the genetic material of every living member of a species or population.
+
+; [[genome]] : The complete DNA content of an organism, typically expressed in number of basepairs.
+
+; [[genotype]] : The combination of alleles, situated on corresponding chromosomes, that determines a specific trait of an individual, such as "Aa" or "aa".
+
+; [[guanine]] : A substance first obtained from guano; it is a nucleic base and pairs with cytosine in DNA and RNA.
+
+==H==
+
+; [[haploid]] : Of a cell having a single set of unpaired chromosomes, such as a gamete. See also diploid.
+
+; [[heterozygote]] : A diploid individual that has different alleles at one or more genetic loci.
+
+; [[homozygote]] :  A diploid individual that has equal alleles at one or more genetic loci.
+
+==M==
+
+; [[mutation]] : Any heritable change in the base-pair sequence of genetic material, namely DNA (or RNA in the case of some viruses).
+
+==N==
+
+; [[nucleic acid]] : Any acidic, chainlike biological macromolecule consisting of multiply repeat units of phosphoric acid, sugar and purine and pyrimidine bases.
+
+; [[nucleobase]] : The base of a nucleic acid, which include thymine, uracil and adenine, cytosine and guanine.
+
+; [[nucleotide]] : The monomer comprising DNA or RNA biopolymer molecules.
+
+==O==
+
+; [[ovum]] : The female gamete in animals; the egg.
+
+==R==
+
+; [[recessive]] : Of an allele, yielding to the choice made by the dominante alelle.
+
+; [[recombination]] : The formation of genetic combinations in offspring that are not present in the parents.
+
+; [[RNA]] : Ribonucleic acid.
+
+==S==
+
+; [[spermatozoon]] : The reproductive cell or gamete of the male, carried in semen, that fertilizes the ovum to produce the zygote. Synonyms: sperm cell.
+
+==T==
+
+; [[thymine]] : A base, C<sub>5</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub>, obtained by applying sulphuric acid to thymic acid; it pairs with [[adenine]] in [[DNA]].
+
+==U==
+
+; [[uracil]] : One of the bases of RNA which pairs with adenine and is symbolised by U.
+
+==Z==
+
+; [[zygote]] : A fertilized egg cell.
+
+==External links==
+* [http://www.genome.gov/10002096 Talking Glossary of Genetic Terms] - in [http://www.genome.gov/12514471 public domain]
+
+[[Category:Glossaries|Genetics]]

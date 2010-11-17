@@ -1,0 +1,309 @@
+<!--This article is in Commonwealth English-->
+This is a '''glossary of legal terms'''. Terms that are in a foreign language are ''italicized'' in their title, and the italicized word or phrase is in [[Latin]] unless its definition indicates the italicized term is from some other language.  There is also a much longer list of [[Appendix:Legal terms]], one without definitions, in Latin.  There is a US bias in some definitions; though many of these terms are used in other jurisdictions with the same or similar meaning.
+
+----
+{{CompactTOS}}
+----
+
+==A==
+; ''A mensa et toro'' : Alternatively written as ''a mensa et thoro'' (a [[Medieval Latin#Changes in orthography|medieval orthographic innovation]] to discourage [[vowel|intervocalic]] [[Palatal consonant|palatalization]]); literally "from table and cushion", but generally translated as "from bed and board."  A divorce ''a mensa et toro'', is rather a [[separation]] of the parties by act of law, than a [[dissolution (law)|dissolution]] of the marriage. It may be granted for the causes of extreme cruelty or desertion of the wife by the husband. 2 Eccl. Rep. 208. This kind of divorce does not affect the legitimacy of children, nor authorize a second marriage. V. [[A vinculo matrimonii]]; Cruelty Divorce.
+
+; ''A vinculo matrimonii'' : Literally "from the bond of marriage." A marriage may be dissolved ''a vinculo'', in many states, as in [[Pennsylvania]], on the ground of [[canons of statutory construction|canon]]ical disabilities before marriage, as that one of the parties was legally married to a person who was then living; [[impotence]], (q. v.,) and the like [[adultery]] [[cruelty]] and [[malice (legal term)|malicious]] [[desertion]] for two years or more. In [[New York]] a sentence of [[imprison]]ment for life is also a ground for a divorce a vinculo. When the marriage is dissolved a vinculo, the parties may marry again but when the cause is [[adultery]], the guilty party cannot marry his or her [[paramour]].
+
+; ''[[ab initio]]'' : Literally "from the beginning." When an agreement is for legal reasons void ''ab initio'', it is void for all purposes throughout the period of its purported existence, and not merely from the moment that it is declared to have been void by the Court. When a man enters upon lands or into the house of another by [[authority of law]], and afterwards abuses that authority, he becomes a [[trespass]]er ''ab initio''. Bac. Ab. Trespass, B.; 8 Coke, 146 2 Bl. Rep. 1218 Clayt. 44. And if an officer neglects to remove goods attached within a reasonable time and continue in possession, his entry becomes a trespass ''ab initio''. 2 Bl. Rep. 1218. See also as to other cases, 2 Stra. 717 1 H. Bl. 13 11 East, 395 2 Camp. 115 2 Johns. 191; 10 Johns. 253; ibid. 369. but in case of an [[authority in fact]], to enter, an abuse of such authority will not, in general, subject the party to an action of [[trespass]], Lane, 90 ; Bae. Ab. Trespass, B ; 2 T. It. 166. See generally 1 Chit. PI. 146. 169. 180.
+
+; ''Aberemurder'' : Obsolete: an apparent, plain, or downright [[murder]]. It was used to distinguish a wilful murder from a chance-medley or [[manslaughter]]. [[Henry Spelman|Spelman]]; Cowell; Blount.
+
+; Abet : To encourage or set another on to commit a [[crime]]. This word is always taken in a bad sense. To abet another to commit a murder, is to command, procure, or counsel him to commit it. Old Nat. Brev 21; Col Litt. 475.
+
+; Abettor : One who encourages or incites, persuades or sets another on to commit a [[crime]]. Such a person is either a [[:wikt:principal|principal]] or, an [[Accessory (legal term)|accessory]] to the crime. When present, aiding, where a [[felony]] is committed, he is guilty as principal in the second degree ; when absent, "he is merely an accessory." 1. Russell, 21; 1 Leach 66; Foster 428. ''Source: Bouvier's Law Dictionary, Sixth Edition, Revised, 1856.''
+
+; [[abscond|Abscond]] : To travel covertly out of the jurisdiction of the courts, or to conceal oneself in order to avoid their process.
+
+; [[accessory|Accessory]] : A person who knows of, and assists in, the commission of a [[crime]], but is not present when the crime is committed. In this an accessory is different from an [[accomplice]]. A person may be an accessory either before or after the fact; that is, before or after the crime is actually committed . A person cannot be an accessory unless a crime is eventually committed.
+
+; [[accomplice|Accomplice]] : Individual who voluntarily engages with another in the commission or attempted commission of a crime.
+
+; [[acquittal|Acquittal]] : A setting free, or deliverance, from the charge of an offense, by verdict of a jury or sentence of a court.
+
+; [[adversarial system|Adversarial system]] : A system of justice in which advocates for opposing parties each do their best to present evidence and arguments to the benefit of their respective clients; presiding judges are neutral and passive. ''See [[Inquisitorial system]].''
+
+; Affidavit : Written statement of fact, signed and sworn to before a person having authority to administer an oath.
+
+; Alibi : A provable account of an individual's whereabouts at the time of the commission of a crime which would make it impossible or impractical to accuse the person.
+
+; [[alternative dispute resolution]] : Resolution of a dispute through negotiation, mediation, arbitration, or similar means, as opposed to litigation.
+
+; ''[[amicus curiae|Amicus curiae]]'' : A "friend of the court". When an important or difficult point is being argued in an adversarial system of law (such as the common law of England and the United States), but one part of the argument is inadequately represented (perhaps because a party is not interested in arguing it, or does not have the resources to argue it properly), the Court may appoint an ''Amicus curiae,'' to ensure that that part of the argument is sufficiently explored and is fully argued independently of the party upon whom the burden of that argument would ordinarily fall.  One, who as a stander by, when a judge is doubtful or mistaken in a matter of law, may inform the court. 2 Inst. 178; 2 Vin. Abr. 475; and any one, as amicus curia, may make an application to the court in favor of an infant, though he be no relation. 1 Ves. Sen. 313. AMITA. A paternal aunt; the sister of one's father. Inst. 3, 6, 3.
+
+; [[Anton Piller order|''Anton Piller'' order]] : An ex parte order of the court permitting entry onto the defendant's premises so as to inspect and remove documents, where there is a real danger that they will be removed, hidden or destroyed. It is named for the ''Anton Piller'' case (frequently misspelt ''Anton Pillar''), but the same remedy had been granted prior to this decision, in ''EMI v Pandit''.
+
+; [[appeal|Appeal]] : Process by which a case is brought from one court to a higher court for review.
+
+; [[appellant|Appellant]] : In a new case (an appeal), either the [[claimant]], [[defendant]], or [[respondent]] from the lower case, depending on who was the losing party. The winning party from the lower court, however, is now the ''respondent.''
+
+; [[appellee]] : A respondent.
+
+; [[arbitration]] : A legal technique for the resolution of disputes outside the courts, wherein the parties to a dispute refer it to one or more persons (the "arbitrators", "arbiters" or "arbitral tribunal"), by whose decision (the "award") they agree to be bound.
+
+; Arraignment : In criminal cases, a court hearing where the defendant is advised to the charges and asked to plead guilty or not guilty.
+
+; ''Arguendo'' : "For purposes of argument", as in "assuming 'arguendo' that my opponent's contentions are correct."  [In Latin, ''arguendo'' is a [[gerund]] [[dative of purpose]].  Its most literal translation from Latin is "for (the sake of) asserting."]<p>The term is most often used in the following [[logic|logical]] context<p>P1 argues "X is a result of Y"<p>P2 responds "While you may or may not be correct that X is a result of Y, assuming 'arguendo,' that you are correct, you still fail to account for the existence of Z, which makes null your contention.
+
+; [[attorney]] : In the United States, a lawyer; one who advises or represents others in legal matters as a profession.
+
+==B==
+; [[Bailment]] : A transfer of possession of a chattel from a '''bailor''' to a '''bailee''' without transfer of legal or equitable title. A bailor can demand the return of the property at any time from the bailee. Often, sub-bailments may be created; for example, in a situation where property is being couriered, if the delivery van breaks down, the courier bailee may sub-bail the goods to another deliverer. It is not a security in the legal sense.
+
+; [[burden of persuasion]] : The duty upon a party in a legal proceeding to persuade the fact-finder to decide for that party on an assertion of fact; part of the burden of proof, sometimes loosely used as synonym for that term.
+
+; [[burden of production]] : The duty upon a party in a legal proceeding to introduce enough evidence relating to an assertion of fact to have the issue be considered by the fact-finder rather than summarily dismissed or decided; part of the burden of proof.
+
+; [[burden of proof]] : The duty of a party in a legal proceeding to prove an assertion of fact; it includes both the burden of production and the burden of persuasion.
+
+==C==
+; Capital Offence : A '''criminal''' offence punishable by death.
+
+; Case-in-chief : That portion of a case in which the litigant has the burden of presenting evidence.
+
+; Case-in-rebuttal : That portion of a case in which the litigant has the opportunity to present rebuttal evidence against that evidence given in the opposition's case-in-chief.
+
+; Challenge for cause : Excusing a juror from a trial for a stated, specific reason, such as the juror knows the parties or witnesses in a case. Each side has an unlimited number of challenges for cause.
+
+; [[civil action]] : In the United States, a lawsuit between private parties, including an action by a private person against a government entity, which will be treated as a private party by the court.
+
+; Civil Rights : Rights guaranteed to individuals by the government under the Constitution and other certain Acts of Congress.
+
+; [[claimant]] : The party who initiates a lawsuit (also known as an action) before a court; a plaintiff.
+
+; Class Action : Lawsuit brought  by a representative member(s) of a large group of people on behalf of all members.
+
+; Conviction : To be found by a judge or jury to have violated a law.  Note that a conviction does not necessarily mean the person has committed a crime.  A person who receives a parking ticket or a traffic ticket only punishable by a fine and is found guilty stands ''convicted'' of the charge even though traffic and parking offences are not crimes.
+
+; [[crime|Crime]] : A violation of law which is an offence against the state and generally punishable by some form of penalty which could include prison or jail time. Crimes are defined as serious [[felony|felonies]] or less serious [[misdemeanour]]s.  A violation of law which only has a monetary penalty is not a crime ''per se'', but an [[infraction]].
+
+; [[change of venue|Change of venue]] : A change of venue is a legal term that means that a case before a court will be heard in another [[jurisdiction]] versus the one where the said crime took place. This is done when there is a reason to think that a [[defendant]] will not receive a fair trial, for whatever the reason.
+
+; [[court]] : The persons officially assembled under authority of law, at the appropriate time and place, for the administration of justice; an official assembly, legally met together for the transaction of judicial business; a judge or judges sitting for the hearing or trial of causes.
+; [[court]] : A tribunal established for the administration of justice.
+; [[court]] : The judge or judges; as distinguished from the counsel or jury, or both.
+; [[court]] : The session of a judicial assembly.
+; [[court]] : Any jurisdiction, civil, military, or ecclesiastical.
+
+; [[cross examination]] : Questioning of a witness during a trial or during the taking of a deposition, by the party opposed to the one who produced the witness.
+
+; Custodian : A person appointed to manage and dispense funds for a child without constricting court supervision and accounting requirements.
+
+==D==
+; [[damages]] : The money paid or awarded to a claimant (in the UK) or a plaintiff (in the US) in a civil action.
+
+; [[defendant]] : In civil proceedings, the party responding to the complaint; one who is sued and called upon to make satisfaction for a wrong complained of by another.
+
+; [[defendant]] : In criminal proceedings, the accused.
+
+; ''[[de minimis|De Minimis]]'' : Trifling or minimal; A fact or thing so insignificant that a court may overlook it in deciding an issue or case.  Often misspelled <i>de minimus</i>.
+
+; [[dismissal|Dismissal]] : Termination of a legal proceeding prior to finding.  A dismissal can be with or without prejudice.
+
+; Deposition : Testimony taken under oath and recorded in an authorized place outside the courtroom.
+
+; Direct Appeal : A proceeding in which a convicted person asks a higher court to overturn a conviction or sentence received at the trial court based on alleged errors which appear in the trial record.
+
+; Direct Examination : Questioning of a witness in a trial, or at the taking of a deposition, by the party for whom the witness is testifying.
+
+==E==
+; ''[[Error coram nobis]]'' : '''A writ''' claiming previously unknown facts amounting to extraordinary error. In many legal systems, this writ or terminology has been abolished but the same relief is available under more modern procedures.
+
+; ''[[Estoppel]]'' : A principle of equity whereby a person is not allowed (is, therefore, estopped) from maintaining or relying upon the existence of a certain state of affairs.  It is often said to be a shield not a sword, ''i.e.,'' to afford a defence to a claim rather than the basis for a claim, but in certain cases the effect of an estoppel is to confer actionable legal rights.  If, for example, a promise is made which is not legally enforceable because there has been no consideration provided for it, and it would be inequitable for the promise to be broken, the promisor may be estopped from reneging on the promise.
+
+; Exhibit : The paper, document, or other physical object received by the court as evidence during a trial.
+
+; ''[[Ex parte]]'' : By or for one party without notification of nor representation on behalf of other parties.  A variant is ''ex parte on notice'' where the other party has received informal or short notice, but not formal or full notice.  When an application is made ex parte the other side is not heard, and there is therefore an obligation of full and frank disclosure on the part of the applicant in order to present a fair picture to the Court being asked to make any decision.
+
+; Express authority : An employee who is hired by agreement (oral or written) is an agent and has been given express authority to act on behalf of the business. That authority, however, may be limited; an express contract specifies the limitations of an agent's authority.
+
+==F==
+; [[felony|Felony]] : A serious [[crime]], which is punishable by imprisonment of at least one year, or by execution, or by fine or both fine and imprisonment.  It is distinguished from a [[misdemeanor]] as the maximum imprisonment for a misdemeanour is less than one year.
+
+; fixed-price contract : A [[contract]] which is framed in such a way that, when the [[general contractor|contractor]] finishes the agreed-upon work, it will only receive the pre-arranged compensation, regardless of what their costs were.  The compensation is usually based on the expected expense of completing the work, plus a pre-arranged amount, so that the contractor can earn a [[profit]] instead of breaking even.  If the contractor is able to complete the work under-budget, those savings become extra profit.  Going over-budget, however, reduces the amount of profit realized from the contract and may even result in the contract being a net financial loss, providing strong incentive to minimize expenses.  This is in contrast to a [[cost-plus contract]].
+
+==G==
+; Grantee : A ''grantee'' is a person to whom something is granted.  In a franchise agreement, for example, the party buying the franchise is the grantee.
+
+; Grantor : A ''grantor'' is a person who grants something (typically, rights or real property).  In a franchise agreement, for example, the party selling the franchise is the grantor.
+
+==H==
+
+; [[hearing]] : A proceeding before a court or other decision-making body or officer, such as a government agency, usually shorter and often less formal than a trial.
+
+==I==
+; [[implied authority|Implied authority]] : The implied ability of a person to make a legally binding contract on the behalf of a business or organization, by way of uniform or interaction with the public on behalf of said business/organization.
+
+; [[inadmissible|Inadmissible]] : That which under the established rules of evidence, cannot be admitted or received in court.
+
+; [[in camera|In Camera]] :  In secret. A basic principle of justice is the court open to the public but at times, proceedings may be closed.
+
+; [[indictment|Indictment]] : Written accusation of a grand jury, charging that a person or business committed a crime.
+
+; [[infraction|Infraction]] : An essentially minor violation of law where the penalty upon conviction only consists of monetary forfeiture.  A violation of law which could include imprisonment is a [[crime]].  It is distinguished from a [[misdemeanour]] or a [[felony]] in that the penalty for an infraction cannot include any imprisonment.
+
+; ''[[in loco parentis|In loco parentis]]'' : A person who has custodial/parental responsibility and authority although not actually being a parent (literally: "in place of the parents").  Although this can be established by written contract it is often assumed in common situations; thus a sibling or babysitter may have limited rights to act ''in loco parentis'' until the legal custodial parties (parents etc.) can be contacted.
+
+; ''[[in medias res|In medias res]]'' : Literally, "in the midst of things".
+
+; [[injunction|Injunction]] : Any court order prohibiting some parties from specific actions and/or activities (for example, working for a competitor in breach of duty to an existing employer) on penalty of contempt of court.  It is, in exceptional cases, possible to obtain a mandatory injunction, which is a court order compelling a certain course of action (for example, demolition of an illegal structure) on penalty of contempt of court.
+
+; [[inquest]] : A formal investigation, often held before a jury, especially one into the cause of a death.
+
+; ''[[inter alia|Inter Alia]]'' : "Among other things."  Used in pleadings before a court or opinions of a court. ie. "The defendant claims, inter alia, that the plaintiff fails to establish . . ."
+
+==J==
+
+; [[judge]] : A public official whose duty it is to administer the law, especially by presiding over trials and rendering judgments; a justice.
+
+; [[judicial]] : Of or relating to a court of law, or to the administration of justice.
+
+; [[jurisprudence]]  : Theory and philosophy of law, which determines appropriate goals and methods of justice. 
+
+; ''[[jus terii|Jus tertii]]'' : Literally meaning "rights of a third [person]", is a defence in [[tort]] law against claims of possession such as [[detinue]], or [[Conversion (tort)|conversion]]. It is the acknowledgement of a third party who has better possession than the claimant seeking the action.
+
+; [[judgment proof|Judgement proof]] : TODO
+
+; [[juror]] : A member of a jury.
+
+; [[jury]] : A group of individuals chosen from the general population to hear and decide a case in a court of law.
+
+; [[justice]] : A judge of certain courts. Also capitalized as a title.
+
+==L==
+; [[laches]] : An equitable defence accusing an opposing party of having "sat on its rights"; as a result of this delay, the delaying party is undeserving of equitable relief. It is a form of estoppel for delay.
+
+; [[lawsuit]] : In civil law, a case where two or more people disagree and need a court to help them resolve their differences.
+
+; Libel : An untrue statement published in print and communicated to a third party with the purpose to damage the reputation of another.
+
+; [[litigation]] : The conduct of a lawsuit as opposed to arbitration and other ways alternative dispute resolution.
+
+==M==
+; [[Mareva injunction|''Mareva'' injunction]] : A remedy granted by a court to stop a defendant from dissipating its assets from beyond the courts jurisdiction, so as to frustrate judgement. It is named for the ''Mareva'' case, although it first appeared in the ''Nippon'' case.
+
+; [[Mens Rea]] : Mens rea is the Latin term for "guilty mind" used in the criminal law. The standard common law test of criminal liability is usually expressed in the Latin phrase, actus non facit reum nisi mens sit rea, which means that "the act will not make a person guilty unless the mind is also guilty".
+
+; Miranda Rights : A list of rights that police in the United States must read to suspects in custody before questioning them, pursuant to the Supreme Court decision in [[Miranda v. Arizona]].
+
+; [[misdemeanor|Misdemeanor]] : A less serious [[crime]] which is punishable by a fine, by [[imprisonment]] of one year or less, or by both.  Some jurisdictions classify all violations of law which are less than [[felony|felonies]] as [[misdemeanour]]s, however generally a violation of law which is only punishable by a fine, and which cannot be punished by imprisonment, is considered an [[infraction]] (and not a crime), rather than a misdemeanour.
+
+; Mistrial : Erroneous or invalid trial. Usually declared because of prejudicial error in the proceedings, hung jury, or when the proceedings must be interrupted.
+
+; Motions : Oral or written requests made by a party to an action and brought before a judge prior to, during, or after a trial.
+
+==N==
+; ''Non est factum'' : "It is not (his) deed". A plea that a person who has signed up to a deed or a contract lacked the necessary understanding or intent, and is therefore not bound by the document.  A successful plea would [[void contract|void]] the contract.
+
+==O==
+; Objection : Statement by an attorney in opposition to testimony, or the attempted admission of evidence, and opposing its consideration as evidence.
+
+; Offence : Any accusation of violation of law, whether it is a criminal violation (such as murder) or a non-criminal infraction (such as a [[parking ticket]]).
+
+; On the merits : Describes the ultimate decision or judgement of a case.  A decision ''on the merits'' is a judgement based on the facts, rendered after a full presentation of the evidence has been heard, as opposed to one based on legal technicalities or procedural deficiencies.
+
+==P==
+; Palm tree justice : A pejorative phrase for a pragmatic approach to justice.  Making a decision solely on the particular circumstances on the case rather than delivering justice evenly over all cases in a system.
+
+; Pardon : Legal release from the punishment of a crime.
+
+; [[petitioner]] : Someone who presents a petition to a court.
+
+; [[plaintiff]] : A party bringing a suit in civil law against a defendant; accusers.
+
+; Plea : A statement made by the defendant as to his/her guilt or innocence to the charge made against him or her.
+
+; Plea Bargain : The process by which the accused and the prosecutor negotiate a mutually satisfactory disposition of the case. Such bargains are not binding on the court. 
+
+; [[positive law|Positive law]] : Man-made law, that is, law established by governmental authority, especially that which has been codified into a written form (statutory law).
+
+; [[precedent|Precedent]] : Judicial decision that serves as an example for how to rule in similar cases 
+
+; Precendent : The decision of a case which established principles of law that act as an authority for future cases of a similar nature (term specific to common law).
+
+; Prejudice : The ability of a party whose case has been dismissed to refile it with the court, usually after overcoming the issue that led to its dismissal.  If a case is dismissed ''with prejudice'' it may not be refiled; if it is dismissed ''without prejudice'', the plaintiff (civil) or prosecutor (criminal) is permitted to refile if they so wish.
+
+; ''[[prima facie|Prima facie]]'' : Latin for "At first sight." Self-evident; obvious. A prima facie case is where the plaintiff presents enough evidence to win outright barring any defences or additional evidence presented by the defendant.
+
+; ''Pro hac vice'' : "For this occasion", application by an out-of-state lawyer to represent his or her client.  Since lawyers are licensed by each state independently they must ask for permission of the court to appear in matters before any other state courts.  Permission is generally granted though the details can vary from one jurisdiction to another.
+
+;  ''[[Pro per]]'', ''[[Pro se]]'' : "For self", refers to an individual who represents himself (or herself), without a lawyer, in a court proceeding.
+
+==R==
+; 'R' : ''R'', in reference to a criminal matter in a [[Commonwealth Realm]], means ''Rex'' (The King) or ''Regina'' (The Queen), as such actions are brought in the name of the Monarch; for example, ''[[R v Brown]]''. Case names with the parties reversed usually do not cite 'R' for the Crown - for example, ''[[Dietrich v The Queen]]''.
+
+; Res Ipsa Loquitur : Latin for "the thing speaks for itself". In Torts, it is the doctrine providing that, in some circumstances, the mere fact of an accident's occurrence raises an inference of negligence so as to establish a prima facie case.
+
+; Rappery : the act for one charged with acts of rape and assault upon young women.
+
+; [[respondent]] : Also known as an  ''appellee'', is the party to an appeal in which a lower court judgement is in its favour. The appellee's opponent on appeal is the [[appellant]]. The appellee is required to respond to the petition, oral arguments, and legal briefs of the appellant.
+
+; [[reversible]] [[error]] : An error by the trier of law or the trier of fact or [[malfeasance]] by one of the trying attorneys which results in an [[unfair]] [[trial]].
+
+; ''Rule Nisi'' : An order from a superior court to show cause. That is, the rule is absolute unless one can "show cause" to otherwise.  Same as [[decree nisi|Decree nisi]]
+
+==S==
+; ''[[scenes a faire]]'' : (French) A doctrine in [[copyright law]] whichsome elements from copyright protection on the basis of their being necessitated by external factors or being customary to a given [[genre]].
+
+; [[sentence]] : The decision of a jury; a verdict.
+
+; ''[[sic utere|Sic utere]]'' : Use what is yours in a way that doesn't burden others. 
+
+; ''[[sine die|Sine die]]'' : Indefinitely; literally, "without a date".  Use in relation to adjournments of the Court or of a particular case for an indefinite period.
+
+; ''[[sine qua non|Sine qua non]]'' : Also meaning "But for", generally refers to the test used to establish ''causation in fact''. If the result would not have occurred 'but for' the actions taken by the defendant, then there exist causation.
+
+; [[slander|Slander]] : The tort of making false oral statements damaging to another person's reputation; the oral form of defamation.
+
+;  (The) [[State]]  : The body politic; the government. This meaning is indicated by the definite article: '''The State'''.  
+
+; ''Statutory Declaration'' : A statutory declaration is a written statement declared to be true in the presence of an authorised witness. 
+
+; ''[[sua sponte|Sua Sponte]]'' : Literally: "of its own accord" indicates that the court is addressing an issue that was not raised by any litigants; most often to defer to another [[jurisdiction]] regardless of the litigants' choice. (Also the [[motto]] of the [[United States Army Rangers]])
+
+; [[subpoena]] : Coming from the Latin for "under penalty" (''[[subpoena|sub poena]]''), a subpoena is a court process used to cause a witness to appear and give testimony, commanding him or her to appear before the court or magistrate therein named, at a time therein mentioned, to testify for the party named, under a penalty therein mentioned. This is formally called a subpoena ''ad testificandum,'' to differentiate it from a subpoena ''duces tecum,'' which refers to documents.<p>On proof of service of a subpoena upon the witness, and that he is material, a citation may be issued against him or her for contempt, or (conceivably) a [[bench warrant]] for his or her [[arrest]] may be issued, if he or she neglects to attend as commanded. The equivalent command to a [[defendant]] is a [[summons]].
+
+; ''[[subpoena duces tecum|Subpoena duces tecum]]'' : A court order specifying items that a witness or other party is to bring (''duces'') in hand (''tecum'') or suffer penalty (''sub poena'')
+
+; [[summons]] : A notice summoning someone to appear in court, as a defendant, juror or witness.
+
+==T==
+; [[testimony]] : Statements made by a witness in court.
+
+; [[tort]] : A civil wrong (as opposed to a criminal wrong), which may be either intentional or accidental.  If someone is driving and hits an unoccupied parked car, they commit a tort in that they have caused a wrong to another party which does not rise to the level of a [[crime]].  If they fail to stop at the scene of the accident, they also commit a ''crime'', which is a criminal wrong in addition to, and separate from the tort.
+
+; [[tortfeasor]] : The title given to an actor who commits a [[tort]].
+
+; [[trial]] : An appearance at judicial court.
+
+; [[tribunal]]: An assembly including one or more judges to conduct judicial business; a court of law.
+
+==U==
+; Under Seal : A procedure allowing sensitive or [[confidential information]] to be filed with a court without becoming a matter of public record. The court generally must give permission for the material to remain under seal.
+
+; Uphold : To maintain.
+
+==V==
+; [[venue|Venue]] : Neighbourhood, neighbouring place; synonymous with place of trial. It refers to the possible or proper place(s) for trial of a suit, as among several places where jurisdiction could be established.
+
+; [[verdict]] : A decision on an issue of fact in a civil or criminal case or an inquest.
+
+; ''[[versus|Versus]]'' : Against or opposed to, the abbreviation ''v.'' usually used in case names (for example: ''[[w:McCulloch v. Maryland|McCulloch v. Maryland]]''). In Commonwealth countries such as England and Australia, it is usually read as 'and' in civil matters  (''[[w:Strickland v Rocla Concrete Pipes Ltd|Strickland v Rocla Concrete Pipes Ltd]]'' would be ''Strickland 'and' Rocla Concrete Pipes Ltd'') and 'against' in criminal matters (''[[w:Dietrich v R|Dietrich v R ]]'' would be ''Dietrich 'against' The Queen (R)''). In the United States, it is often read as ''vee'', pronouncing the letter itself.
+
+==W==
+
+; [[witness]] : Someone called to give evidence in a court.
+
+==See also==
+* [[Appendix:Legal terms]]
+
+==External links==
+''This article incorporates in part, text from [http://www.constitution.org/bouv/bouvier.htm Bouvier's Law Dictionary, 1856 Edition], which is now in the [[public domain]].''
+
+[[Category:Law]]
+[[Category:Glossaries|Legal terms]]

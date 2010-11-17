@@ -1,0 +1,1 @@
+http://en.wiktionary.org/wiki/Category:Glossaries

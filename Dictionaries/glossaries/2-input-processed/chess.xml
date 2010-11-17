@@ -1,0 +1,410 @@
+<dictionary title="Chess terms" lang="en">
+	<entry><word>active</word><definition>Describes a piece that is able to move or control many squares.  See also #P|passive.</definition></entry>
+
+	<entry><word>adjournment</word><definition>Suspension of a long chess game with the intention to continue later, usually on another day.</definition></entry>
+
+	<entry><word>adjust</word><definition>or j'adoube: To adjust the position of a piece on its square without being required to move it.  Adjustment can only be done when it is the player's move and the adjustment is preceded by speaking I adjust or j'adoube.</definition></entry>
+
+	<entry><word>Alekhine's gun</word><definition>A formation in which a queen backs up two rooks on the same file.</definition></entry>
+
+	<entry><word>algebraic chess notation</word><definition>or algebraic notation: A way of recording a chess game using alphanumeric codes for the squares.</definition></entry>
+
+	<entry><word>annotation</word><definition>Commentary on a game using a combination of written comments, chess symbols or notation.</definition></entry>
+
+	<entry><word>arbiter</word><definition>A tournament official who arbitrates disputes and performs other duties such as keeping the score when players are under time pressure.</definition></entry>
+
+	<entry><word>Armageddon</word><definition>A game which White must win to win the match, but which Black only needs to draw to win the match. White has more time than black: the discrepancy can vary, but in FIDE World Championships, White has six minutes, Black five. Typically used in playoff tie-breakers where shorter blitz games have not resolved the tie.</definition></entry>
+
+	<entry><word>attack</word><definition>An aggressive move or strategy.</definition></entry>
+
+	<entry><word>back rank</word><definition>a player's first #R|rank (the one on which the pieces stand in the initial array); White's back rank is Black's eighth rank and vice versa.</definition></entry>
+
+	<entry><word>back rank mate</word><definition>A checkmate delivered by a rook or queen along a back rank in which the mated king is unable to move up the board because the king is blocked by friendly pieces (usually pawns) on the second rank.</definition></entry>
+
+	<entry><word>backward pawn</word><definition>A pawn that is behind the pawns of the same color on the adjacent files and that cannot be advanced with the support of another pawn.</definition></entry>
+
+	<entry><word>bad bishop</word><definition>A bishop which is hemmed in by pawns of its own color.</definition></entry>
+
+	<entry><word>battery</word><definition>Two or more pieces of the same color supporting each other on the same #F|file, #R|rank or #D|diagonal.  There are three main types: queen and rook, queen and bishop, and two rooks.</definition></entry>
+
+	<entry><word>Bishop</word><definition>Image:Chess bishop icon.png see bishop (chess)|bishop</definition></entry>
+
+	<entry><word>Bishops on opposite colors</word><definition>A situation in which one side has only its light-squared bishop remaining while the other has only its dark-squared bishop remaining.  In endgames, this often results in a draw if there are no other pieces (only pawns), even if one side has one or two pawns extra, since the bishops control different squares; in the middlegame, however, the presence of opposite colored bishops imbalances the game and can lead to mating attacks, since each bishop attacks squares that cannot be covered by the other.</definition></entry>
+
+	<entry><word>Bishop pair</word><definition>In open positions, two bishops are considered to have an advantage over two knights or a knight and a bishop.  (In closed positions knights may be more valuable than bishops.)  The player with two bishops is said to have the bishop pair.</definition></entry>
+
+	<entry><word>Bishop pawn</word><definition>A pawn on the bishop's file, i.e. the c-file or f-file.</definition></entry>
+
+	<entry><word>black</word><definition>the designation for the player who moves second, even though the corresponding chess piece|pieces, referred to as "the black pieces," are sometimes literally some other (usually dark) color.</definition></entry>
+
+	<entry><word>Black squares</word><definition>the 32 dark-colored squares on the chessboard, such as (in Algebraic chess notation|algebraic notation) a1 and h8.  A balck square is always located at a players left hand coner.</definition></entry>
+
+	<entry><word>Blindfold chess</word><definition>A form of chess in which one or both players is not allowed to see the board.</definition></entry>
+
+	<entry><word>Blitz chess</word><definition>A form of chess with a very small time limit, usually 3 or 5 minutes per player for the entire game. With the advent of electronic chess clocks, it is often the case that the time remaining is incremented by 1 or 2 seconds per move.</definition></entry>
+
+	<entry><word>blunder</word><definition>A very bad move, an oversight (indicated by "punctuation (chess)|??" in notation).</definition></entry>
+
+	<entry><word>blockade</word><definition>A strategic placement of a minor piece directly in front of an enemy pawn, where it restrains the pawn's advance and gains shelter from attack. Blockading pieces are often #O|overprotected.</definition></entry>
+
+	<entry><word>book move</word><definition>An #O|opening move found in the standard reference books on opening theory.  A game is said to be "in book" when both players are playing moves found in the opening references.  A game is said to be "out of book" when the players have reached the end of the #V|variations analyzed in the opening books or if one of the players deviates with a #N|novelty (or a #B|blunder).</definition></entry>
+
+	<entry><word>break</word><definition>A pawn advance or capture, that opens up a blocked position.</definition></entry>
+
+	<entry><word>breakthrough</word><definition>see Break</definition></entry>
+
+	<entry><word>brilliancy</word><definition>A spectacular and beautiful game of chess, generally featuring sacrificial attacks and unexpected moves.  Brilliancies are not always required to feature sound play or the best moves by either side.</definition></entry>
+
+	<entry><word>brilliancy prize</word><definition>A prize awarded at some tournaments for the best brilliancy played in the tournament. </definition></entry>
+
+	<entry><word>Bughouse Chess</word><definition>A chess variant played with teams of two or more.</definition></entry>
+
+	<entry><word>Bullet chess</word><definition>A form of chess in which each side has less than 3 minutes for the entire game.</definition></entry>
+
+	<entry><word>calculate</word><definition>To carefully plan a series of moves while considering possible responses.</definition></entry>
+
+	<entry><word>candidate move</word><definition>A move that seems good upon initial observation of the position, and that warrants further analysis.</definition></entry>
+
+	<entry><word>capture</word><definition>Remove the opponent's piece or pawn from the board by taking it with one's own piece or pawn. Except in the case of an en passant capture, the capturing piece or pawn does so by occupying the same square that the captured piece or pawn occupied.</definition></entry>
+
+	<entry><word>castling</word><definition>A special move involving the king and one rook.</definition></entry>
+
+	<entry><word>centralization</word><definition>Moving a piece or pieces toward the center of the board. In general, pieces are best placed in or near the center of the board because they control a large number of squares and are available for play on either flank as needed.  Because of their limited mobility, knights in particular benefit from being centralized. There are several chess aphorisms referring to this principle:  "A knight on the rim is dim" (or "grim" instead of "dim") and "A knight on the side cannot abide."</definition></entry>
+
+	<entry><word>centre</word><definition>The four squares in the middle of the board.</definition></entry>
+
+	<entry><word>Central pawn</word><definition>A pawn on the king's file or queen's file, i.e. on the d-file or e-file. </definition></entry>
+
+	<entry><word>checkmate</word><definition>A position in which a player's king is in check and the player has no legal move (i.e cannot move out of check). A player whose king is checkmated loses the game.</definition></entry>
+
+	<entry><word>Closed game</word><definition>Any chess opening that leaves the players few open files or diagonals. They often begin with the moves 1.d4 d5.  See also #O|Open game and #S|Semi-open game. Called such because these openings tend to restrict tactical interplay of line pieces, leading to a more positional game during the opening and early middle game. See also #P|Positional game.</definition></entry>
+
+	<entry><word>Combination (chess)|Combination</word><definition>A clever sequence of moves, often involving a sacrifice, to gain the advantage.  The moves of the other player are usually forced, i.e. a combination does not give the opponent too many possible lines of continuation.</definition></entry>
+
+	<entry><word>Passed pawn|Connected Passed Pawns</word><definition>Passed pawns on adjacent files. These are considered to be unusually powerful (often worth a minor piece or rook if on the sixth or above and not properly blockaded) because they can advance together.  Also see connected pawns.</definition></entry>
+
+	<entry><word>Cook</word><definition>An unintended solution or sequence of moves that spoils a chess problem. This may be either a second, unintended solution to the problem, or an unanticipated defense that shows that the problem has no solution at all.  </definition></entry>
+
+	<entry><word>counterattack</word><definition>An attack that responds to an attack by the other player.</definition></entry>
+
+	<entry><word>Cover</word><definition>To protect a piece or control a square.  For example, to checkmate a king on the side of the board, the five squares adjacent to the king must all be covered.</definition></entry>
+
+	<entry><word>Deflect</word><definition>To cause a piece to move to a less suitable square.  Typically used in the context of a combination or attack, where the deflected piece is critical to the defense.</definition></entry>
+
+	<entry><word>Desperado piece</word><definition>A chess piece|piece that seems determined to give itself up, typically either to bring about Stalemate#Desperado piece|stalemate or to sell itself as dearly as possible in a situation where both sides have Chess terminology#H|hanging pieces.</definition></entry>
+
+	<entry><word>Develop</word><definition>In the opening, moving a piece from its original square to make it more active.  To redevelop a piece means to move it to a better square after it has already been developed.</definition></entry>
+
+	<entry><word>Diagonal</word><definition>A line of squares of the same colour, along which a queen or bishop can move.</definition></entry>
+
+	<entry><word>Discovered attack</word><definition>An attack made by a queen, rook or bishop when another piece or pawn moves out of its way.</definition></entry>
+
+	<entry><word>Discovered check</word><definition>A check delivered by a piece when another piece or pawn has moved out of its way.</definition></entry>
+
+	<entry><word>Domination (chess)|Domination</word><definition>A situation whereby capture of a piece is unavoidable despite it having wide freedom of movement. Usually occurs in chess problems.</definition></entry>
+
+	<entry><word>Double attack</word><definition>Two attacks made with one move: these attacks may be made by the same piece (in which case it is a fork (chess)|fork); or by different pieces (a situation which may arise via a discovered attack in which the moved piece also makes a threat). The attacks may directly threaten opposing pieces, or may be threats of another kind: for instance, to capture the queen and deliver checkmate.</definition></entry>
+
+	<entry><word>double check|Double check</word><definition>A check delivered by two pieces at the same time. A double check necessarily involves a discovered check.</definition></entry>
+
+	<entry><word>Doubled pawns</word><definition>A pair of pawns of the same color on the same #F|file.</definition></entry>
+
+	<entry><word>Doubled rooks</word><definition>Two of a player's rooks placed on the same (open) #F|file or #R|rank.  This is a #B|battery of rooks.</definition></entry>
+
+	<entry><word>Draw (chess)|Draw</word><definition>A game that ends without victory for either player.  Most drawn games are draws by agreement.  The other ways that a game can end in a draw are #S|stalemate, #T|three-fold repetition, the #F|fifty-move rule, and #I|insufficient material. A position is said to be a draw (or a drawn position) if either player can, through correct play, eventually force the game into a position where the game must end in a draw, regardless of the moves made by the other player.</definition></entry>
+
+	<entry><word>Duffer</word><definition>A weak chess player, also referred to as a "fish" or "patzer."</definition></entry>
+
+	<entry><word>En passant</word><definition>("in the act of passing" ; derived from French language|French): The rule that allows a pawn that has just advanced two squares to be captured by a pawn on the same rank and adjacent file.</definition></entry>
+
+	<entry><word>En prise</word><definition>(from French): A piece that can be captured. Usually used of a piece that is undefended and can be captured.</definition></entry>
+
+	<entry><word>Endgame</word><definition>The stage of the game when there are few pieces left on the board.  The endgame follows the #M|middlegame.</definition></entry>
+
+	<entry><word>Endgame tablebase</word><definition>A computerized database of endgames with up to 7 pieces, providing perfect play for both players, and thus completely solving those endgames.</definition></entry>
+
+	<entry><word>Epaulette mate</word><definition>A checkmate position where the king is blocked on both sides by his own rooks.</definition></entry>
+
+	<entry><word>Equalize</word><definition>To create a position where the players have equal chances of winning (referred to as "equality").  In opening theory, since White has the advantage of the first move, lines that equalize are relatively good for Black and bad for White.</definition></entry>
+
+	<entry><word>Exchange</word><definition>The capture of a pair of pieces, one white and the other black, usually of the same type (i.e rook for rook, knight for knight etc). </definition></entry>
+	<entry><word>Exchange</word><definition>The advantage of a rook over a minor piece. The player who captures a rook while losing a minor piece is said to have won the exchange, and the opponent is said to have lost the exchange.</definition></entry>
+
+	<entry><word>Exchange sacrifice</word><definition>Giving up a rook for a minor piece (knight or bishop).</definition></entry>
+
+	<entry><word>Expanded centre</word><definition>the central sixteen squares on the board.</definition></entry>
+
+	<entry><word>Family fork</word><definition>A knight fork that attacks more than two opposing pieces concomitantly.</definition></entry>
+
+	<entry><word>Fianchetto</word><definition>The development of the bishop to the second square on the file of the adjacent knight (that is, b2 or g2 for white, b7 or g7 for black). It usually occurs after moving the pawn on that file ahead one square (or perhaps two).</definition></entry>
+
+	<entry><word>File</word><definition>A column of the chessboard.  A specific file can be named either using its position in Algebraic chess notation|algebraic notation, a&amp;ndash;h, or by using its position in descriptive chess notation|descriptive notation.  For example, the f-file or the king bishop file comprises the squares f1&amp;ndash;f8 or KB1&amp;ndash;KB8.</definition></entry>
+
+	<entry><word>Fifty move rule</word><definition>A modern rule which provides that the game is drawn after fifty moves from each side without a pawn move or capture. </definition></entry>
+
+	<entry><word>Fish</word><definition>A weak chess player, also referred to as a "patzer" or "duffer."</definition></entry>
+
+	<entry><word>Flight square</word><definition>A square to which a piece can move, which allows it to escape attack.</definition></entry>
+
+	<entry><word>Fool's mate</word><definition>The shortest possible chess game ending in mate: 1. f3 e5 2. g4 Qh4# (or minor variations on this).</definition></entry>
+
+	<entry><word>Forced move</word><definition>A move which is clearly the only one which does not result in immediate catastrophe for the moving player. </definition></entry>
+
+	<entry><word>Fork (chess)|Fork</word><definition>When one piece, generally a knight or pawn, simultaneously attacks two (or more) of the opponent's pieces, often specifically called a knight fork when the attacker is a knight. Some sources state that only a knight can give a fork and that the term double attack is correct when another piece is involved, but this is by no means a universal usage.</definition></entry>
+
+	<entry><word>Fortress (chess)|Fortress</word><definition>A fortress is a position that, if obtained by the weaker side, will prevent the opposing side from penetration, this generally resulting in a draw (which the weaker side is seeking).</definition></entry>
+
+	<entry><word>gambit|Gambit</word><definition>A sacrifice (usually of a pawn) in the chess opening|opening.</definition></entry>
+
+	<entry><word>Good bishop</word><definition>A bishop which has high mobility, typically because the player's pawns are on squares of color opposite to that of the bishop.</definition></entry>
+
+	<entry><word>International_Grandmaster|Grandmaster</word><definition>The highest title a chess player can attain (besides World Champion).  When used precisely, it is the title awarded by Federation Internationale des Echecs|FIDE, but it can be used to describe someone of comparable ability.  The term International Grandmaster or IGM would refer only to the FIDE title.</definition></entry>
+
+	<entry><word>Half-open file</word><definition>A file on which only one player has no pawns.</definition></entry>
+
+	<entry><word>Hanging</word><definition>Unprotected and exposed to capture. Slang for #E|en prise.  To "hang a piece" is to lose it by failing to move or protect it.</definition></entry>
+
+	<entry><word>Hanging pawns</word><definition>Two friendly pawns abreast without friendly pawns on adjacent #F|files.  Hanging pawns can be either a strength (usually because they can advance) or a weakness (because they can't be defended by pawns) depending on circumstances.</definition></entry>
+
+	<entry><word>Hole</word><definition>A square that a player does not, and cannot in future, control with a friendly pawn. The definition is somewhat subjective: the square must have some positional significance for the opponent to be considered a hole - squares on the first and second ranks are not holes. On the other hand a square is a hole even if it can be controlled in the future with a pawn that has made a capture. An example of the hole is the square e4 in the Stonewall Attack.</definition></entry>
+
+	<entry><word>Initiative</word><definition>The advantage that a player who is making threats has over the player who must respond to them.  The attacking player is said to "have the initiative".  s/he can often turn the play as s/he wills.  Initiative is often resulted from advantage in time and sometimes space.  The notion of the initative was introduced by J.R. Capablanca.</definition></entry>
+
+	<entry><word>Indian bishop</word><definition>A #F|fianchettoed bishop, characteristic of the Indian defenses (King's Indian Defence|King's Indian Defense and Queen's Indian Defense).</definition></entry>
+
+	<entry><word>Insufficient material</word><definition>An endgame scenario in which all pawns have been captured, and one side has only its king remaining while the other is down to just a king or a king plus one knight or one bishop.  The position is a draw because it is impossible for the dominant side to deliver checkmate regardless of play.  Situations where checkmate is possible only if the inferior side blunders are covered by the fifty-move rule.</definition></entry>
+
+	<entry><word>Interpose</word><definition>To move a piece between an attacking piece and its target, blocking the line of attack.  Interposing a piece is one of the three possible responses to a check, the others being to move the king or capture the attacking piece.</definition></entry>
+
+	<entry><word>Isolani</word><definition>refers to a d-Pawn with no Pawns of the same color on the adjacent c- and e-files, and is a synonym for 'Isolated Queen's Pawn'.  The term was coined by Aron_Nimzovitch|Nimzovitch, who considered the isolani as a weapon of attack in the middle game but an endgame weakness; he considered the problem of #H|hanging pawns to be related.</definition></entry>
+
+	<entry><word>Isolated pawn</word><definition>A pawn with no pawn of the same color on an adjacent file.</definition></entry>
+
+	<entry><word>Italian bishop</word><definition>A White bishop developed to the Algebraic chess notation|c4 square or a Black bishop developed to Algebraic chess notation|c5.  This development is characteristic of the Italian Game, 1.e4 e5 2.Nf3 Nc6 3.Bc4, particularly the Giuoco Piano, 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5, where both players have Italian bishops. Likewise, "Italian" may be used as an adjective denoting an opening where one or both players has an Italian bishop, such as after 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bc4, the Italian Four Knights Game.</definition></entry>
+
+	<entry><word>J'adoube</word><definition>(from French): "I adjust".  A player says "J'adoube" as the international signal that he intends to adjust the position of a piece on the board without being subject to the #T|touched piece rule.</definition></entry>
+
+	<entry><word>Key square</word><definition>An important square.</definition></entry>
+	<entry><word>Key square</word><definition>(Pawn endings) A square whose occupation by one side's king guarantees the achievement of a certain goal, such as the win of a pawn. </definition></entry>
+
+	<entry><word>Kibitz</word><definition>As a spectator, making comments on a chess game that can be heard by the players.  Kibitzing on a serious game while it is in progress (rather than during a post-mortem) is a breach of etiquette.</definition></entry>
+
+	<entry><word>Kick</word><definition>Attacking a piece, typically by a pawn, so that it will move.</definition></entry>
+
+	<entry><word>King</word><definition>Image:Chess king icon.png see king (chess)|king</definition></entry>
+
+	<entry><word>King Bishop</word><definition>The bishop that was on the king-side at the start of the game.  The terms King Knight and King Rook are also used.</definition></entry>
+
+	<entry><word>King hunt</word><definition>A sustained attack on the enemy king that results in the king being driven a far distance from its initial position, typically resulting in its checkmate. Some of the most famous games featuring king hunts are Edward Lasker#Illustrative game|Edward Lasker-Thomas, Rashid Nezhmetdinov#Illustrative games|Polugaevsky-Nezhmetdinov, and [http://www.chessgames.com/perl/chessgame?gid=1011478 Kasparov-Topalov].</definition></entry>
+
+	<entry><word>King pawn</word><definition>A pawn on the king's file, i.e. the e-file.</definition></entry>
+
+	<entry><word>Kingside</word><definition>The side of the board where the kings are at the start of the game, as opposed to the queenside.</definition></entry>
+
+	<entry><word>Knight</word><definition>Image:Chess knight icon.png see knight (chess)|knight</definition></entry>
+
+	<entry><word>Knight pawn</word><definition>A pawn on the knight's file, i.e. the b-file or g-file.</definition></entry>
+
+	<entry><word>Lightning chess</word><definition>A form of chess with an extremely small time limit, usually 1 or 2 minutes per player for the entire game.</definition></entry>
+
+	<entry><word>Line</word><definition>A sequence of moves, usually in the opening or in analyzing a position.</definition></entry>
+	<entry><word>Line</word><definition>An open path for a piece (Queen, Rook, or Bishop) to move or control squares.</definition></entry>
+
+	<entry><word>Long diagonal</word><definition>One of the two diagonals with eight squares (a1-h8 or h1-a8).</definition></entry>
+
+	<entry><word>Luft</word><definition>(from the German for air): space made for a #C|castled king to give it a flight square to prevent a #B|back rank mate.  Usually luft is made by moving a pawn on the second #R|rank in front of the king.</definition></entry>
+
+	<entry><word>Main line</word><definition>the principal, most important, or most often played variation of an opening or piece of analysis. For example, 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 0-0 6.Be2 e5 7.0-0 Nc6 8.d5 Ne7 is often referred to as the main line of the King's Indian Defense.</definition></entry>
+
+	<entry><word>Major piece</word><definition>A queen (chess)|queen or rook (chess)|rook.</definition></entry>
+
+	<entry><word>Majority</word><definition>a larger numbers of pawns on one flank opposed by a smaller number of the opponent's; often a player with a majority on one flank has a minority on the other.</definition></entry>
+
+	<entry><word>Mate</word><definition>Short for #C|checkmate.</definition></entry>
+
+	<entry><word>Material</word><definition>All of a player's pieces and pawns on the board. The player with pieces and pawns of greater value is said to have a "material advantage".  When a player gains a material advantage they are also said to be "making material".</definition></entry>
+
+	<entry><word>Middlegame</word><definition>The part of a chess game that follows the #O|opening and comes before the #E|endgame, beginning after the pieces are developed in the opening.  This is usually roughly moves 20 through 40.</definition></entry>
+
+	<entry><word>Minor exchange</word><definition>The exchange of a bishop for a knight.</definition></entry>
+
+	<entry><word>Minor piece</word><definition>A bishop (chess)|bishop or knight (chess)|knight.</definition></entry>
+
+	<entry><word>Minority attack</word><definition>An advance of pawn (chess)|pawns on the side of the board where one has fewer pawns than the opponent, usually carried out to provoke a weakness.</definition></entry>
+
+	<entry><word>Mobility</word><definition>The ability of a piece, or of a player's pieces collectively, to move around the board.</definition></entry>
+
+	<entry><word>Mobile pawn center</word><definition>Being able to move pawns around central squares without weakening one's position.</definition></entry>
+
+	<entry><word>Move order</word><definition>The sequence of moves one chooses to play an opening or execute a plan. Different move orders often have different advantages and disadvantages. For example, 1.d4 Nf6 2.Nf3 avoids the Budapest Defense (2.c4 e5!?), but makes it impossible for White to play the Samisch Variation (2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3) or Four Pawns Attack (5.f4) against the King's Indian Defense, and to transpose to certain lines of the Nimzo-Indian Defense and Queen's Gambit Declined, Exchange variation where the knight goes to e2 instead of f3. ((See transposition (chess).)</definition></entry>
+
+	<entry><word>Norm</word><definition>A performance at a chess tournament that indicates a player is ready to receive a title, or the level of performance needed.  In addition to other requirements, a certain number of norms is generally required to earn a title.  See International Grandmaster and International Master.</definition></entry>
+
+	<entry><word>Novelty</word><definition>A new move in the opening.  Sometimes called a "theoretical novelty" or "TN."</definition></entry>
+
+	<entry><word>Open file</word><definition>A file on which there are no pawns. A file on which only one player has no pawns is said to be half-open.</definition></entry>
+
+	<entry><word>Open game</word><definition>Any chess opening that leads to positions with a number of open lines. They often begin with the moves 1.e4 e5 (which is also called a Double King Pawn opening).  See also #C|closed game and #S|semi-open game.</definition></entry>
+
+	<entry><word>Opening</word><definition>The beginning moves of the game, roughly the first 10-20 moves.  In the opening players set up their #P|pawn structures and develop their pieces.  The opening precedes the #M|middle game.  See Chess opening.</definition></entry>
+
+	<entry><word>Opposite color bishops</word><definition>See Bishops of opposite color.</definition></entry>
+
+	<entry><word>Opposition (chess)|Opposition</word><definition>A situation in which two kings stand on the same rank, file or diagonal with one empty square between them. The player to move may be forced to move the king to a less advantageous square. Opposition is a particularly important concept in endgames.</definition></entry>
+
+	<entry><word>Outside_passed_pawn|Outside passed pawn</word><definition>A passed pawn that is near the edge of the board and far away from other pawns. In the endgame, such a pawn often constitutes a strong advantage for its owner.</definition></entry>
+
+	<entry><word>Overextended</word><definition>A position where a player has moved a piece or group of pieces (usually pawns) away from the rest in such a way that they are too difficult to defend.</definition></entry>
+
+	<entry><word>Overloading (chess)|Overloaded</word><definition>A piece that has too many defensive duties.  An overloaded piece can sometimes be #D|deflected, or required to abandon one of its defensive duties.</definition></entry>
+
+	<entry><word>Overprotection</word><definition>The technique of massing forces in support of a strong point, often a #B|Blockade. </definition></entry>
+
+	<entry><word>Overworked</word><definition>Another term for Overloaded.</definition></entry>
+
+	<entry><word>passive</word><definition>A piece that is able to move to or control relatively few squares.  See also #A|active.</definition></entry>
+
+	<entry><word>passed pawn</word><definition>A pawn that has no pawn of the opposite color on its file or on any adjacent files on its way to queening.</definition></entry>
+
+	<entry><word>passer</word><definition>A Passed pawn.</definition></entry>
+
+	<entry><word>Patzer</word><definition>A weak chess player, also referred to as a "fish" or "duffer."  (German language|German: patzen, to bungle.)</definition></entry>
+
+	<entry><word>pawn</word><definition>Image:Chess pawn icon.png each player starts with 8 pawns</definition></entry>
+
+	<entry><word>Pawn chain</word><definition>A locked diagonal formation of pawns, each one supported by a friendly pawn diagonally behind and blocked by an enemy pawn directly ahead. Nimzovich considered pawn chains extensively, and recommended attacking the enemy pawn chain at its base -- as in the Advance variation of the French defence 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 c4. See pawn structure.</definition></entry>
+
+	<entry><word>Pawn island</word><definition>A group of pawns of one color on consecutive files with no other pawns of the same color on any adjacent files.  A pawn island consisting of one pawn is called an isolated pawn.</definition></entry>
+
+	<entry><word>Pawn storm</word><definition>An attacking technique where a group of pawns on one wing is advanced in order to break up the defense.</definition></entry>
+
+	<entry><word>Pawn structure</word><definition>Pawns being the least mobile of the pieces and the only pieces unable to move backwards, the position of the pawns influences the character of the game. The placement of the pawns is known as the pawn structure.</definition></entry>
+
+	<entry><word>perpetual check</word><definition>A draw forced by one player putting the opponent's king in a potentially endless series of checks.</definition></entry>
+
+	<entry><word>chess piece|Piece</word><definition>This term can mean either any chess piece including pawns (as in the #T|touched piece rule), or a #M|minor piece (as in "I #H|hung a piece"), depending on context.  It can also mean a #M|major or minor piece, as in "White needs to get some pieces to the #K|kingside".</definition></entry>
+
+	<entry><word>Pin (chess)|Pin</word><definition>When a piece can not move because doing so would expose a valuable piece, usually the king or queen, to attack.  Pins against the king are called absolute because it is then illegal to move the pinned piece.  </definition></entry>
+
+	<entry><word>Plan</word><definition>A strategy used by a chess player to make optimal use of his advantages in a specific position while minimizing the impact of his positional disadvantages.</definition></entry>
+
+	<entry><word>Poisoned Pawn</word><definition>An unprotected pawn which, if captured, causes positional problems or material loss.  It is also a #V|variation of the Sicilian Defense, where some players call White's pawn on b2 a poisoned pawn.</definition></entry>
+
+	<entry><word>Positional play</word><definition>Play dominated more by long-term maneuvering for advantage than by short-term attacks and threats, and requiring judgment more than extensive calculation of variations, as distinguished from tactics.</definition></entry>
+
+	<entry><word>Positional player</word><definition>A player who specializes in positional play, as distinguished from a tactician.</definition></entry>
+
+	<entry><word>Post-mortem</word><definition>Analysis of a game after it has concluded, typically conducted by one or both players and sometimes spectators (kibitzers) as well. </definition></entry>
+
+	<entry><word>Promotion (chess)|Promotion</word><definition>Advancing a pawn to the eighth rank, converting it to a queen, rook, bishop or knight. Promotion to a piece other than a queen is called underpromotion.</definition></entry>
+
+	<entry><word>Prophylaxis (chess)|Prophylaxis</word><definition>a move that frustrates an opponent's plan or tactic</definition></entry>
+	<entry><word>Prophylaxis (chess)|Prophylaxis</word><definition>a strategy in which a player frustrates tactics initiated by the opponent until a mistake is made</definition></entry>
+
+	<entry><word>protected</word><definition>passed pawn: A passed pawn that is supported by another pawn.</definition></entry>
+
+	<entry><word>push</word><definition>To move a pawn forward.</definition></entry>
+
+	<entry><word>queen (chess)|Queen</word><definition>Image:Chess queen icon.png Also used as a verb for the act of queening, e.g. "... to queen the pawn".</definition></entry>
+
+	<entry><word>Queen Bishop</word><definition>The bishop that was on the queenside at the start of the game.  The terms Queen Knight and Queen Rook are also used.</definition></entry>
+
+	<entry><word>Queen pawn</word><definition>A pawn on the queen's file, i.e. the d-file.</definition></entry>
+
+	<entry><word>Queenside</word><definition>The side of the board where the queens are at the start of the game, as opposed to the kingside.</definition></entry>
+
+	<entry><word>Queening</word><definition>Promotion to a queen. Also called Promotion. Rarely used to indicate promotion to a knight, rook, or bishop as well (underpromotion).</definition></entry>
+
+	<entry><word>quiet move|Quiet Move</word><definition>A move which does not attack or capture an enemy piece.</definition></entry>
+
+	<entry><word>rank</word><definition>A row of the chessboard.  Specific ranks are referred to by number, first rank, second rank, …, eighth rank.  Unlike the case with #F|files, rank names are always given from the point of view of each individual player.  White's first rank is Black's eighth rank and White's eighth is Black's first, White's second rank is Black's seventh rank and White's seventh is Black's second, and so on. </definition></entry>
+
+	<entry><word>Rapid chess</word><definition>A form of chess with reduced time limit, usually 30 minutes per player.</definition></entry>
+
+	<entry><word>refute</word><definition>Demonstrate that a strategy, move, or opening is not as good as previously thought (often, that it leads to a loss).</definition></entry>
+
+	<entry><word>resign</word><definition>To concede loss of the game.  A resignation is usually indicated by stopping the clocks, and sometimes by offering a handshake or saying "I resign". The traditional way to resign is by tipping over one's king, but this is rarely done nowadays.</definition></entry>
+
+	<entry><word>rook</word><definition>Image:Chess rook icon.png see rook</definition></entry>
+
+	<entry><word>rook pawn</word><definition>A pawn on the rook's file, i.e. the a-file or h-file.</definition></entry>
+
+	<entry><word>Sacrifice (chess)|Sacrifice</word><definition>When one player voluntaily gives up material in return for an advantage such as space, development, or an attack.  A sacrifice in the #O|opening is called a #G|gambit.</definition></entry>
+
+	<entry><word>Scholar's mate</word><definition>A four-move checkmate (common among novices) in which White plays 1. e4, follows with Qh5 (or Qf3) and Bc4, and finishes with 4. Qxf7#.</definition></entry>
+
+	<entry><word>Score</word><definition>A record of the moves of a particular game, usually expressed in #A|algebraic notation.</definition></entry>
+
+	<entry><word>Second</word><definition>An assistant, often hired to help a player in preparation for and during a major match or tournament.</definition></entry>
+
+	<entry><word>Semi-open game</word><definition>Any chess opening that results in some open lines, but not many. Often begins with White playing 1.e4 and Black playing a move other than 1...e5 (which are also called Half-open or Asymmetrical King Pawn openings.)  See also #O|Open game and #C|Closed game.</definition></entry>
+
+	<entry><word>Simplification</word><definition>A strategy of exchanging pieces of equal value.  This strategy might be used defensively to reduce the size of the attacking force, or to amplify a material advantage. Also trading.</definition></entry>
+
+	<entry><word>Simultaneous exhibition|Simultaneous chess</word><definition>A form of chess in which one (usually expert) player plays against several (usually novice) players simultaneously. Is often an exhibition.</definition></entry>
+
+	<entry><word>Skewer (chess)|Skewer</word><definition>An attack to a valuable piece, compelling it to move to avoid capture and thus exposing a less valuable piece which can then be taken.  Sometimes called a Thrust.</definition></entry>
+
+	<entry><word>Smothered mate</word><definition>A checkmate delivered by a knight (chess)|knight in which the mated king is unable to move owing to it being surrounded (or smothered) by its own pieces. </definition></entry>
+
+	<entry><word>Space</word><definition>The squares controlled by a player.  A player controlling more squares than the other is said to have a spatial advantage.</definition></entry>
+
+	<entry><word>Spanish bishop</word><definition>A White king bishop developed to the Algebraic chess notation|b5 square.  This is characteristic of the Ruy Lopez, also known as the Spanish Opening.</definition></entry>
+
+	<entry><word>stalemate|Stalemate</word><definition>A position in which the player whose turn it is to move has no legal move and his king is not in check. A stalemate results in an immediate draw.</definition></entry>
+
+	<entry><word>Swindle (chess)|Swindle</word><definition>A ruse by which a player in a losing position tricks his opponent, and thereby achieves a win or draw instead of the expected loss. It may also refer more generally to achieving a win or draw from a clearly losing position.</definition></entry>
+
+	<entry><word>Tabia</word><definition>The initial position of the pieces in Shatranj</definition></entry>
+	<entry><word>Tabia</word><definition>The final position of a well-known chess opening</definition></entry>
+	<entry><word>Tabia</word><definition>The opening position from which two players familiar with each others' tastes begin play.</definition></entry>
+
+	<entry><word>Tactician</word><definition>A player who specializes in tactical play, as distinguished from a "positional player."</definition></entry>
+
+	<entry><word>Chess tactics|Tactics</word><definition>Play characterized by short-term attacks and threats, often requiring extensive calculation by the players, as distinguished from positional play.</definition></entry>
+
+	<entry><word>takeback</word><definition>Used in casual games when both players agree to undo one or more moves.</definition></entry>
+
+	<entry><word>tempo</word><definition>An extra move, an initiative at development. A player gains a tempo (usually in the opening) by making the opponent move the same piece twice or defend an enemy piece. In the endgame, one may wish to lose a tempo by triangulation to gain against the opposition.  (Plural: tempi).</definition></entry>
+
+	<entry><word>Theoretical Novelty (TN)</word><definition>A new move in the opening.  Also called simply a "novelty."</definition></entry>
+
+	<entry><word>threefold repetition</word><definition>The game is drawn if the same position occurs three times with the same player to move, and with each player having the same set of legal moves each time (the latter includes the right to take en passant and the right to castle).</definition></entry>
+
+	<entry><word>Thrust</word><definition>See Skewer above.</definition></entry>
+
+	<entry><word>time</word><definition>Opportunities to make moves.  A move that does not alter the position significantly is described as "wasting time", and forcing the other player to waste time is described as "gaining time".</definition></entry>
+
+	<entry><word>zeitnot</word><definition>Having very little time on one's game clock|clock (especially less than five minutes) to complete one's remaining moves.  See Time control.</definition></entry>
+
+	<entry><word>touched piece rule/touch move rule</word><definition>The rule requiring a player who touches a piece that has at least one legal move to move that piece (and, if the player moves the piece to a particular square and takes her hand off it, to move it to that square). Castling must be initiated by moving the king first, so a player who touches his rook may be required to move it, without castling. The rule also requires a player who touches an opponent's piece to capture it if possible.  A player wishing to touch a piece to adjust its position on a square without being required to move it signals this intent by saying "#J|J'adoube" or "I adjust".</definition></entry>
+
+	<entry><word>transposition (chess)|Transposition</word><definition>Arriving at a position using a different sequence of moves.</definition></entry>
+
+	<entry><word>trebuchet</word><definition>a position of mutual zugzwang in which either player would lose if it is his turn to move.</definition></entry>
+
+	<entry><word>triangulation</word><definition>A technique used in king and pawn endgames (less commonly seen with other pieces) to lose a tempo and gain the opposition.</definition></entry>
+
+	<entry><word>underpromotion</word><definition>#P|Promoting a pawn to a rook, bishop, or knight instead of a queen.  Rarely seen unless the knight can deliver a crucial check, or promotion to a rook instead of a queen is necessary to avoid stalemate.</definition></entry>
+
+	<entry><word>Variation</word><definition>An opening strategy that is a subset of another.  For an example, see the Sicilian Defense, Dragon Variation|Dragon Variation of the Sicilian Defense.</definition></entry>
+
+	<entry><word>weak square</word><definition>A square that cannot be easily defended from attack by an opponent.  Often a weak square is unable to be defended by pawns (a #H|hole).  Exchange or loss of a bishop may make all squares of that bishop's color weak resulting in a "weak square complex" on the light squares or the dark squares.</definition></entry>
+
+	<entry><word>White</word><definition>the designation for the player who moves first, even though the corresponding chess piece|pieces, referred to as "the white pieces," are sometimes literally some other (usually light) color.</definition></entry>
+
+	<entry><word>White squares</word><definition>the 32 light-colored squares on the chessboard, such as (in algebraic notation) h1 and a8.</definition></entry>
+
+	<entry><word>Win/winning position</word><definition>a position is said to be a win (or a winning position) if one specified side, with correct play, can eventually force a checkmate against any defence (i.e. perfect defence).</definition></entry>
+
+	<entry><word>Wing Gambit</word><definition>is the name given to the branches of several openings in which one player gambits a wing pawn, usually the b pawn</definition></entry>
+
+	<entry><word>X-ray (chess)|X-ray attack</word><definition>The threat of a piece to move through a square presently occupied by an enemy piece.</definition></entry>
+
+	<entry><word>Zeitnot</word><definition>(from the German): see Time pressure above.</definition></entry>
+
+	<entry><word>Zugzwang</word><definition>(from the German): When a player is put at a disadvantage by having to make a move; where any legal move weakens the position.  Usually occurs in the #E|endgame, and rarely in the #M|middlegame. </definition></entry>
+
+	<entry><word>zwischenzug|Zwischenzug</word><definition>(from the German): An "in-between" move played before the expected reply.  Often used to force the opponent into Zugzwang.</definition></entry>
+
+</dictionary>
